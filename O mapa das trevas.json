@@ -266,6 +266,70 @@
         "name": "Assets\\Cenário\\Terrain (32x32).png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/bg/BG Image.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\bg\\BG Image.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/bg/Additional Water.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\bg\\Additional Water.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/bg/Additional Sky.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\bg\\Additional Sky.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/Reflexo da água/Water Reflect Big 01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\Reflexo da água\\Water Reflect Big 01.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/Reflexo da água/Water Reflect Big 02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\Reflexo da água\\Water Reflect Big 02.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/Reflexo da água/Water Reflect Big 03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\Reflexo da água\\Water Reflect Big 03.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/Reflexo da água/Water Reflect Big 04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\Reflexo da água\\Water Reflect Big 04.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/bg/Big Clouds.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\bg\\Big Clouds.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -288,7 +352,7 @@
       "title": "",
       "v": 209,
       "uiSettings": {
-        "grid": true,
+        "grid": false,
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
@@ -296,8 +360,8 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": true,
-        "zoomFactor": 0.8582582499559311,
+        "snap": false,
+        "zoomFactor": 1.6660158869266726,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -690,6 +754,122 @@
           "x": 1632,
           "y": 96,
           "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 128,
+          "keepRatio": true,
+          "layer": "ceu",
+          "name": "ceu",
+          "persistentUuid": "dc61dbcc-756f-4702-a8a8-14b3c28f3b6e",
+          "width": 448,
+          "x": 0,
+          "y": 64,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "ceu",
+          "name": "agua_adicional",
+          "persistentUuid": "eadb2d2b-4130-4256-9c84-bd976090448e",
+          "width": 448,
+          "x": 0,
+          "y": 192,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "ceu",
+          "name": "ceu_adicional",
+          "persistentUuid": "1ac731c4-0234-4fa1-bc6f-b55a46816703",
+          "width": 448,
+          "x": 0,
+          "y": 0,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "ceu",
+          "name": "brilho_agua",
+          "persistentUuid": "28dfaea7-2945-4d61-9190-f6a0a4bf2845",
+          "width": 0,
+          "x": 128,
+          "y": 150,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "ceu",
+          "name": "brilho_agua",
+          "persistentUuid": "7bfdb32e-5e1e-4db4-bbf2-b01fb0e08cc8",
+          "width": 0,
+          "x": -32,
+          "y": 150,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "ceu",
+          "name": "brilho_agua",
+          "persistentUuid": "a5ff618d-69d5-4970-bf07-a79f9e6edc5d",
+          "width": 0,
+          "x": 310,
+          "y": 150,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 101,
+          "keepRatio": true,
+          "layer": "nuvens",
+          "name": "nuvens",
+          "persistentUuid": "ccb56397-fb00-4591-a653-f3f9e1a4806d",
+          "width": 445,
+          "x": 1,
+          "y": 49,
+          "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1525,6 +1705,218 @@
             "tileSize": 32,
             "tilesWithHitBox": ""
           }
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "ceu",
+          "texture": "Assets\\Cenário\\bg\\BG Image.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "agua_adicional",
+          "texture": "Assets\\Cenário\\bg\\Additional Water.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "ceu_adicional",
+          "texture": "Assets\\Cenário\\bg\\Additional Sky.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "brilho_agua",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Cenário\\Reflexo da água\\Water Reflect Big 01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 170,
+                            "y": 0
+                          },
+                          {
+                            "x": 170,
+                            "y": 10
+                          },
+                          {
+                            "x": 0,
+                            "y": 10
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Cenário\\Reflexo da água\\Water Reflect Big 02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 170,
+                            "y": 0
+                          },
+                          {
+                            "x": 170,
+                            "y": 10
+                          },
+                          {
+                            "x": 0,
+                            "y": 10
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Cenário\\Reflexo da água\\Water Reflect Big 03.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 170,
+                            "y": 0
+                          },
+                          {
+                            "x": 170,
+                            "y": 10
+                          },
+                          {
+                            "x": 0,
+                            "y": 10
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Cenário\\Reflexo da água\\Water Reflect Big 04.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 170,
+                            "y": 0
+                          },
+                          {
+                            "x": 170,
+                            "y": 10
+                          },
+                          {
+                            "x": 0,
+                            "y": 10
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "nuvens",
+          "texture": "Assets\\Cenário\\bg\\Big Clouds.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "objectsFolderStructure": {
@@ -1534,6 +1926,12 @@
             "objectName": "Jack"
           },
           {
+            "objectName": "ceu"
+          },
+          {
+            "objectName": "agua_adicional"
+          },
+          {
             "objectName": "bloco_solido"
           },
           {
@@ -1541,6 +1939,15 @@
           },
           {
             "objectName": "tilemap_ilha"
+          },
+          {
+            "objectName": "ceu_adicional"
+          },
+          {
+            "objectName": "brilho_agua"
+          },
+          {
+            "objectName": "nuvens"
           }
         ]
       },
@@ -1627,6 +2034,34 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "MOVIMENTO DAS NUVENS"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TiledSpriteObject::XOffset"
+              },
+              "parameters": [
+                "nuvens",
+                "+",
+                "0.2"
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -1640,7 +2075,73 @@
           "cameraType": "",
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": true,
+          "name": "ceu",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
           "isLocked": false,
+          "name": "nuvens",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": true,
           "name": "tileset",
           "renderingType": "",
           "visibility": true,
