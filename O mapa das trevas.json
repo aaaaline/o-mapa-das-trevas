@@ -304,8 +304,8 @@
           "name": "Jack",
           "persistentUuid": "f4043880-374c-4101-a410-5d10cf3c2761",
           "width": 0,
-          "x": 192,
-          "y": 96,
+          "x": 32,
+          "y": 192,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -332,7 +332,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 288,
+          "height": 320,
           "keepRatio": true,
           "layer": "",
           "name": "bloco_solido",
@@ -388,8 +388,8 @@
           "layer": "",
           "name": "bloco_solido",
           "persistentUuid": "96ce9270-f08e-4514-b7a6-c9615ac7a83a",
-          "width": 160,
-          "x": 352,
+          "width": 128,
+          "x": 320,
           "y": 160,
           "zOrder": 2,
           "numberProperties": [],
@@ -405,8 +405,8 @@
           "layer": "",
           "name": "bloco_solido",
           "persistentUuid": "3d9ef650-6de8-4210-abd5-bf61428e7f81",
-          "width": 128,
-          "x": 608,
+          "width": 96,
+          "x": 512,
           "y": 128,
           "zOrder": 2,
           "numberProperties": [],
@@ -422,8 +422,8 @@
           "layer": "",
           "name": "bloco_solido",
           "persistentUuid": "609646e5-1079-4794-8c2e-3275e51f1dd0",
-          "width": 352,
-          "x": 864,
+          "width": 96,
+          "x": 1120,
           "y": 224,
           "zOrder": 2,
           "numberProperties": [],
@@ -502,7 +502,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 320,
+          "height": 288,
           "keepRatio": true,
           "layer": "",
           "name": "bloco_solido",
@@ -511,6 +511,140 @@
           "x": 2496,
           "y": -32,
           "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bloco_solido",
+          "persistentUuid": "6164d27f-f50e-4dca-8fd2-28f56819ce09",
+          "width": 96,
+          "x": 704,
+          "y": 192,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bloco_atravessavel",
+          "persistentUuid": "45aae7ff-1d2a-4f27-9e3a-0a668f3221d7",
+          "width": 64,
+          "x": 2080,
+          "y": 160,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bloco_solido",
+          "persistentUuid": "6c2fafe8-10f8-4051-a956-94def3a72370",
+          "width": 0,
+          "x": 2496,
+          "y": 256,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 96,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bloco_solido",
+          "persistentUuid": "f82b97e2-6f71-47ea-853e-3d5207b94758",
+          "width": 96,
+          "x": 896,
+          "y": 160,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 128,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bloco_solido",
+          "persistentUuid": "8fcb0544-316d-449a-acb7-e2e7546ac796",
+          "width": 96,
+          "x": 1024,
+          "y": 128,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bloco_solido",
+          "persistentUuid": "0ead5dd4-5050-474c-97f6-da0456f67782",
+          "width": 0,
+          "x": 992,
+          "y": 224,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bloco_solido",
+          "persistentUuid": "3e68c56f-b1df-485d-8462-8fac1574f5de",
+          "width": 32,
+          "x": 1440,
+          "y": 192,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bloco_atravessavel",
+          "persistentUuid": "9c81f76c-32cc-4e4a-9e3c-7ea3e351deb5",
+          "width": 96,
+          "x": 1536,
+          "y": 96,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -527,18 +661,18 @@
           "effects": [],
           "behaviors": [
             {
+              "ignoreDefaultControls": false,
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "jumpSpeed": 500,
               "maxFallingSpeed": 550,
               "maxSpeed": 150,
-              "name": "PlatformerObject",
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 1500,
               "canGoDownFromJumpthru": true,
               "canGrabPlatforms": false,
               "canGrabWithoutMoving": true,
               "deceleration": 1500,
               "gravity": 1000,
-              "ignoreDefaultControls": false,
               "jumpSustainTime": 0.2,
               "ladderClimbingSpeed": 150,
               "slopeMaxAngle": 60,
@@ -1376,6 +1510,56 @@
             "includeConfig": 0
           },
           "target": "Jack"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "CÂMERA"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "CentreCamera"
+              },
+              "parameters": [
+                "",
+                "Jack",
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "ClampCamera"
+              },
+              "parameters": [
+                "",
+                "0",
+                "0",
+                "2496",
+                "240",
+                "",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
