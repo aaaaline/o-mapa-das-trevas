@@ -258,6 +258,182 @@
         "name": "Assets\\bloco atravessavel.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/Terrain (32x32).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\Terrain (32x32).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/bg/BG Image.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\bg\\BG Image.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/bg/Additional Water.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\bg\\Additional Water.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/bg/Additional Sky.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\bg\\Additional Sky.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/Reflexo da água/Water Reflect Big 01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\Reflexo da água\\Water Reflect Big 01.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/Reflexo da água/Water Reflect Big 02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\Reflexo da água\\Water Reflect Big 02.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/Reflexo da água/Water Reflect Big 03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\Reflexo da água\\Water Reflect Big 03.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/Reflexo da água/Water Reflect Big 04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\Reflexo da água\\Water Reflect Big 04.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/bg/Big Clouds.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\bg\\Big Clouds.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/Palmeiras do fundo/palmeira 1/Back Palm Tree Left 01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\Palmeiras do fundo\\palmeira 1\\Back Palm Tree Left 01.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/Palmeiras do fundo/palmeira 1/Back Palm Tree Left 02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\Palmeiras do fundo\\palmeira 1\\Back Palm Tree Left 02.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/Palmeiras do fundo/palmeira 1/Back Palm Tree Left 03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\Palmeiras do fundo\\palmeira 1\\Back Palm Tree Left 03.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/Palmeiras do fundo/palmeira 1/Back Palm Tree Left 04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\Palmeiras do fundo\\palmeira 1\\Back Palm Tree Left 04.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/Palmeiras do fundo/Palmeira 2/Back Palm Tree Regular 01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\Palmeiras do fundo\\Palmeira 2\\Back Palm Tree Regular 01.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/Palmeiras do fundo/Palmeira 2/Back Palm Tree Regular 02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\Palmeiras do fundo\\Palmeira 2\\Back Palm Tree Regular 02.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/Palmeiras do fundo/Palmeira 2/Back Palm Tree Regular 03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\Palmeiras do fundo\\Palmeira 2\\Back Palm Tree Regular 03.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/Palmeiras do fundo/Palmeira 2/Back Palm Tree Regular 04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\Palmeiras do fundo\\Palmeira 2\\Back Palm Tree Regular 04.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/Palmeiras da frente/Front Palm Bottom and Grass (32x32).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\Palmeiras da frente\\Front Palm Bottom and Grass (32x32).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/Palmeiras da frente/Front Palm Tree Top 01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\Palmeiras da frente\\Front Palm Tree Top 01.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/Palmeiras da frente/Front Palm Tree Top 02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\Palmeiras da frente\\Front Palm Tree Top 02.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/Palmeiras da frente/Front Palm Tree Top 03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\Palmeiras da frente\\Front Palm Tree Top 03.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Cenário/Palmeiras da frente/Front Palm Tree Top 04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Cenário\\Palmeiras da frente\\Front Palm Tree Top 04.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -280,7 +456,7 @@
       "title": "",
       "v": 209,
       "uiSettings": {
-        "grid": true,
+        "grid": false,
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
@@ -288,8 +464,8 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": true,
-        "zoomFactor": 0.8582582499559311,
+        "snap": false,
+        "zoomFactor": 2.0328132555134077,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -304,8 +480,8 @@
           "name": "Jack",
           "persistentUuid": "f4043880-374c-4101-a410-5d10cf3c2761",
           "width": 0,
-          "x": 192,
-          "y": 96,
+          "x": 32,
+          "y": 192,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -332,7 +508,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 288,
+          "height": 320,
           "keepRatio": true,
           "layer": "",
           "name": "bloco_solido",
@@ -388,8 +564,8 @@
           "layer": "",
           "name": "bloco_solido",
           "persistentUuid": "96ce9270-f08e-4514-b7a6-c9615ac7a83a",
-          "width": 160,
-          "x": 352,
+          "width": 128,
+          "x": 320,
           "y": 160,
           "zOrder": 2,
           "numberProperties": [],
@@ -405,8 +581,8 @@
           "layer": "",
           "name": "bloco_solido",
           "persistentUuid": "3d9ef650-6de8-4210-abd5-bf61428e7f81",
-          "width": 128,
-          "x": 608,
+          "width": 96,
+          "x": 512,
           "y": 128,
           "zOrder": 2,
           "numberProperties": [],
@@ -422,8 +598,8 @@
           "layer": "",
           "name": "bloco_solido",
           "persistentUuid": "609646e5-1079-4794-8c2e-3275e51f1dd0",
-          "width": 352,
-          "x": 864,
+          "width": 96,
+          "x": 1120,
           "y": 224,
           "zOrder": 2,
           "numberProperties": [],
@@ -439,7 +615,7 @@
           "layer": "",
           "name": "bloco_solido",
           "persistentUuid": "58cbcd94-f7c5-4b16-b193-1d3e6d92d800",
-          "width": 224,
+          "width": 256,
           "x": 1216,
           "y": 160,
           "zOrder": 2,
@@ -502,7 +678,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 320,
+          "height": 288,
           "keepRatio": true,
           "layer": "",
           "name": "bloco_solido",
@@ -511,6 +687,1039 @@
           "x": 2496,
           "y": -32,
           "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bloco_solido",
+          "persistentUuid": "6164d27f-f50e-4dca-8fd2-28f56819ce09",
+          "width": 128,
+          "x": 672,
+          "y": 192,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bloco_atravessavel",
+          "persistentUuid": "45aae7ff-1d2a-4f27-9e3a-0a668f3221d7",
+          "width": 64,
+          "x": 2080,
+          "y": 160,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bloco_solido",
+          "persistentUuid": "6c2fafe8-10f8-4051-a956-94def3a72370",
+          "width": 0,
+          "x": 2496,
+          "y": 256,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 96,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bloco_solido",
+          "persistentUuid": "f82b97e2-6f71-47ea-853e-3d5207b94758",
+          "width": 96,
+          "x": 896,
+          "y": 160,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 128,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bloco_solido",
+          "persistentUuid": "8fcb0544-316d-449a-acb7-e2e7546ac796",
+          "width": 96,
+          "x": 1024,
+          "y": 128,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bloco_solido",
+          "persistentUuid": "0ead5dd4-5050-474c-97f6-da0456f67782",
+          "width": 0,
+          "x": 992,
+          "y": 224,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 128,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bloco_solido",
+          "persistentUuid": "3e68c56f-b1df-485d-8462-8fac1574f5de",
+          "width": 32,
+          "x": 1472,
+          "y": 128,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bloco_atravessavel",
+          "persistentUuid": "9c81f76c-32cc-4e4a-9e3c-7ea3e351deb5",
+          "width": 96,
+          "x": 1600,
+          "y": 96,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "tileset",
+          "name": "tilemap_ilha",
+          "persistentUuid": "70568e66-27d0-4263-9c91-e80b48c5bd7b",
+          "width": 0,
+          "x": 0,
+          "y": 32,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":32,\"tileHeight\":32,\"dimX\":78,\"dimY\":8,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,71,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,1,1,2,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,1,2,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,1,2,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,17,18,18,18,1,1,1,1,1,1,2,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,1,1,2,-1,-1,17,18,19,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,1,2,-1,17,18,19,-1,-1,-1,0,1,1,1,1,1,1,1,19,-1,-1,-1,17,18,18,18,18,18,18,18,18,18,19,-1,-1,-1,-1,68,70,-1,-1,0,1,1,1,1,1,1,1,2],[1,1,1,1,1,1,1,2,-1,-1,17,6,7,19,-1,-1,17,18,19,-1,-1,0,1,1,2,-1,-1,-1,17,18,19,-1,17,18,19,-1,-1,-1,17,18,18,18,18,18,18,18,19,-1,-1,-1,17,18,18,18,18,18,18,18,18,18,19,-1,-1,-1,-1,-1,-1,-1,-1,17,18,18,6,7,18,18,6,58],[18,18,18,18,18,18,18,19,-1,-1,17,23,24,19,-1,-1,17,18,19,-1,-1,17,18,18,19,-1,-1,-1,17,18,23,1,24,18,18,1,1,1,24,18,18,18,18,18,18,18,19,-1,-1,66,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,-1,-1,-1,17,18,18,23,24,18,18,23,75],[35,35,35,35,35,35,35,36,-1,-1,34,35,35,36,-1,-1,34,35,36,-1,-1,34,35,35,36,-1,-1,-1,34,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,36,-1,-1,34,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,36,-1,-1,-1,34,35,35,35,35,35,35,35,35]]}]}"
+            }
+          ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "tileset",
+          "name": "bloco_atravessavel",
+          "persistentUuid": "d20729b6-4adb-4a2d-8386-7749815e2720",
+          "width": 0,
+          "x": 1632,
+          "y": 96,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 128,
+          "keepRatio": true,
+          "layer": "ceu",
+          "name": "ceu",
+          "persistentUuid": "dc61dbcc-756f-4702-a8a8-14b3c28f3b6e",
+          "width": 448,
+          "x": 0,
+          "y": 64,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "ceu",
+          "name": "agua_adicional",
+          "persistentUuid": "eadb2d2b-4130-4256-9c84-bd976090448e",
+          "width": 448,
+          "x": 0,
+          "y": 192,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "ceu",
+          "name": "ceu_adicional",
+          "persistentUuid": "1ac731c4-0234-4fa1-bc6f-b55a46816703",
+          "width": 448,
+          "x": 0,
+          "y": 0,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "ceu",
+          "name": "brilho_agua",
+          "persistentUuid": "28dfaea7-2945-4d61-9190-f6a0a4bf2845",
+          "width": 0,
+          "x": 128,
+          "y": 150,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "ceu",
+          "name": "brilho_agua",
+          "persistentUuid": "7bfdb32e-5e1e-4db4-bbf2-b01fb0e08cc8",
+          "width": 0,
+          "x": -32,
+          "y": 150,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "ceu",
+          "name": "brilho_agua",
+          "persistentUuid": "a5ff618d-69d5-4970-bf07-a79f9e6edc5d",
+          "width": 0,
+          "x": 310,
+          "y": 150,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 101,
+          "keepRatio": true,
+          "layer": "nuvens",
+          "name": "nuvens",
+          "persistentUuid": "ccb56397-fb00-4591-a653-f3f9e1a4806d",
+          "width": 445,
+          "x": 1,
+          "y": 49,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_fundo",
+          "name": "palmeira_fundo_1",
+          "persistentUuid": "83cc285d-a93d-4a37-a695-bfbe1ed4b699",
+          "width": 0,
+          "x": 0,
+          "y": 128,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_fundo",
+          "name": "palmeira_fundo_1",
+          "persistentUuid": "0c76c51a-8ceb-405c-ad97-171d16d4f569",
+          "width": 0,
+          "x": 237,
+          "y": 171,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_fundo",
+          "name": "palmeira_fundo_1",
+          "persistentUuid": "251c1891-eacb-47f0-8171-e18d644d6767",
+          "width": 0,
+          "x": 608,
+          "y": 139,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "flippedX": true,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_fundo",
+          "name": "palmeira_fundo_1",
+          "persistentUuid": "d5c017a9-aa74-4fe4-b15b-96688d930d65",
+          "width": 0,
+          "x": 461,
+          "y": 171,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_fundo",
+          "name": "palmeira_fundo_1",
+          "persistentUuid": "d6b3700d-5f7a-4492-b964-bdc11fe645ca",
+          "width": 0,
+          "x": 973,
+          "y": 171,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_fundo",
+          "name": "palmeira_fundo_1",
+          "persistentUuid": "bbf26df5-35b8-4871-8172-f498edafb1cf",
+          "width": 0,
+          "x": 1120,
+          "y": 96,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "flippedX": true,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_fundo",
+          "name": "palmeira_fundo_1",
+          "persistentUuid": "ffafeeeb-3c1e-4378-9e25-2ea6e022add8",
+          "width": 0,
+          "x": 1184,
+          "y": 160,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_fundo",
+          "name": "palmeira_fundo_1",
+          "persistentUuid": "b175ac8e-c6d4-4670-87d7-7eaa69e0d150",
+          "width": 0,
+          "x": 1485,
+          "y": 107,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "flippedX": true,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_fundo",
+          "name": "palmeira_fundo_1",
+          "persistentUuid": "6b416970-c981-4ac5-9f38-a66181002bca",
+          "width": 0,
+          "x": 1568,
+          "y": 160,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "flippedX": true,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_fundo",
+          "name": "palmeira_fundo_1",
+          "persistentUuid": "a8532fb5-e159-46d7-9a71-63d593e5a82e",
+          "width": 0,
+          "x": 2157,
+          "y": 139,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_fundo",
+          "name": "palmeira_fundo_2",
+          "persistentUuid": "126dceeb-44d9-43de-bd3c-30610f681573",
+          "width": 0,
+          "x": 96,
+          "y": 128,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_fundo",
+          "name": "palmeira_fundo_2",
+          "persistentUuid": "4e1fbb90-45a9-4297-b0dd-ba8948899b87",
+          "width": 0,
+          "x": 320,
+          "y": 96,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_fundo",
+          "name": "palmeira_fundo_2",
+          "persistentUuid": "34e4e75b-ce2b-4096-b722-bbadfbb8d7ea",
+          "width": 0,
+          "x": 384,
+          "y": 128,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_fundo",
+          "name": "palmeira_fundo_2",
+          "persistentUuid": "c142832c-0733-4c8e-80db-8e934c3b764c",
+          "width": 0,
+          "x": 704,
+          "y": 128,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_fundo",
+          "name": "palmeira_fundo_2",
+          "persistentUuid": "00a7e5e4-a3b3-472b-9cf8-1dc144409e78",
+          "width": 0,
+          "x": 896,
+          "y": 128,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_fundo",
+          "name": "palmeira_fundo_2",
+          "persistentUuid": "dfd89848-9417-4a8f-8d60-bc783261f864",
+          "width": 0,
+          "x": 1024,
+          "y": 64,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_fundo",
+          "name": "palmeira_fundo_2",
+          "persistentUuid": "21ad3947-911d-4bfa-aa19-63381900165b",
+          "width": 0,
+          "x": 1248,
+          "y": 96,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_fundo",
+          "name": "palmeira_fundo_2",
+          "persistentUuid": "339fcd05-d1d8-448b-8e17-3a776b96256d",
+          "width": 0,
+          "x": 1376,
+          "y": 128,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_fundo",
+          "name": "palmeira_fundo_2",
+          "persistentUuid": "61dcc10d-c007-4f47-ad18-f6f741daf8f2",
+          "width": 0,
+          "x": 1600,
+          "y": 32,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_fundo",
+          "name": "palmeira_fundo_2",
+          "persistentUuid": "fe4fcc6e-5d76-4f7d-9dcc-2279f021da88",
+          "width": 0,
+          "x": 1728,
+          "y": 64,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_fundo",
+          "name": "palmeira_fundo_2",
+          "persistentUuid": "b39a1dc6-9c64-4cb8-adc7-f615c7b52761",
+          "width": 0,
+          "x": 1952,
+          "y": 160,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_fundo",
+          "name": "palmeira_fundo_1",
+          "persistentUuid": "b9b04940-957f-4933-a5ea-d5fb4334fa34",
+          "width": 0,
+          "x": 1933,
+          "y": 107,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_fundo",
+          "name": "palmeira_fundo_2",
+          "persistentUuid": "05ff7681-2843-44b0-bc8c-bcdcfe230e39",
+          "width": 0,
+          "x": 1824,
+          "y": 96,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_fundo",
+          "name": "palmeira_fundo_2",
+          "persistentUuid": "ae9373e2-8dfe-4d22-8023-0c72478b35a1",
+          "width": 0,
+          "x": 2336,
+          "y": 96,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "flippedX": true,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_fundo",
+          "name": "palmeira_fundo_1",
+          "persistentUuid": "65e7e610-5add-4eea-9f61-a6a66c5d6757",
+          "width": 0,
+          "x": 2445,
+          "y": 75,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_fundo",
+          "name": "palmeira_fundo_2",
+          "persistentUuid": "3f73a8eb-bb72-4181-bb7b-3f77d9ab3b86",
+          "width": 0,
+          "x": 672,
+          "y": 128,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_fundo",
+          "name": "palmeira_fundo_2",
+          "persistentUuid": "ab2fe895-bc63-4ae6-8321-a817f68781a5",
+          "width": 0,
+          "x": 736,
+          "y": 128,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_frente",
+          "name": "tileset_palmeiras",
+          "persistentUuid": "9f0071e2-1d2f-4256-b5d3-e839c7fcd62e",
+          "width": 0,
+          "x": -64,
+          "y": 32,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":32,\"tileHeight\":32,\"dimX\":85,\"dimY\":8,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,-1,-1,-1,-1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,-1,-1,0,-1,-1,-1,-1,0,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,-1,-1,0,-1,-1,-1,-1],[-1,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,-1,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,-1,-1,0,-1,-1,-1,-1,0,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,-1,-1,-1,-1,0,-1,-1,0,-1,0,-1,0],[-1,0,-1,-1,0,-1,-1,0,-1,-1,-1,-1,-1,-1,0,-1,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,-1,-1,0,-1,-1,-1,-1,0,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,0,-1,-1,-1,-1,0,-1,-1,0,-1,0,-1,0],[0,0,-1,-1,0,-1,-1,0,-1,-1,-1,-1,-1,-1,0,-1,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,-1,-1,0,-1,-1,-1,-1,0,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,0,-1,-1,-1,-1,0,-1,-1,0,-1,0,-1,0],[0,0,-1,-1,0,-1,-1,0,-1,-1,-1,-1,-1,-1,3,-1,-1,-1,-1,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3,-1,-1,5,-1,-1,-1,-1,1,-1,-1,-1,3,-1,-1,-1,-1,-1,-1,-1,-1,-1,5,-1,-1,-1,3,-1,-1,-1,-1,-1,-1,3,-1,-1,-1,-1,-1,-1,3,-1,-1,-1,-1,3,-1,-1,3,-1,3,-1,5],[0,-1,-1,-1,3,-1,-1,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]}]}"
+            }
+          ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_frente",
+          "name": "copa_palmeira_frente",
+          "persistentUuid": "f18caa2d-556d-4919-8700-62dc6eb8752a",
+          "width": 0,
+          "x": 59,
+          "y": 96,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_frente",
+          "name": "copa_palmeira_frente",
+          "persistentUuid": "c1544211-8ce2-4624-974f-9e8a4e172ebf",
+          "width": 0,
+          "x": -37,
+          "y": 128,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_frente",
+          "name": "copa_palmeira_frente",
+          "persistentUuid": "2518a935-a439-4fbc-91cd-3d11bdc2f8a4",
+          "width": 0,
+          "x": -68,
+          "y": 161,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_frente",
+          "name": "copa_palmeira_frente",
+          "persistentUuid": "e48a4832-2301-4d23-8315-7dd176bdd2d0",
+          "width": 0,
+          "x": 155,
+          "y": 128,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_frente",
+          "name": "copa_palmeira_frente",
+          "persistentUuid": "de5203b9-4294-4eb1-91c6-baab67ba2a2b",
+          "width": 0,
+          "x": 380,
+          "y": 96,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_frente",
+          "name": "copa_palmeira_frente",
+          "persistentUuid": "2aac2aaf-a88f-4cbe-921f-ba6e415b381d",
+          "width": 0,
+          "x": 540,
+          "y": 33,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_frente",
+          "name": "copa_palmeira_frente",
+          "persistentUuid": "89e6ad33-7a35-4a8a-b3b3-45533ec76d5f",
+          "width": 0,
+          "x": 956,
+          "y": 64,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_frente",
+          "name": "copa_palmeira_frente",
+          "persistentUuid": "2b9f246b-142b-43ea-a994-82fa60db912b",
+          "width": 0,
+          "x": 1051,
+          "y": 64,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_frente",
+          "name": "copa_palmeira_frente",
+          "persistentUuid": "1363de6c-1f80-41f7-be36-2ea31885aa5e",
+          "width": 0,
+          "x": 1211,
+          "y": 33,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_frente",
+          "name": "copa_palmeira_frente",
+          "persistentUuid": "f01f52aa-f4c6-4c19-9152-210c5a4955c4",
+          "width": 0,
+          "x": 1339,
+          "y": 64,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_frente",
+          "name": "copa_palmeira_frente",
+          "persistentUuid": "f7f5ceb7-f1e3-45c5-97e1-2b7ed1a4456d",
+          "width": 0,
+          "x": 1659,
+          "y": 32,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_frente",
+          "name": "copa_palmeira_frente",
+          "persistentUuid": "cea36b00-b7b4-47fb-b5c5-a877296a8063",
+          "width": 0,
+          "x": 1787,
+          "y": 0,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_frente",
+          "name": "copa_palmeira_frente",
+          "persistentUuid": "4e12ea91-7ffd-4f81-b3d3-415d6a6826be",
+          "width": 0,
+          "x": 2011,
+          "y": 128,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_frente",
+          "name": "copa_palmeira_frente",
+          "persistentUuid": "dcbeefca-c039-4d75-b1a8-f79361a9bd26",
+          "width": 0,
+          "x": 2235,
+          "y": 97,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_frente",
+          "name": "copa_palmeira_frente",
+          "persistentUuid": "3cb3c14e-3cd6-4210-ba41-c95b43afcaa8",
+          "width": 0,
+          "x": 2396,
+          "y": 64,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_frente",
+          "name": "copa_palmeira_frente",
+          "persistentUuid": "1b21d908-0230-48d8-9d72-66c0faa919fb",
+          "width": 0,
+          "x": 2492,
+          "y": 32,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_frente",
+          "name": "copa_palmeira_frente",
+          "persistentUuid": "60ca25e6-206b-443d-af15-01e6c47ba195",
+          "width": 0,
+          "x": 2556,
+          "y": 96,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "palmeiras_frente",
+          "name": "copa_palmeira_frente",
+          "persistentUuid": "0340a9fa-022b-457b-b226-d7db90ed469f",
+          "width": 0,
+          "x": 2620,
+          "y": 97,
+          "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -527,18 +1736,18 @@
           "effects": [],
           "behaviors": [
             {
+              "ignoreDefaultControls": false,
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "jumpSpeed": 500,
               "maxFallingSpeed": 550,
               "maxSpeed": 150,
-              "name": "PlatformerObject",
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 1500,
               "canGoDownFromJumpthru": true,
               "canGrabPlatforms": false,
               "canGrabWithoutMoving": true,
               "deceleration": 1500,
               "gravity": 1000,
-              "ignoreDefaultControls": false,
               "jumpSustainTime": 0.2,
               "ladderClimbingSpeed": 150,
               "slopeMaxAngle": 60,
@@ -1316,8 +2525,8 @@
         {
           "assetStoreId": "",
           "height": 32,
-          "name": "NewTiledSprite",
-          "texture": "",
+          "name": "bloco_atravessavel",
+          "texture": "Assets\\bloco atravessavel.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
@@ -1334,20 +2543,747 @@
         },
         {
           "assetStoreId": "",
+          "name": "tilemap_ilha",
+          "type": "TileMap::SimpleTileMap",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "atlasImage": "Assets\\Cenário\\Terrain (32x32).png",
+            "rowCount": 5,
+            "columnCount": 17,
+            "tileSize": 32,
+            "tilesWithHitBox": ""
+          }
+        },
+        {
+          "assetStoreId": "",
           "height": 32,
-          "name": "bloco_atravessavel",
-          "texture": "Assets\\bloco atravessavel.png",
+          "name": "ceu",
+          "texture": "Assets\\Cenário\\bg\\BG Image.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
           "effects": [],
-          "behaviors": [
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "agua_adicional",
+          "texture": "Assets\\Cenário\\bg\\Additional Water.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "ceu_adicional",
+          "texture": "Assets\\Cenário\\bg\\Additional Sky.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "brilho_agua",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
             {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": false,
-              "platformType": "Jumpthru",
-              "yGrabOffset": 0
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Cenário\\Reflexo da água\\Water Reflect Big 01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 170,
+                            "y": 0
+                          },
+                          {
+                            "x": 170,
+                            "y": 10
+                          },
+                          {
+                            "x": 0,
+                            "y": 10
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Cenário\\Reflexo da água\\Water Reflect Big 02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 170,
+                            "y": 0
+                          },
+                          {
+                            "x": 170,
+                            "y": 10
+                          },
+                          {
+                            "x": 0,
+                            "y": 10
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Cenário\\Reflexo da água\\Water Reflect Big 03.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 170,
+                            "y": 0
+                          },
+                          {
+                            "x": 170,
+                            "y": 10
+                          },
+                          {
+                            "x": 0,
+                            "y": 10
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Cenário\\Reflexo da água\\Water Reflect Big 04.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 170,
+                            "y": 0
+                          },
+                          {
+                            "x": 170,
+                            "y": 10
+                          },
+                          {
+                            "x": 0,
+                            "y": 10
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "nuvens",
+          "texture": "Assets\\Cenário\\bg\\Big Clouds.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "palmeira_fundo_1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Cenário\\Palmeiras do fundo\\palmeira 1\\Back Palm Tree Left 01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 50,
+                            "y": 0
+                          },
+                          {
+                            "x": 50,
+                            "y": 53
+                          },
+                          {
+                            "x": 0,
+                            "y": 53
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Cenário\\Palmeiras do fundo\\palmeira 1\\Back Palm Tree Left 02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 50,
+                            "y": 0
+                          },
+                          {
+                            "x": 50,
+                            "y": 53
+                          },
+                          {
+                            "x": 0,
+                            "y": 53
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Cenário\\Palmeiras do fundo\\palmeira 1\\Back Palm Tree Left 03.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 50,
+                            "y": 0
+                          },
+                          {
+                            "x": 50,
+                            "y": 53
+                          },
+                          {
+                            "x": 0,
+                            "y": 53
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Cenário\\Palmeiras do fundo\\palmeira 1\\Back Palm Tree Left 04.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 50,
+                            "y": 0
+                          },
+                          {
+                            "x": 50,
+                            "y": 53
+                          },
+                          {
+                            "x": 0,
+                            "y": 53
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "palmeira_fundo_2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Cenário\\Palmeiras do fundo\\Palmeira 2\\Back Palm Tree Regular 01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 14,
+                            "y": 0
+                          },
+                          {
+                            "x": 51,
+                            "y": 0
+                          },
+                          {
+                            "x": 51,
+                            "y": 64
+                          },
+                          {
+                            "x": 14,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Cenário\\Palmeiras do fundo\\Palmeira 2\\Back Palm Tree Regular 02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 14,
+                            "y": 0
+                          },
+                          {
+                            "x": 51,
+                            "y": 0
+                          },
+                          {
+                            "x": 51,
+                            "y": 64
+                          },
+                          {
+                            "x": 14,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Cenário\\Palmeiras do fundo\\Palmeira 2\\Back Palm Tree Regular 03.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 14,
+                            "y": 0
+                          },
+                          {
+                            "x": 51,
+                            "y": 0
+                          },
+                          {
+                            "x": 51,
+                            "y": 64
+                          },
+                          {
+                            "x": 14,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Cenário\\Palmeiras do fundo\\Palmeira 2\\Back Palm Tree Regular 04.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 14,
+                            "y": 0
+                          },
+                          {
+                            "x": 51,
+                            "y": 0
+                          },
+                          {
+                            "x": 51,
+                            "y": 64
+                          },
+                          {
+                            "x": 14,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "tileset_palmeiras",
+          "type": "TileMap::SimpleTileMap",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "atlasImage": "Assets\\Cenário\\Palmeiras da frente\\Front Palm Bottom and Grass (32x32).png",
+            "rowCount": 3,
+            "columnCount": 3,
+            "tileSize": 32,
+            "tilesWithHitBox": ""
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "copa_palmeira_frente",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Cenário\\Palmeiras da frente\\Front Palm Tree Top 01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 38,
+                            "y": 0
+                          },
+                          {
+                            "x": 38,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Cenário\\Palmeiras da frente\\Front Palm Tree Top 02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 38,
+                            "y": 0
+                          },
+                          {
+                            "x": 38,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Cenário\\Palmeiras da frente\\Front Palm Tree Top 03.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 38,
+                            "y": 0
+                          },
+                          {
+                            "x": 38,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Cenário\\Palmeiras da frente\\Front Palm Tree Top 04.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 38,
+                            "y": 0
+                          },
+                          {
+                            "x": 38,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
@@ -1359,13 +3295,40 @@
             "objectName": "Jack"
           },
           {
+            "objectName": "ceu"
+          },
+          {
+            "objectName": "agua_adicional"
+          },
+          {
             "objectName": "bloco_solido"
           },
           {
-            "objectName": "NewTiledSprite"
+            "objectName": "bloco_atravessavel"
           },
           {
-            "objectName": "bloco_atravessavel"
+            "objectName": "tilemap_ilha"
+          },
+          {
+            "objectName": "ceu_adicional"
+          },
+          {
+            "objectName": "brilho_agua"
+          },
+          {
+            "objectName": "nuvens"
+          },
+          {
+            "objectName": "palmeira_fundo_1"
+          },
+          {
+            "objectName": "palmeira_fundo_2"
+          },
+          {
+            "objectName": "tileset_palmeiras"
+          },
+          {
+            "objectName": "copa_palmeira_frente"
           }
         ]
       },
@@ -1376,6 +3339,168 @@
             "includeConfig": 0
           },
           "target": "Jack"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "CÂMERA"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "CentreCamera"
+              },
+              "parameters": [
+                "",
+                "Jack",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CentreCamera"
+              },
+              "parameters": [
+                "",
+                "Jack",
+                "",
+                "\"tileset\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CentreCamera"
+              },
+              "parameters": [
+                "",
+                "Jack",
+                "",
+                "\"palmeiras_fundo\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "ClampCamera"
+              },
+              "parameters": [
+                "",
+                "0",
+                "0",
+                "2496",
+                "240",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ClampCamera"
+              },
+              "parameters": [
+                "",
+                "0",
+                "0",
+                "2496",
+                "240",
+                "\"tileset\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ClampCamera"
+              },
+              "parameters": [
+                "",
+                "0",
+                "0",
+                "2496",
+                "240",
+                "\"palmeiras_fundo\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ClampCamera"
+              },
+              "parameters": [
+                "",
+                "0",
+                "0",
+                "2496",
+                "240",
+                "\"palmeiras_frente\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetCameraCenterX"
+              },
+              "parameters": [
+                "",
+                "=",
+                "CameraCenterX()*1.2",
+                "\"palmeiras_frente\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "MOVIMENTO DAS NUVENS"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TiledSpriteObject::XOffset"
+              },
+              "parameters": [
+                "nuvens",
+                "+",
+                "0.2"
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -1389,7 +3514,139 @@
           "cameraType": "",
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
-          "isLocked": false,
+          "isLocked": true,
+          "name": "ceu",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": true,
+          "name": "nuvens",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": true,
+          "name": "palmeiras_fundo",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": true,
+          "name": "tileset",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": true,
           "name": "",
           "renderingType": "",
           "visibility": true,
@@ -1405,6 +3662,39 @@
               "width": 0
             }
           ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "palmeiras_frente",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
           "effects": [
             {
               "effectType": "Scene3D::HemisphereLight",
@@ -1465,6 +3755,49 @@
       "associatedLayout": "Cena sem título",
       "name": "Jack",
       "events": [
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "OCULTAR BLOCOS"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "bloco_solido"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "bloco_atravessavel"
+              ]
+            }
+          ]
+        },
         {
           "type": "BuiltinCommonInstructions::Comment",
           "color": {
