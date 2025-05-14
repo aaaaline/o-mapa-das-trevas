@@ -442,6 +442,70 @@
         "name": "Assets\\Objetos\\Armadilhas\\Spikes.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/caranguejo/Correndo/Run 01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 01.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/caranguejo/Correndo/Run 02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 02.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/caranguejo/Correndo/Run 03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 03.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/caranguejo/Correndo/Run 04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 04.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/caranguejo/Correndo/Run 05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 05.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/caranguejo/Correndo/Run 06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 06.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Sistema/trigger direita.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Sistema\\trigger direita.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Sistema/trigger esquerda.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Sistema\\trigger esquerda.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -488,6 +552,17 @@
           "objects": [
             {
               "name": "armadilha_espinhos"
+            }
+          ]
+        },
+        {
+          "name": "triggers",
+          "objects": [
+            {
+              "name": "trigger_direita"
+            },
+            {
+              "name": "trigger_esquerda"
             }
           ]
         }
@@ -1861,6 +1936,54 @@
           "x": 992,
           "y": 224,
           "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Karkinos",
+          "persistentUuid": "385856af-3e89-4a7e-8f18-c2454cd1e467",
+          "width": 0,
+          "x": 416,
+          "y": 160,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "trigger_direita",
+          "persistentUuid": "518706de-224a-4752-9e07-31954b097e2a",
+          "width": 0,
+          "x": 304,
+          "y": 160,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "trigger_esquerda",
+          "persistentUuid": "c127868b-9df7-4cb9-a65e-8d82b027511f",
+          "width": 0,
+          "x": 448,
+          "y": 160,
+          "zOrder": 29,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3536,6 +3659,366 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Karkinos",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 36,
+                        "y": 28.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 17,
+                            "y": 3
+                          },
+                          {
+                            "x": 57,
+                            "y": 3
+                          },
+                          {
+                            "x": 57,
+                            "y": 26
+                          },
+                          {
+                            "x": 17,
+                            "y": 26
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 36,
+                        "y": 28.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 17,
+                            "y": 3
+                          },
+                          {
+                            "x": 57,
+                            "y": 3
+                          },
+                          {
+                            "x": 57,
+                            "y": 26
+                          },
+                          {
+                            "x": 17,
+                            "y": 26
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 03.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 36,
+                        "y": 28.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 17,
+                            "y": 3
+                          },
+                          {
+                            "x": 57,
+                            "y": 3
+                          },
+                          {
+                            "x": 57,
+                            "y": 26
+                          },
+                          {
+                            "x": 17,
+                            "y": 26
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 04.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 36,
+                        "y": 28.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 17,
+                            "y": 3
+                          },
+                          {
+                            "x": 57,
+                            "y": 3
+                          },
+                          {
+                            "x": 57,
+                            "y": 26
+                          },
+                          {
+                            "x": 17,
+                            "y": 26
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 05.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 36,
+                        "y": 28.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 17,
+                            "y": 3
+                          },
+                          {
+                            "x": 57,
+                            "y": 3
+                          },
+                          {
+                            "x": 57,
+                            "y": 26
+                          },
+                          {
+                            "x": 17,
+                            "y": 26
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 06.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 36,
+                        "y": 28.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 17,
+                            "y": 3
+                          },
+                          {
+                            "x": 57,
+                            "y": 3
+                          },
+                          {
+                            "x": 57,
+                            "y": 26
+                          },
+                          {
+                            "x": 17,
+                            "y": 26
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "trigger_direita",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Sistema\\trigger direita.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 16
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "trigger_esquerda",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Sistema\\trigger esquerda.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 16
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -3585,6 +4068,15 @@
           },
           {
             "objectName": "armadilha_espinhos"
+          },
+          {
+            "objectName": "Karkinos"
+          },
+          {
+            "objectName": "trigger_direita"
+          },
+          {
+            "objectName": "trigger_esquerda"
           }
         ]
       },
@@ -3595,6 +4087,13 @@
             "includeConfig": 0
           },
           "target": "Jack"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "Inimigos"
         },
         {
           "type": "BuiltinCommonInstructions::Comment",
@@ -4618,6 +5117,170 @@
                 "Jack",
                 "bloco_solido",
                 ""
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "associatedLayout": "Cena sem título",
+      "name": "Inimigos",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "sistema geral"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "triggers"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Karkinos (caranguejo)"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "FlippableCapability::FlippableBehavior::FlippedX"
+              },
+              "parameters": [
+                "Karkinos",
+                "Flippable"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreX"
+              },
+              "parameters": [
+                "Karkinos",
+                "-",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlippedX"
+              },
+              "parameters": [
+                "Karkinos",
+                "Flippable"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreX"
+              },
+              "parameters": [
+                "Karkinos",
+                "+",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Karkinos",
+                "trigger_direita",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "Karkinos",
+                "Flippable",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Karkinos",
+                "trigger_esquerda",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "Karkinos",
+                "Flippable",
+                "no"
               ]
             }
           ]
