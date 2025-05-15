@@ -543,7 +543,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.9800093452509856,
+        "zoomFactor": 3.1285077316268466,
         "windowMask": false
       },
       "objectsGroups": [
@@ -563,6 +563,14 @@
             },
             {
               "name": "trigger_esquerda"
+            }
+          ]
+        },
+        {
+          "name": "inimigos",
+          "objects": [
+            {
+              "name": "Karkinos"
             }
           ]
         }
@@ -1987,6 +1995,54 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "trigger_direita",
+          "persistentUuid": "827f0832-1ae0-41fc-92ea-1cfb3e24e10e",
+          "width": 0,
+          "x": 1712,
+          "y": 128,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "trigger_esquerda",
+          "persistentUuid": "4266ba55-1b57-4c9c-9fcf-afa13b4868c8",
+          "width": 0,
+          "x": 1952,
+          "y": 128,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Karkinos",
+          "persistentUuid": "d77cfe1d-2af7-438a-bd95-b82f82ccbf76",
+          "width": 0,
+          "x": 1888,
+          "y": 128,
+          "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -2622,7 +2678,7 @@
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.1,
+                  "timeBetweenFrames": 0.07142857142857142,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
@@ -3681,7 +3737,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 01.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "cabeca",
+                          "x": 35.5,
+                          "y": 8
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 36,
@@ -3717,7 +3779,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 02.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "cabeca",
+                          "x": 35.5,
+                          "y": 8
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 36,
@@ -3753,7 +3821,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 03.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "cabeca",
+                          "x": 35.5,
+                          "y": 8
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 36,
@@ -3789,7 +3863,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 04.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "cabeca",
+                          "x": 35.5,
+                          "y": 8
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 36,
@@ -3825,7 +3905,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 05.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "cabeca",
+                          "x": 35.5,
+                          "y": 8
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 36,
@@ -3861,7 +3947,13 @@
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 06.png",
-                      "points": [],
+                      "points": [
+                        {
+                          "name": "cabeca",
+                          "x": 35.5,
+                          "y": 8
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 36,
@@ -4086,14 +4178,14 @@
           "include": {
             "includeConfig": 0
           },
-          "target": "Jack"
+          "target": "Inimigos"
         },
         {
           "type": "BuiltinCommonInstructions::Link",
           "include": {
             "includeConfig": 0
           },
-          "target": "Inimigos"
+          "target": "Jack"
         },
         {
           "type": "BuiltinCommonInstructions::Comment",
@@ -5027,6 +5119,216 @@
           ]
         },
         {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "dano causado por colisão com inimigos"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Jack",
+                "inimigos",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "Jack",
+                "Animation",
+                "!=",
+                "\"dano\""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Flash::Flash::IsFlashing"
+              },
+              "parameters": [
+                "Jack",
+                "Flash",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PosY"
+              },
+              "parameters": [
+                "Jack",
+                ">",
+                "inimigos.PointY(\"cabeca\")"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Jack",
+                "Animation",
+                "=",
+                "\"dano\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::AbortJump"
+              },
+              "parameters": [
+                "Jack",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "Jack",
+                "PlatformerObject",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "hp",
+                "-",
+                "1"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                  },
+                  "parameters": [
+                    "Jack",
+                    "Flippable"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AddForceXY"
+                  },
+                  "parameters": [
+                    "Jack",
+                    "-100",
+                    "0",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                  },
+                  "parameters": [
+                    "Jack",
+                    "Flippable"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AddForceXY"
+                  },
+                  "parameters": [
+                    "Jack",
+                    "100",
+                    "0",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "deixar em câmera lenta por um período de tempo"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ChangeTimeScale"
+                  },
+                  "parameters": [
+                    "",
+                    "0.2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.02"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeTimeScale"
+                  },
+                  "parameters": [
+                    "",
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -5281,6 +5583,102 @@
                 "Karkinos",
                 "Flippable",
                 "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "matar inimigos"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::IsFalling"
+              },
+              "parameters": [
+                "Jack",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Jack",
+                "inimigos",
+                "",
+                "",
+                "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "PosY"
+              },
+              "parameters": [
+                "Jack",
+                "<",
+                "inimigos.Y(\"cabeca\")+3"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SetCanJump"
+                  },
+                  "parameters": [
+                    "Jack",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SimulateJumpKey"
+                  },
+                  "parameters": [
+                    "Jack",
+                    "PlatformerObject"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "inimigos",
+                    ""
+                  ]
+                }
               ]
             }
           ]
