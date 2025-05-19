@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 230,
+    "build": 231,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -506,6 +506,206 @@
         "name": "Assets\\Sistema\\trigger esquerda.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Inimigo 2/Parado/Idle 01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Inimigo 2\\Parado\\Idle 01.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Inimigo 2/Parado/Idle 02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Inimigo 2\\Parado\\Idle 02.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Inimigo 2/Parado/Idle 03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Inimigo 2\\Parado\\Idle 03.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Inimigo 2/Parado/Idle 04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Inimigo 2\\Parado\\Idle 04.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Inimigo 2/Parado/Idle 05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Inimigo 2\\Parado\\Idle 05.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Inimigo 2/Parado/Idle 06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Inimigo 2\\Parado\\Idle 06.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Inimigo 2/Parado/Idle 07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Inimigo 2\\Parado\\Idle 07.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Inimigo 2/Parado/Idle 08.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Inimigo 2\\Parado\\Idle 08.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Inimigo 2/Pulando/Jump 01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Inimigo 2\\Pulando\\Jump 01.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Inimigo 2/Pulando/Jump 02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Inimigo 2\\Pulando\\Jump 02.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Inimigo 2/Pulando/Jump 03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Inimigo 2\\Pulando\\Jump 03.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Inimigo 2/Caindo/Fall 01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Inimigo 2\\Caindo\\Fall 01.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Efeito caveira/01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Efeito caveira\\01.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Efeito caveira/02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Efeito caveira\\02.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Efeito caveira/03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Efeito caveira\\03.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Efeito caveira/04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Efeito caveira\\04.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Efeito caveira/05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Efeito caveira\\05.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Atirador/Parado/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Atirador\\Parado\\1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Atirador/Ataque/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Atirador\\Ataque\\1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Atirador/Ataque/2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Atirador\\Ataque\\2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Atirador/Ataque/3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Atirador\\Ataque\\3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Atirador/Ataque/4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Atirador\\Ataque\\4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Atirador/Ataque/5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Atirador\\Ataque\\5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Atirador/Ataque/6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Atirador\\Ataque\\6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Atirador/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Atirador\\1.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -543,7 +743,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 3.1285077316268466,
+        "zoomFactor": 1.5590965958436325,
         "windowMask": false
       },
       "objectsGroups": [
@@ -552,6 +752,12 @@
           "objects": [
             {
               "name": "armadilha_espinhos"
+            },
+            {
+              "name": "espinho"
+            },
+            {
+              "name": "inimigo_totem"
             }
           ]
         },
@@ -571,6 +777,15 @@
           "objects": [
             {
               "name": "Karkinos"
+            },
+            {
+              "name": "inimigo_2"
+            },
+            {
+              "name": "inimigo_totem"
+            },
+            {
+              "name": "espinho"
             }
           ]
         }
@@ -2040,6 +2255,214 @@
           "x": 1888,
           "y": 128,
           "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "inimigo_2",
+          "persistentUuid": "15462b4d-d8ad-46bd-9a0a-2bb70a2142bd",
+          "width": 0,
+          "x": 736,
+          "y": 192,
+          "zOrder": 34,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "inimigo_2",
+          "persistentUuid": "16924bd4-5081-4e88-975d-8eda0c6eec0e",
+          "width": 0,
+          "x": 2287,
+          "y": 159,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "inimigo_2",
+          "persistentUuid": "81a9c116-00d3-42f9-9d5e-932f2b259b18",
+          "width": 0,
+          "x": 1617,
+          "y": 95,
+          "zOrder": 37,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "inimigo_2",
+          "persistentUuid": "95eff1f1-cfd6-4613-a16d-83b734a1b32b",
+          "width": 0,
+          "x": 1088,
+          "y": 128,
+          "zOrder": 38,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "trigger_direita",
+          "persistentUuid": "837ba361-847c-4bc2-9ab8-386f606e61d1",
+          "width": 0,
+          "x": 656,
+          "y": 191,
+          "zOrder": 41,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "trigger_esquerda",
+          "persistentUuid": "e56969c0-cd46-48b6-ae26-77d6b9a00c5d",
+          "width": 0,
+          "x": 800,
+          "y": 192,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "trigger_direita",
+          "persistentUuid": "f731bdb6-1a22-4db9-b695-799b10d66848",
+          "width": 0,
+          "x": 1216,
+          "y": 160,
+          "zOrder": 43,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "trigger_esquerda",
+          "persistentUuid": "117bf158-7fcb-477a-89e5-4c3d0a36d1aa",
+          "width": 0,
+          "x": 1361,
+          "y": 159,
+          "zOrder": 44,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Karkinos",
+          "persistentUuid": "cbf18c10-30fc-4131-9657-ea0ec66e1df0",
+          "width": 0,
+          "x": 1312,
+          "y": 160,
+          "zOrder": 45,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "inimigo_totem",
+          "persistentUuid": "1bf8d9b8-53e3-4169-8767-9a2cf646cd89",
+          "width": 0,
+          "x": 2434,
+          "y": 63,
+          "zOrder": 46,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "inimigo_totem",
+          "persistentUuid": "4f376c0e-5743-4a6e-a75a-d8245174916d",
+          "width": 0,
+          "x": 960,
+          "y": 160,
+          "zOrder": 48,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "inimigo_totem",
+          "persistentUuid": "73321d9d-d5eb-4353-863b-2a447262e6ee",
+          "width": 0,
+          "x": 608,
+          "y": 128,
+          "zOrder": 49,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "inimigo_totem",
+          "persistentUuid": "2bd7e7c2-64e6-4c1c-bd0a-39517dce5cc5",
+          "width": 0,
+          "x": 2112,
+          "y": 160,
+          "zOrder": 50,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4111,6 +4534,1167 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "inimigo_2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "acceleration": 1500,
+              "canGoDownFromJumpthru": true,
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 500,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 550,
+              "maxSpeed": 170,
+              "slopeMaxAngle": 60,
+              "useLegacyTrajectory": false,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "parado",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\Inimigo 2\\Parado\\Idle 01.png",
+                      "points": [
+                        {
+                          "name": "cabeca",
+                          "x": 17.5,
+                          "y": 9.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 28.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 29
+                          },
+                          {
+                            "x": 3,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\Inimigo 2\\Parado\\Idle 02.png",
+                      "points": [
+                        {
+                          "name": "cabeca",
+                          "x": 17.5,
+                          "y": 9.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 28.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 29
+                          },
+                          {
+                            "x": 3,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\Inimigo 2\\Parado\\Idle 03.png",
+                      "points": [
+                        {
+                          "name": "cabeca",
+                          "x": 17.5,
+                          "y": 9.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 28.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 29
+                          },
+                          {
+                            "x": 3,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\Inimigo 2\\Parado\\Idle 04.png",
+                      "points": [
+                        {
+                          "name": "cabeca",
+                          "x": 17.5,
+                          "y": 9.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 28.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 29
+                          },
+                          {
+                            "x": 3,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\Inimigo 2\\Parado\\Idle 05.png",
+                      "points": [
+                        {
+                          "name": "cabeca",
+                          "x": 17.5,
+                          "y": 9.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 28.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 29
+                          },
+                          {
+                            "x": 3,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\Inimigo 2\\Parado\\Idle 06.png",
+                      "points": [
+                        {
+                          "name": "cabeca",
+                          "x": 17.5,
+                          "y": 9.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 28.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 29
+                          },
+                          {
+                            "x": 3,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\Inimigo 2\\Parado\\Idle 07.png",
+                      "points": [
+                        {
+                          "name": "cabeca",
+                          "x": 17.5,
+                          "y": 9.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 28.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 29
+                          },
+                          {
+                            "x": 3,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\Inimigo 2\\Parado\\Idle 08.png",
+                      "points": [
+                        {
+                          "name": "cabeca",
+                          "x": 17.5,
+                          "y": 9.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 28.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 29
+                          },
+                          {
+                            "x": 3,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "pulando",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\Inimigo 2\\Pulando\\Jump 01.png",
+                      "points": [
+                        {
+                          "name": "cabeca",
+                          "x": 17.5,
+                          "y": 9.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 28.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 29
+                          },
+                          {
+                            "x": 3,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\Inimigo 2\\Pulando\\Jump 02.png",
+                      "points": [
+                        {
+                          "name": "cabeca",
+                          "x": 17.5,
+                          "y": 9.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 28.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 29
+                          },
+                          {
+                            "x": 3,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\Inimigo 2\\Pulando\\Jump 03.png",
+                      "points": [
+                        {
+                          "name": "cabeca",
+                          "x": 17.5,
+                          "y": 9.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 28.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 29
+                          },
+                          {
+                            "x": 3,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "caindo",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\Inimigo 2\\Caindo\\Fall 01.png",
+                      "points": [
+                        {
+                          "name": "cabeca",
+                          "x": 17.5,
+                          "y": 9.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 28.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 29
+                          },
+                          {
+                            "x": 3,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "FX_caveira",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\Efeito caveira\\01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 13,
+                        "y": 19.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 13
+                          },
+                          {
+                            "x": 21,
+                            "y": 13
+                          },
+                          {
+                            "x": 21,
+                            "y": 26
+                          },
+                          {
+                            "x": 5,
+                            "y": 26
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\Efeito caveira\\02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 13,
+                        "y": 19.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 13
+                          },
+                          {
+                            "x": 21,
+                            "y": 13
+                          },
+                          {
+                            "x": 21,
+                            "y": 26
+                          },
+                          {
+                            "x": 5,
+                            "y": 26
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\Efeito caveira\\03.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 13,
+                        "y": 19.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 13
+                          },
+                          {
+                            "x": 21,
+                            "y": 13
+                          },
+                          {
+                            "x": 21,
+                            "y": 26
+                          },
+                          {
+                            "x": 5,
+                            "y": 26
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\Efeito caveira\\04.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 13,
+                        "y": 19.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 13
+                          },
+                          {
+                            "x": 21,
+                            "y": 13
+                          },
+                          {
+                            "x": 21,
+                            "y": 26
+                          },
+                          {
+                            "x": 5,
+                            "y": 26
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\Efeito caveira\\05.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 13,
+                        "y": 19.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 13
+                          },
+                          {
+                            "x": 21,
+                            "y": 13
+                          },
+                          {
+                            "x": 21,
+                            "y": 26
+                          },
+                          {
+                            "x": 5,
+                            "y": 26
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "inimigo_totem",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "parado",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\Atirador\\Parado\\1.png",
+                      "points": [
+                        {
+                          "name": "tiro",
+                          "x": 17.5,
+                          "y": 25.5
+                        },
+                        {
+                          "name": "cabeça ",
+                          "x": 23.5,
+                          "y": 1
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 34,
+                        "y": 31
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 59,
+                            "y": 0
+                          },
+                          {
+                            "x": 59,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "ataque",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\Atirador\\Ataque\\1.png",
+                      "points": [
+                        {
+                          "name": "tiro",
+                          "x": 17.5,
+                          "y": 25.5
+                        },
+                        {
+                          "name": "cabeça ",
+                          "x": 23.5,
+                          "y": 1
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 34,
+                        "y": 31
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 59,
+                            "y": 0
+                          },
+                          {
+                            "x": 59,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\Atirador\\Ataque\\2.png",
+                      "points": [
+                        {
+                          "name": "tiro",
+                          "x": 17.5,
+                          "y": 25.5
+                        },
+                        {
+                          "name": "cabeça ",
+                          "x": 23.5,
+                          "y": 1
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 34,
+                        "y": 31
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 59,
+                            "y": 0
+                          },
+                          {
+                            "x": 59,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\Atirador\\Ataque\\3.png",
+                      "points": [
+                        {
+                          "name": "tiro",
+                          "x": 17.5,
+                          "y": 25.5
+                        },
+                        {
+                          "name": "cabeça ",
+                          "x": 23.5,
+                          "y": 1
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 34,
+                        "y": 31
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 59,
+                            "y": 0
+                          },
+                          {
+                            "x": 59,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\Atirador\\Ataque\\4.png",
+                      "points": [
+                        {
+                          "name": "tiro",
+                          "x": 17.5,
+                          "y": 25.5
+                        },
+                        {
+                          "name": "cabeça ",
+                          "x": 23.5,
+                          "y": 1
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 34,
+                        "y": 31
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 59,
+                            "y": 0
+                          },
+                          {
+                            "x": 59,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\Atirador\\Ataque\\5.png",
+                      "points": [
+                        {
+                          "name": "tiro",
+                          "x": 17.5,
+                          "y": 25.5
+                        },
+                        {
+                          "name": "cabeça ",
+                          "x": 23.5,
+                          "y": 1
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 34,
+                        "y": 31
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 59,
+                            "y": 0
+                          },
+                          {
+                            "x": 59,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "espinho",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "DestruirFora",
+              "type": "DestroyOutsideBehavior::DestroyOutside",
+              "extraBorder": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "tiro",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Inimigos\\Atirador\\1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 7.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 5
+                          },
+                          {
+                            "x": 13,
+                            "y": 5
+                          },
+                          {
+                            "x": 13,
+                            "y": 11
+                          },
+                          {
+                            "x": 3,
+                            "y": 11
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -4169,6 +5753,18 @@
           },
           {
             "objectName": "trigger_esquerda"
+          },
+          {
+            "objectName": "inimigo_2"
+          },
+          {
+            "objectName": "FX_caveira"
+          },
+          {
+            "objectName": "inimigo_totem"
+          },
+          {
+            "objectName": "espinho"
           }
         ]
       },
@@ -4348,6 +5944,11 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ],
       "layers": [
@@ -5677,6 +7278,672 @@
                   "parameters": [
                     "inimigos",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "FX_caveira",
+                    "inimigos.PointX(\"Center\")",
+                    "inimigos.PointY(\"Center\")",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AddForceXY"
+                  },
+                  "parameters": [
+                    "FX_caveira",
+                    "0",
+                    "-35",
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+              },
+              "parameters": [
+                "FX_caveira",
+                "Animation"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "FX_caveira",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "estrela do mar \n"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "alterar o lado"
+        },
+        {
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "inimigo_2",
+          "conditions": [],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "Jack",
+                    ">",
+                    "inimigo_2.X()"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FlippableCapability::FlippableBehavior::FlipX"
+                  },
+                  "parameters": [
+                    "inimigo_2",
+                    "Flippable",
+                    "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "Jack",
+                    "<",
+                    "inimigo_2.X()"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FlippableCapability::FlippableBehavior::FlipX"
+                  },
+                  "parameters": [
+                    "inimigo_2",
+                    "Flippable",
+                    "no"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "iniciar um timer \n"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"pulo_estrela\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "pular e resetar timer, quando for maior que 2 segundos\n"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"pulo_estrela\"",
+                ">=",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"pulo_estrela\""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "inimigo_2",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Distance"
+                  },
+                  "parameters": [
+                    "inimigo_2",
+                    "Jack",
+                    "170",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SimulateJumpKey"
+                  },
+                  "parameters": [
+                    "inimigo_2",
+                    "PlatformerObject"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "seguir em direção ao personagem\n"
+        },
+        {
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "inimigo_2",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "inimigo_2",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                  },
+                  "parameters": [
+                    "inimigo_2",
+                    "Flippable"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SimulateLeftKey"
+                  },
+                  "parameters": [
+                    "inimigo_2",
+                    "PlatformerObject"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                  },
+                  "parameters": [
+                    "inimigo_2",
+                    "Flippable"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::SimulateRightKey"
+                  },
+                  "parameters": [
+                    "inimigo_2",
+                    "PlatformerObject"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "TOTEM"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "mudar de lado"
+        },
+        {
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "inimigo_totem",
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "inimigo_totem",
+                "Animation",
+                "=",
+                "\"parado\""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "Jack",
+                    ">",
+                    "inimigo_totem.X()"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FlippableCapability::FlippableBehavior::FlipX"
+                  },
+                  "parameters": [
+                    "inimigo_totem",
+                    "Flippable",
+                    "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "Jack",
+                    "<",
+                    "inimigo_totem.Y()"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FlippableCapability::FlippableBehavior::FlipX"
+                  },
+                  "parameters": [
+                    "inimigo_totem",
+                    "Flippable",
+                    "no"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "inciar timer"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"tiro_totem\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"tiro_totem\"",
+                ">=",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"tiro_totem\""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "inimigo_totem",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "inimigo_totem",
+                    "Animation",
+                    "=",
+                    "\"ataque\""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "inimigo_totem",
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "inimigo_totem",
+                "Animation",
+                "=",
+                "\"ataque\""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+              },
+              "parameters": [
+                "inimigo_totem",
+                "Animation"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "inimigo_totem",
+                "Animation",
+                "=",
+                "\"parado\""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                  },
+                  "parameters": [
+                    "inimigo_totem",
+                    "Flippable"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "espinho",
+                    "inimigo_totem.PointX(\"tiro\")",
+                    "inimigo_totem.PointY(\"tiro\")",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AddForceXY"
+                  },
+                  "parameters": [
+                    "espinho",
+                    "-200",
+                    "0",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                  },
+                  "parameters": [
+                    "inimigo_totem",
+                    "Flippable"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "espinho",
+                    "inimigo_totem.PointX(\"tiro\")",
+                    "inimigo_totem.PointY(\"tiro\")",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "FlippableCapability::FlippableBehavior::FlipX"
+                  },
+                  "parameters": [
+                    "espinho",
+                    "Flippable",
+                    "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AddForceXY"
+                  },
+                  "parameters": [
+                    "espinho",
+                    "200",
+                    "0",
+                    "1"
                   ]
                 }
               ]
