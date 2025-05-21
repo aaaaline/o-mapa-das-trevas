@@ -578,18 +578,1844 @@
         "name": "Assets\\Inimigos\\Atirador\\1.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "Assets/Fonte/Fonte_jogo/Fonte_jogo.fnt",
+        "kind": "bitmapFont",
+        "metadata": "",
+        "name": "Assets\\Fonte\\Fonte_jogo\\Fonte_jogo.fnt",
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Fonte/Fonte_jogo/Fonte_jogo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Fonte\\Fonte_jogo\\Fonte_jogo.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/HUD/avatar_pirata.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\HUD\\avatar_pirata.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Fonte/Fonte_jogo/Fonte_jogo (cópia).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Fonte\\Fonte_jogo\\Fonte_jogo (cópia).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/HUD/coracao_barra.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\HUD\\coracao_barra.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/HUD/coracao_base.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\HUD\\coracao_base.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
   },
-  "objects": [],
+  "objects": [
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Jack",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Flash",
+          "type": "Flash::Flash",
+          "HalfPeriodTime": 0.1,
+          "IsFlashing": false,
+          "FlashDuration": 0
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "ignoreDefaultControls": false,
+          "jumpSpeed": 500,
+          "maxFallingSpeed": 550,
+          "maxSpeed": 150,
+          "acceleration": 1500,
+          "canGoDownFromJumpthru": true,
+          "canGrabPlatforms": false,
+          "canGrabWithoutMoving": true,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "slopeMaxAngle": 60,
+          "useLegacyTrajectory": false,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "parado",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Personagem\\01-Idle\\Idle 01.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 32,
+                    "y": 32
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 24,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 32
+                      },
+                      {
+                        "x": 24,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Personagem\\01-Idle\\Idle 02.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 32,
+                    "y": 32
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 24,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 32
+                      },
+                      {
+                        "x": 24,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Personagem\\01-Idle\\Idle 03.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 32,
+                    "y": 32
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 24,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 32
+                      },
+                      {
+                        "x": 24,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Personagem\\01-Idle\\Idle 04.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 32,
+                    "y": 32
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 24,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 32
+                      },
+                      {
+                        "x": 24,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Personagem\\01-Idle\\Idle 05.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 32,
+                    "y": 32
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 24,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 32
+                      },
+                      {
+                        "x": 24,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "correndo",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Personagem\\02-Run\\Run 01.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 32,
+                    "y": 32
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 24,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 32
+                      },
+                      {
+                        "x": 24,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Personagem\\02-Run\\Run 02.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 32,
+                    "y": 32
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 24,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 32
+                      },
+                      {
+                        "x": 24,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Personagem\\02-Run\\Run 03.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 32,
+                    "y": 32
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 24,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 32
+                      },
+                      {
+                        "x": 24,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Personagem\\02-Run\\Run 04.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 32,
+                    "y": 32
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 24,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 32
+                      },
+                      {
+                        "x": 24,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Personagem\\02-Run\\Run 05.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 32,
+                    "y": 32
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 24,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 32
+                      },
+                      {
+                        "x": 24,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Personagem\\02-Run\\Run 06.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 32,
+                    "y": 32
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 24,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 32
+                      },
+                      {
+                        "x": 24,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "pulo",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Personagem\\03-Jump\\Jump 01.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 32,
+                    "y": 32
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 24,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 32
+                      },
+                      {
+                        "x": 24,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Personagem\\03-Jump\\Jump 02.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 32,
+                    "y": 32
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 24,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 32
+                      },
+                      {
+                        "x": 24,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Personagem\\03-Jump\\Jump 03.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 32,
+                    "y": 32
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 24,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 32
+                      },
+                      {
+                        "x": 24,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "queda",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Personagem\\04-Fall\\Fall 01.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 32,
+                    "y": 32
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 24,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 32
+                      },
+                      {
+                        "x": 24,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "dano",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.07142857142857142,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Personagem\\06-Hit\\Hit 01.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 32,
+                    "y": 32
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 24,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 32
+                      },
+                      {
+                        "x": 24,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Personagem\\06-Hit\\Hit 02.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 32,
+                    "y": 32
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 24,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 32
+                      },
+                      {
+                        "x": 24,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Personagem\\06-Hit\\Hit 03.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 32,
+                    "y": 32
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 24,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 32
+                      },
+                      {
+                        "x": 24,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Personagem\\06-Hit\\Hit 04.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 32,
+                    "y": 32
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 24,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 4
+                      },
+                      {
+                        "x": 40,
+                        "y": 32
+                      },
+                      {
+                        "x": 24,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "armadilha_espinhos",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Objetos\\Armadilhas\\Spikes.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 32
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 16
+                      },
+                      {
+                        "x": 31,
+                        "y": 16
+                      },
+                      {
+                        "x": 31,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "inimigo_atirador",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "parado",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Inimigos\\Atirador\\Parado\\1.png",
+                  "points": [
+                    {
+                      "name": "tiro",
+                      "x": 12,
+                      "y": 23.5
+                    },
+                    {
+                      "name": "cabeça",
+                      "x": 24.5,
+                      "y": 11.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 30,
+                    "y": 25.5
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 30,
+                    "y": 12
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 0
+                      },
+                      {
+                        "x": 59,
+                        "y": 0
+                      },
+                      {
+                        "x": 59,
+                        "y": 31
+                      },
+                      {
+                        "x": 1,
+                        "y": 31
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ataque",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Inimigos\\Atirador\\Ataque\\1.png",
+                  "points": [
+                    {
+                      "name": "tiro",
+                      "x": 12,
+                      "y": 23.5
+                    },
+                    {
+                      "name": "cabeça",
+                      "x": 24.5,
+                      "y": 11.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 30,
+                    "y": 25.5
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 30,
+                    "y": 12
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 0
+                      },
+                      {
+                        "x": 59,
+                        "y": 0
+                      },
+                      {
+                        "x": 59,
+                        "y": 31
+                      },
+                      {
+                        "x": 1,
+                        "y": 31
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Inimigos\\Atirador\\Ataque\\2.png",
+                  "points": [
+                    {
+                      "name": "tiro",
+                      "x": 12,
+                      "y": 23.5
+                    },
+                    {
+                      "name": "cabeça",
+                      "x": 24.5,
+                      "y": 11.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 30,
+                    "y": 25.5
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 30,
+                    "y": 12
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 0
+                      },
+                      {
+                        "x": 59,
+                        "y": 0
+                      },
+                      {
+                        "x": 59,
+                        "y": 31
+                      },
+                      {
+                        "x": 1,
+                        "y": 31
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Inimigos\\Atirador\\Ataque\\3.png",
+                  "points": [
+                    {
+                      "name": "tiro",
+                      "x": 12,
+                      "y": 23.5
+                    },
+                    {
+                      "name": "cabeça",
+                      "x": 24.5,
+                      "y": 11.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 30,
+                    "y": 25.5
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 30,
+                    "y": 12
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 0
+                      },
+                      {
+                        "x": 59,
+                        "y": 0
+                      },
+                      {
+                        "x": 59,
+                        "y": 31
+                      },
+                      {
+                        "x": 1,
+                        "y": 31
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Inimigos\\Atirador\\Ataque\\4.png",
+                  "points": [
+                    {
+                      "name": "tiro",
+                      "x": 12,
+                      "y": 23.5
+                    },
+                    {
+                      "name": "cabeça",
+                      "x": 24.5,
+                      "y": 11.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 30,
+                    "y": 25.5
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 30,
+                    "y": 12
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 0
+                      },
+                      {
+                        "x": 59,
+                        "y": 0
+                      },
+                      {
+                        "x": 59,
+                        "y": 31
+                      },
+                      {
+                        "x": 1,
+                        "y": 31
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Inimigos\\Atirador\\Ataque\\5.png",
+                  "points": [
+                    {
+                      "name": "tiro",
+                      "x": 12,
+                      "y": 23.5
+                    },
+                    {
+                      "name": "cabeça",
+                      "x": 24.5,
+                      "y": 11.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 30,
+                    "y": 25.5
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 30,
+                    "y": 12
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 0
+                      },
+                      {
+                        "x": 59,
+                        "y": 0
+                      },
+                      {
+                        "x": 59,
+                        "y": 31
+                      },
+                      {
+                        "x": 1,
+                        "y": 31
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Inimigos\\Atirador\\Ataque\\5.png",
+                  "points": [
+                    {
+                      "name": "tiro",
+                      "x": 12,
+                      "y": 23.5
+                    },
+                    {
+                      "name": "cabeça",
+                      "x": 24.5,
+                      "y": 11.5
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 30,
+                    "y": 25.5
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 30,
+                    "y": 12
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 0
+                      },
+                      {
+                        "x": 59,
+                        "y": 0
+                      },
+                      {
+                        "x": 59,
+                        "y": 31
+                      },
+                      {
+                        "x": 1,
+                        "y": 31
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "espinho",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "DestruirFora",
+          "type": "DestroyOutsideBehavior::DestroyOutside",
+          "extraBorder": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Inimigos\\Atirador\\1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 5
+                      },
+                      {
+                        "x": 13,
+                        "y": 5
+                      },
+                      {
+                        "x": 13,
+                        "y": 11
+                      },
+                      {
+                        "x": 3,
+                        "y": 11
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "trigger_direita",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Sistema\\trigger direita.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 16
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 16
+                      },
+                      {
+                        "x": 0,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "trigger_esquerda",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Sistema\\trigger esquerda.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 16
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 0
+                      },
+                      {
+                        "x": 16,
+                        "y": 16
+                      },
+                      {
+                        "x": 0,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Karkinos",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.1,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 01.png",
+                  "points": [
+                    {
+                      "name": "cabeca",
+                      "x": 35.5,
+                      "y": 8
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 36,
+                    "y": 28.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 3
+                      },
+                      {
+                        "x": 57,
+                        "y": 3
+                      },
+                      {
+                        "x": 57,
+                        "y": 26
+                      },
+                      {
+                        "x": 17,
+                        "y": 26
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 02.png",
+                  "points": [
+                    {
+                      "name": "cabeca",
+                      "x": 35.5,
+                      "y": 8
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 36,
+                    "y": 28.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 3
+                      },
+                      {
+                        "x": 57,
+                        "y": 3
+                      },
+                      {
+                        "x": 57,
+                        "y": 26
+                      },
+                      {
+                        "x": 17,
+                        "y": 26
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 03.png",
+                  "points": [
+                    {
+                      "name": "cabeca",
+                      "x": 35.5,
+                      "y": 8
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 36,
+                    "y": 28.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 3
+                      },
+                      {
+                        "x": 57,
+                        "y": 3
+                      },
+                      {
+                        "x": 57,
+                        "y": 26
+                      },
+                      {
+                        "x": 17,
+                        "y": 26
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 04.png",
+                  "points": [
+                    {
+                      "name": "cabeca",
+                      "x": 35.5,
+                      "y": 8
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 36,
+                    "y": 28.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 3
+                      },
+                      {
+                        "x": 57,
+                        "y": 3
+                      },
+                      {
+                        "x": 57,
+                        "y": 26
+                      },
+                      {
+                        "x": 17,
+                        "y": 26
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 05.png",
+                  "points": [
+                    {
+                      "name": "cabeca",
+                      "x": 35.5,
+                      "y": 8
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 36,
+                    "y": 28.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 3
+                      },
+                      {
+                        "x": 57,
+                        "y": 3
+                      },
+                      {
+                        "x": 57,
+                        "y": 26
+                      },
+                      {
+                        "x": 17,
+                        "y": 26
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 06.png",
+                  "points": [
+                    {
+                      "name": "cabeca",
+                      "x": 35.5,
+                      "y": 8
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 36,
+                    "y": 28.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 3
+                      },
+                      {
+                        "x": 57,
+                        "y": 3
+                      },
+                      {
+                        "x": 57,
+                        "y": 26
+                      },
+                      {
+                        "x": 17,
+                        "y": 26
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "height": 32,
+      "name": "bloco_solido",
+      "texture": "Assets\\bloco solido.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": false,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ]
+    }
+  ],
   "objectsFolderStructure": {
-    "folderName": "__ROOT"
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "folderName": "FX"
+      },
+      {
+        "folderName": "personagem",
+        "children": [
+          {
+            "objectName": "Jack"
+          }
+        ]
+      },
+      {
+        "folderName": "sistema",
+        "children": [
+          {
+            "objectName": "bloco_solido"
+          },
+          {
+            "objectName": "trigger_esquerda"
+          },
+          {
+            "objectName": "trigger_direita"
+          }
+        ]
+      },
+      {
+        "folderName": "armadilhas",
+        "children": [
+          {
+            "objectName": "armadilha_espinhos"
+          },
+          {
+            "objectName": "espinho"
+          }
+        ]
+      },
+      {
+        "folderName": "inimigos",
+        "children": [
+          {
+            "objectName": "Karkinos"
+          },
+          {
+            "objectName": "inimigo_atirador"
+          }
+        ]
+      }
+    ]
   },
-  "objectsGroups": [],
+  "objectsGroups": [
+    {
+      "name": "objetos danosos",
+      "objects": [
+        {
+          "name": "armadilha_espinhos"
+        },
+        {
+          "name": "espinho"
+        }
+      ]
+    },
+    {
+      "name": "triggers",
+      "objects": [
+        {
+          "name": "trigger_direita"
+        },
+        {
+          "name": "trigger_esquerda"
+        }
+      ]
+    },
+    {
+      "name": "inimigos",
+      "objects": [
+        {
+          "name": "Karkinos"
+        },
+        {
+          "name": "inimigo_atirador"
+        }
+      ]
+    }
+  ],
   "variables": [
     {
       "name": "hp",
+      "type": "number",
+      "value": 3
+    },
+    {
+      "name": "vidas",
       "type": "number",
       "value": 3
     }
@@ -615,44 +2441,10 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.8302615562270251,
+        "zoomFactor": 7.409974779914783,
         "windowMask": false
       },
-      "objectsGroups": [
-        {
-          "name": "objetos danosos",
-          "objects": [
-            {
-              "name": "armadilha_espinhos"
-            },
-            {
-              "name": "espinho"
-            }
-          ]
-        },
-        {
-          "name": "triggers",
-          "objects": [
-            {
-              "name": "trigger_direita"
-            },
-            {
-              "name": "trigger_esquerda"
-            }
-          ]
-        },
-        {
-          "name": "inimigos",
-          "objects": [
-            {
-              "name": "Karkinos"
-            },
-            {
-              "name": "inimigo_atirador"
-            }
-          ]
-        }
-      ],
+      "objectsGroups": [],
       "variables": [],
       "instances": [
         {
@@ -1951,22 +3743,6 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "HUD",
-          "name": "NewText",
-          "persistentUuid": "bb174ca7-243e-4fd0-9aac-47c648823726",
-          "width": 0,
-          "x": 3,
-          "y": 2,
-          "zOrder": 21,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
           "layer": "",
           "name": "armadilha_espinhos",
           "persistentUuid": "489bc8c1-9b8b-4c7d-8386-2a604ece83ad",
@@ -2131,8 +3907,8 @@
           "name": "inimigo_atirador",
           "persistentUuid": "44e4bc52-bb7f-4747-b390-fd00697751a6",
           "width": 0,
-          "x": 766,
-          "y": 186,
+          "x": 574,
+          "y": 122,
           "zOrder": 33,
           "numberProperties": [],
           "stringProperties": [],
@@ -2169,812 +3945,58 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "HUD",
+          "name": "avatar",
+          "persistentUuid": "27bb2212-3900-49fe-9673-ee14c7bdfdda",
+          "width": 0,
+          "x": 0,
+          "y": 10,
+          "zOrder": 37,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 48,
+          "height": 1,
+          "keepRatio": true,
+          "layer": "HUD",
+          "name": "barra_vidas",
+          "persistentUuid": "0d3c3acc-95d8-4729-ad88-cf8f824969ff",
+          "width": 32,
+          "x": 26,
+          "y": 9,
+          "zOrder": 38,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "HUD",
+          "name": "texto_vidas",
+          "persistentUuid": "16fe3a1f-f2d9-45c6-9790-ecf0c2f9b3f1",
+          "width": 0,
+          "x": 28,
+          "y": 14,
+          "zOrder": 39,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "Jack",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "Flash",
-              "type": "Flash::Flash",
-              "HalfPeriodTime": 0.1,
-              "IsFlashing": false,
-              "FlashDuration": 0
-            },
-            {
-              "name": "PlatformerObject",
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "ignoreDefaultControls": false,
-              "jumpSpeed": 500,
-              "maxFallingSpeed": 550,
-              "maxSpeed": 150,
-              "acceleration": 1500,
-              "canGoDownFromJumpthru": true,
-              "canGrabPlatforms": false,
-              "canGrabWithoutMoving": true,
-              "deceleration": 1500,
-              "gravity": 1000,
-              "jumpSustainTime": 0.2,
-              "ladderClimbingSpeed": 150,
-              "slopeMaxAngle": 60,
-              "useLegacyTrajectory": false,
-              "xGrabTolerance": 10,
-              "yGrabOffset": 0
-            }
-          ],
-          "animations": [
-            {
-              "name": "parado",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Personagem\\01-Idle\\Idle 01.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 32,
-                        "y": 32
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 24,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 32
-                          },
-                          {
-                            "x": 24,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Personagem\\01-Idle\\Idle 02.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 32,
-                        "y": 32
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 24,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 32
-                          },
-                          {
-                            "x": 24,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Personagem\\01-Idle\\Idle 03.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 32,
-                        "y": 32
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 24,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 32
-                          },
-                          {
-                            "x": 24,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Personagem\\01-Idle\\Idle 04.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 32,
-                        "y": 32
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 24,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 32
-                          },
-                          {
-                            "x": 24,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Personagem\\01-Idle\\Idle 05.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 32,
-                        "y": 32
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 24,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 32
-                          },
-                          {
-                            "x": 24,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "correndo",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Personagem\\02-Run\\Run 01.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 32,
-                        "y": 32
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 24,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 32
-                          },
-                          {
-                            "x": 24,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Personagem\\02-Run\\Run 02.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 32,
-                        "y": 32
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 24,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 32
-                          },
-                          {
-                            "x": 24,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Personagem\\02-Run\\Run 03.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 32,
-                        "y": 32
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 24,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 32
-                          },
-                          {
-                            "x": 24,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Personagem\\02-Run\\Run 04.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 32,
-                        "y": 32
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 24,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 32
-                          },
-                          {
-                            "x": 24,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Personagem\\02-Run\\Run 05.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 32,
-                        "y": 32
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 24,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 32
-                          },
-                          {
-                            "x": 24,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Personagem\\02-Run\\Run 06.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 32,
-                        "y": 32
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 24,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 32
-                          },
-                          {
-                            "x": 24,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "pulo",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Personagem\\03-Jump\\Jump 01.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 32,
-                        "y": 32
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 24,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 32
-                          },
-                          {
-                            "x": 24,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Personagem\\03-Jump\\Jump 02.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 32,
-                        "y": 32
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 24,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 32
-                          },
-                          {
-                            "x": 24,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Personagem\\03-Jump\\Jump 03.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 32,
-                        "y": 32
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 24,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 32
-                          },
-                          {
-                            "x": 24,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "queda",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Personagem\\04-Fall\\Fall 01.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 32,
-                        "y": 32
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 24,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 32
-                          },
-                          {
-                            "x": 24,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "dano",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.07142857142857142,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Personagem\\06-Hit\\Hit 01.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 32,
-                        "y": 32
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 24,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 32
-                          },
-                          {
-                            "x": 24,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Personagem\\06-Hit\\Hit 02.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 32,
-                        "y": 32
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 24,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 32
-                          },
-                          {
-                            "x": 24,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Personagem\\06-Hit\\Hit 03.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 32,
-                        "y": 32
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 24,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 32
-                          },
-                          {
-                            "x": 24,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Personagem\\06-Hit\\Hit 04.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 32,
-                        "y": 32
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 24,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 4
-                          },
-                          {
-                            "x": 40,
-                            "y": 32
-                          },
-                          {
-                            "x": 24,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "height": 32,
-          "name": "bloco_solido",
-          "texture": "Assets\\bloco solido.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": false,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
-            }
-          ]
-        },
         {
           "assetStoreId": "",
           "height": 32,
@@ -3785,462 +4807,6 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "armadilha_espinhos",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Objetos\\Armadilhas\\Spikes.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 32
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 16
-                          },
-                          {
-                            "x": 31,
-                            "y": 16
-                          },
-                          {
-                            "x": 31,
-                            "y": 32
-                          },
-                          {
-                            "x": 0,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "Karkinos",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.1,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 01.png",
-                      "points": [
-                        {
-                          "name": "cabeca",
-                          "x": 35.5,
-                          "y": 8
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 36,
-                        "y": 28.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 17,
-                            "y": 3
-                          },
-                          {
-                            "x": 57,
-                            "y": 3
-                          },
-                          {
-                            "x": 57,
-                            "y": 26
-                          },
-                          {
-                            "x": 17,
-                            "y": 26
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 02.png",
-                      "points": [
-                        {
-                          "name": "cabeca",
-                          "x": 35.5,
-                          "y": 8
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 36,
-                        "y": 28.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 17,
-                            "y": 3
-                          },
-                          {
-                            "x": 57,
-                            "y": 3
-                          },
-                          {
-                            "x": 57,
-                            "y": 26
-                          },
-                          {
-                            "x": 17,
-                            "y": 26
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 03.png",
-                      "points": [
-                        {
-                          "name": "cabeca",
-                          "x": 35.5,
-                          "y": 8
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 36,
-                        "y": 28.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 17,
-                            "y": 3
-                          },
-                          {
-                            "x": 57,
-                            "y": 3
-                          },
-                          {
-                            "x": 57,
-                            "y": 26
-                          },
-                          {
-                            "x": 17,
-                            "y": 26
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 04.png",
-                      "points": [
-                        {
-                          "name": "cabeca",
-                          "x": 35.5,
-                          "y": 8
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 36,
-                        "y": 28.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 17,
-                            "y": 3
-                          },
-                          {
-                            "x": 57,
-                            "y": 3
-                          },
-                          {
-                            "x": 57,
-                            "y": 26
-                          },
-                          {
-                            "x": 17,
-                            "y": 26
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 05.png",
-                      "points": [
-                        {
-                          "name": "cabeca",
-                          "x": 35.5,
-                          "y": 8
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 36,
-                        "y": 28.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 17,
-                            "y": 3
-                          },
-                          {
-                            "x": 57,
-                            "y": 3
-                          },
-                          {
-                            "x": 57,
-                            "y": 26
-                          },
-                          {
-                            "x": 17,
-                            "y": 26
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Inimigos\\caranguejo\\Correndo\\Run 06.png",
-                      "points": [
-                        {
-                          "name": "cabeca",
-                          "x": 35.5,
-                          "y": 8
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 36,
-                        "y": 28.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 17,
-                            "y": 3
-                          },
-                          {
-                            "x": 57,
-                            "y": 3
-                          },
-                          {
-                            "x": 57,
-                            "y": 26
-                          },
-                          {
-                            "x": 17,
-                            "y": 26
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "trigger_direita",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Sistema\\trigger direita.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 16
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 16,
-                            "y": 0
-                          },
-                          {
-                            "x": 16,
-                            "y": 16
-                          },
-                          {
-                            "x": 0,
-                            "y": 16
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "trigger_esquerda",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Sistema\\trigger esquerda.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 16
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 16,
-                            "y": 0
-                          },
-                          {
-                            "x": 16,
-                            "y": 16
-                          },
-                          {
-                            "x": 0,
-                            "y": 16
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
           "name": "NewSprite",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -4250,385 +4816,63 @@
           "animations": []
         },
         {
+          "assetStoreId": "",
+          "name": "NewBitmapText",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "This text use the default bitmap font.\nUse a custom Bitmap Font to create your own texts.",
+            "opacity": 255,
+            "scale": 1,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "",
+            "textureAtlasResourceName": "",
+            "align": "left",
+            "verticalTextAlignment": "top"
+          }
+        },
+        {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "inimigo_atirador",
+          "name": "NewSprite2",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "animations": [
-            {
-              "name": "parado",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Inimigos\\Atirador\\Parado\\1.png",
-                      "points": [
-                        {
-                          "name": "tiro",
-                          "x": 12,
-                          "y": 23.5
-                        },
-                        {
-                          "name": "cabeça",
-                          "x": 24.5,
-                          "y": 11.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 30,
-                        "y": 25.5
-                      },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 30,
-                        "y": 12
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 1,
-                            "y": 0
-                          },
-                          {
-                            "x": 59,
-                            "y": 0
-                          },
-                          {
-                            "x": 59,
-                            "y": 31
-                          },
-                          {
-                            "x": 1,
-                            "y": 31
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "ataque",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Inimigos\\Atirador\\Ataque\\1.png",
-                      "points": [
-                        {
-                          "name": "tiro",
-                          "x": 12,
-                          "y": 23.5
-                        },
-                        {
-                          "name": "cabeça",
-                          "x": 24.5,
-                          "y": 11.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 30,
-                        "y": 25.5
-                      },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 30,
-                        "y": 12
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 1,
-                            "y": 0
-                          },
-                          {
-                            "x": 59,
-                            "y": 0
-                          },
-                          {
-                            "x": 59,
-                            "y": 31
-                          },
-                          {
-                            "x": 1,
-                            "y": 31
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Inimigos\\Atirador\\Ataque\\2.png",
-                      "points": [
-                        {
-                          "name": "tiro",
-                          "x": 12,
-                          "y": 23.5
-                        },
-                        {
-                          "name": "cabeça",
-                          "x": 24.5,
-                          "y": 11.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 30,
-                        "y": 25.5
-                      },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 30,
-                        "y": 12
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 1,
-                            "y": 0
-                          },
-                          {
-                            "x": 59,
-                            "y": 0
-                          },
-                          {
-                            "x": 59,
-                            "y": 31
-                          },
-                          {
-                            "x": 1,
-                            "y": 31
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Inimigos\\Atirador\\Ataque\\3.png",
-                      "points": [
-                        {
-                          "name": "tiro",
-                          "x": 12,
-                          "y": 23.5
-                        },
-                        {
-                          "name": "cabeça",
-                          "x": 24.5,
-                          "y": 11.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 30,
-                        "y": 25.5
-                      },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 30,
-                        "y": 12
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 1,
-                            "y": 0
-                          },
-                          {
-                            "x": 59,
-                            "y": 0
-                          },
-                          {
-                            "x": 59,
-                            "y": 31
-                          },
-                          {
-                            "x": 1,
-                            "y": 31
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Inimigos\\Atirador\\Ataque\\4.png",
-                      "points": [
-                        {
-                          "name": "tiro",
-                          "x": 12,
-                          "y": 23.5
-                        },
-                        {
-                          "name": "cabeça",
-                          "x": 24.5,
-                          "y": 11.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 30,
-                        "y": 25.5
-                      },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 30,
-                        "y": 12
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 1,
-                            "y": 0
-                          },
-                          {
-                            "x": 59,
-                            "y": 0
-                          },
-                          {
-                            "x": 59,
-                            "y": 31
-                          },
-                          {
-                            "x": 1,
-                            "y": 31
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Inimigos\\Atirador\\Ataque\\5.png",
-                      "points": [
-                        {
-                          "name": "tiro",
-                          "x": 12,
-                          "y": 23.5
-                        },
-                        {
-                          "name": "cabeça",
-                          "x": 24.5,
-                          "y": 11.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 30,
-                        "y": 25.5
-                      },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 30,
-                        "y": 12
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 1,
-                            "y": 0
-                          },
-                          {
-                            "x": 59,
-                            "y": 0
-                          },
-                          {
-                            "x": 59,
-                            "y": 31
-                          },
-                          {
-                            "x": 1,
-                            "y": 31
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\Inimigos\\Atirador\\Ataque\\5.png",
-                      "points": [
-                        {
-                          "name": "tiro",
-                          "x": 12,
-                          "y": 23.5
-                        },
-                        {
-                          "name": "cabeça",
-                          "x": 24.5,
-                          "y": 11.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 30,
-                        "y": 25.5
-                      },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 30,
-                        "y": 12
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 1,
-                            "y": 0
-                          },
-                          {
-                            "x": 59,
-                            "y": 0
-                          },
-                          {
-                            "x": 59,
-                            "y": 31
-                          },
-                          {
-                            "x": 1,
-                            "y": 31
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "animations": []
+        },
+        {
+          "assetStoreId": "",
+          "name": "texto_vidas",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "x00",
+            "opacity": 255,
+            "scale": 1,
+            "fontSize": 20,
+            "tint": "243;233;233",
+            "bitmapFontResourceName": "Assets\\Fonte\\Fonte_jogo\\Fonte_jogo.fnt",
+            "textureAtlasResourceName": "Assets\\Fonte\\Fonte_jogo\\Fonte_jogo (cópia).png",
+            "align": "left",
+            "verticalTextAlignment": "top"
+          }
         },
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "espinho",
+          "name": "avatar",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [
-            {
-              "extraBorder": 0,
-              "name": "DestruirFora",
-              "type": "DestroyOutsideBehavior::DestroyOutside"
-            }
-          ],
+          "behaviors": [],
           "animations": [
             {
               "name": "",
@@ -4640,7 +4884,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Assets\\Inimigos\\Atirador\\1.png",
+                      "image": "Assets\\HUD\\avatar_pirata.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4656,20 +4900,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 5
+                            "x": 1,
+                            "y": 1
                           },
                           {
-                            "x": 13,
-                            "y": 5
+                            "x": 25,
+                            "y": 1
                           },
                           {
-                            "x": 13,
-                            "y": 11
+                            "x": 25,
+                            "y": 21
                           },
                           {
-                            "x": 3,
-                            "y": 11
+                            "x": 1,
+                            "y": 21
                           }
                         ]
                       ]
@@ -4679,22 +4923,53 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "barra_vidas",
+          "type": "TiledUnitsBar::TiledUnitsBar",
+          "variant": "",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "InitialValue": 3,
+            "MaxValue": 3,
+            "ShowBackground": false,
+            "UnitWidth": 10
+          },
+          "childrenContent": {
+            "Background": {
+              "bottomMargin": 0,
+              "height": 32,
+              "leftMargin": 0,
+              "rightMargin": 0,
+              "texture": "",
+              "tiled": true,
+              "topMargin": 0,
+              "width": 32
+            },
+            "Bar": {
+              "height": 8,
+              "texture": "Assets\\HUD\\coracao_base.png",
+              "width": 10
+            },
+            "FillBar": {
+              "height": 8,
+              "texture": "Assets\\HUD\\coracao_barra.png",
+              "width": 10
+            }
+          }
         }
       ],
       "objectsFolderStructure": {
         "folderName": "__ROOT",
         "children": [
           {
-            "objectName": "Jack"
-          },
-          {
             "objectName": "ceu"
           },
           {
             "objectName": "agua_adicional"
-          },
-          {
-            "objectName": "bloco_solido"
           },
           {
             "objectName": "bloco_atravessavel"
@@ -4727,25 +5002,22 @@
             "objectName": "NewText"
           },
           {
-            "objectName": "armadilha_espinhos"
-          },
-          {
-            "objectName": "Karkinos"
-          },
-          {
-            "objectName": "trigger_direita"
-          },
-          {
             "objectName": "NewSprite"
           },
           {
-            "objectName": "inimigo_atirador"
+            "objectName": "NewBitmapText"
           },
           {
-            "objectName": "espinho"
+            "objectName": "NewSprite2"
           },
           {
-            "objectName": "trigger_esquerda"
+            "objectName": "texto_vidas"
+          },
+          {
+            "objectName": "avatar"
+          },
+          {
+            "objectName": "barra_vidas"
           }
         ]
       },
@@ -5996,6 +6268,155 @@
                 "Jack",
                 "bloco_solido",
                 ""
+              ]
+            }
+          ]
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "HUD",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TiledUnitsBar::TiledUnitsBar::SetValue"
+              },
+              "parameters": [
+                "barra_vidas",
+                "=",
+                "hp",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "texto_vidas",
+                "Text",
+                "=",
+                "\"x0\" + vidas"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "vidas",
+                    "<",
+                    "10"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "vidas",
+                    ">=",
+                    "10"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "texto_vidas",
+                    "Text",
+                    "=",
+                    "\"x0\"+vidas"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "texto_vidas",
+                    "Text",
+                    "=",
+                    "\"x\" + vidas"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"a\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "hp",
+                "+",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "hp",
+                ">=",
+                "3"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "hp",
+                "=",
+                "3"
               ]
             }
           ]
@@ -9616,6 +10037,1698 @@
         }
       ],
       "eventsBasedObjects": []
+    },
+    {
+      "author": "",
+      "category": "User interface",
+      "extensionNamespace": "",
+      "fullName": "Resource bar (separated units)",
+      "gdevelopVersion": ">=5.5.222",
+      "helpPath": "/objects/resource-bar",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLWRvdHMtaG9yaXpvbnRhbCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xNiwxMkEyLDIgMCAwLDEgMTgsMTBBMiwyIDAgMCwxIDIwLDEyQTIsMiAwIDAsMSAxOCwxNEEyLDIgMCAwLDEgMTYsMTJNMTAsMTJBMiwyIDAgMCwxIDEyLDEwQTIsMiAwIDAsMSAxNCwxMkEyLDIgMCAwLDEgMTIsMTRBMiwyIDAgMCwxIDEwLDEyTTQsMTJBMiwyIDAgMCwxIDYsMTBBMiwyIDAgMCwxIDgsMTJBMiwyIDAgMCwxIDYsMTRBMiwyIDAgMCwxIDQsMTJaIiAvPjwvc3ZnPg==",
+      "name": "TiledUnitsBar",
+      "previewIconUrl": "https://asset-resources.gdevelop.io/public-resources/Icons/063e9152cf65bc0f3be2a828afd950c3ecf1b1fc72feefdc2467252fe987dc0f_dots-horizontal.svg",
+      "shortDescription": "A bar that represents a resource in the game (health, mana, ammo, etc).",
+      "version": "1.2.1",
+      "description": [
+        "A bar that represents a resource in the game (health, mana, ammo, etc).",
+        "",
+        "There are ready-to-use resource bars in the asset-store [resource bars pack](https://editor.gdevelop.io/?initial-dialog=asset-store&asset-pack=resource-bars-resource-bars)."
+      ],
+      "origin": {
+        "identifier": "TiledUnitsBar",
+        "name": "gdevelop-extension-store"
+      },
+      "tags": [
+        "resource",
+        "bar",
+        "health",
+        "mana",
+        "shield",
+        "hearts",
+        "lives",
+        "ammo"
+      ],
+      "authorIds": [
+        "IWykYNRvhCZBN3vEgKEbBPOR3Oc2",
+        "gqDaZjCfevOOxBYkK6zlhtZnXCg1",
+        "q8ubdigLvIRXLxsJDDTaokO41mc2"
+      ],
+      "dependencies": [],
+      "globalVariables": [],
+      "sceneVariables": [],
+      "eventsFunctions": [],
+      "eventsBasedBehaviors": [
+        {
+          "description": "A bar that represents a resource in the game (health, mana, ammo, etc).",
+          "fullName": "Resource bar",
+          "name": "ResourceBar",
+          "objectType": "",
+          "private": true,
+          "eventsFunctions": [
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPostEvents",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "This is done after the events to allow users to read the previous value at the end of the change."
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "CompareObjectTimer"
+                      },
+                      "parameters": [
+                        "Object",
+                        "\"__ResourceBar.LastValueChange\"",
+                        "<=",
+                        "PreviousHighValueDuration"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TiledUnitsBar::ResourceBar::UpdatePreviousHighValue"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "="
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "the value of the object.",
+              "fullName": "Value",
+              "functionType": "ExpressionAndCondition",
+              "name": "Value",
+              "sentence": "the value",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnNumber"
+                      },
+                      "parameters": [
+                        "CurrentValue"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expressionType": {
+                "type": "expression"
+              },
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "ActionWithOperator",
+              "getterName": "Value",
+              "name": "SetValue",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "CurrentValue",
+                        "=",
+                        "clamp(Value, 0, MaxValue)"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "Value",
+                        "<",
+                        "PreviousHighValue"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ResetObjectTimer"
+                      },
+                      "parameters": [
+                        "Object",
+                        "\"__ResourceBar.LastValueChange\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "Value",
+                        ">=",
+                        "PreviousHighValue"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TiledUnitsBar::ResourceBar::UpdatePreviousHighValue"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "the maximum value of the object.",
+              "fullName": "Maximum value",
+              "functionType": "ExpressionAndCondition",
+              "group": "Resource bar configuration",
+              "name": "MaxValue",
+              "sentence": "the maximum value",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnNumber"
+                      },
+                      "parameters": [
+                        "MaxValue"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expressionType": {
+                "type": "expression"
+              },
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "ActionWithOperator",
+              "getterName": "MaxValue",
+              "name": "SetMaxValue",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "MaxValue",
+                        "=",
+                        "Value"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Check if the bar is empty.",
+              "fullName": "Empty",
+              "functionType": "Condition",
+              "name": "IsEmpty",
+              "sentence": "_PARAM0_ bar is empty",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "CurrentValue",
+                        "=",
+                        "0"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnBoolean"
+                      },
+                      "parameters": [
+                        "True"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Check if the bar is full.",
+              "fullName": "Full",
+              "functionType": "Condition",
+              "name": "IsFull",
+              "sentence": "_PARAM0_ bar is full",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "CurrentValue",
+                        "=",
+                        "MaxValue"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnBoolean"
+                      },
+                      "parameters": [
+                        "True"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "the previous high value of the resource bar before the current change.",
+              "fullName": "Previous high value",
+              "functionType": "ExpressionAndCondition",
+              "name": "PreviousHighValue",
+              "sentence": "the previous high value",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnNumber"
+                      },
+                      "parameters": [
+                        "PreviousHighValue"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expressionType": {
+                "type": "expression"
+              },
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Force the previous resource value to update to the current one.",
+              "fullName": "Update previous value",
+              "functionType": "Action",
+              "name": "UpdatePreviousHighValue",
+              "sentence": "Update the previous resource value of _PARAM0_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "PreviousHighValue",
+                        "=",
+                        "CurrentValue"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "the previous high value conservation duration (in seconds) of the object.",
+              "fullName": "Previous high value conservation duration",
+              "functionType": "ExpressionAndCondition",
+              "group": "Resource bar configuration",
+              "name": "PreviousHighValueDuration",
+              "sentence": "the previous high value conservation duration",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnNumber"
+                      },
+                      "parameters": [
+                        "PreviousHighValueDuration"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expressionType": {
+                "type": "expression"
+              },
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "ActionWithOperator",
+              "getterName": "PreviousHighValueDuration",
+              "name": "SetPreviousHighValueDuration",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "PreviousHighValueDuration",
+                        "=",
+                        "Value"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Check if the resource value is changing.",
+              "fullName": "Value is changing",
+              "functionType": "Condition",
+              "name": "IsChanging",
+              "sentence": "_PARAM0_ value is changing",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "TiledUnitsBar::ResourceBar::PreviousHighValue"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "!=",
+                        "CurrentValue",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "CompareObjectTimer"
+                      },
+                      "parameters": [
+                        "Object",
+                        "\"__ResourceBar.LastValueChange\"",
+                        "<=",
+                        "PreviousHighValueDuration"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnBoolean"
+                      },
+                      "parameters": [
+                        "True"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            }
+          ],
+          "propertyDescriptors": [
+            {
+              "value": "1",
+              "type": "Number",
+              "label": "Value",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "CurrentValue"
+            },
+            {
+              "value": "3",
+              "type": "Number",
+              "label": "Maximum value",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "MaxValue"
+            },
+            {
+              "value": "",
+              "type": "Number",
+              "label": "Previous high value",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": true,
+              "name": "PreviousHighValue"
+            },
+            {
+              "value": "1",
+              "type": "Number",
+              "label": "Previous high value conservation duration (in seconds)",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "PreviousHighValueDuration"
+            }
+          ],
+          "sharedPropertyDescriptors": []
+        }
+      ],
+      "eventsBasedObjects": [
+        {
+          "areaMaxX": 64,
+          "areaMaxY": 64,
+          "areaMaxZ": 64,
+          "areaMinX": 0,
+          "areaMinY": 0,
+          "areaMinZ": 0,
+          "defaultName": "ResourceBar",
+          "description": "A bar that represents a resource in the game (health, mana, ammo, etc).",
+          "fullName": "Resource bar (separated units)",
+          "isUsingLegacyInstancesRenderer": true,
+          "name": "TiledUnitsBar",
+          "objects": [
+            {
+              "assetStoreId": "",
+              "height": 32,
+              "name": "FillBar",
+              "texture": "",
+              "type": "TiledSpriteObject::TiledSprite",
+              "width": 32,
+              "variables": [],
+              "effects": [],
+              "behaviors": [
+                {
+                  "name": "ResourceBar",
+                  "type": "TiledUnitsBar::ResourceBar",
+                  "Value": 1,
+                  "MaxValue": 3,
+                  "PreviousValue": 0
+                }
+              ]
+            },
+            {
+              "assetStoreId": "",
+              "height": 32,
+              "name": "Bar",
+              "texture": "",
+              "type": "TiledSpriteObject::TiledSprite",
+              "width": 32,
+              "variables": [],
+              "effects": [],
+              "behaviors": []
+            },
+            {
+              "assetStoreId": "",
+              "bottomMargin": 0,
+              "height": 32,
+              "leftMargin": 0,
+              "name": "Background",
+              "rightMargin": 0,
+              "texture": "",
+              "tiled": true,
+              "topMargin": 0,
+              "type": "PanelSpriteObject::PanelSprite",
+              "width": 32,
+              "variables": [],
+              "effects": [],
+              "behaviors": []
+            }
+          ],
+          "objectsFolderStructure": {
+            "folderName": "__ROOT",
+            "children": [
+              {
+                "objectName": "FillBar"
+              },
+              {
+                "objectName": "Bar"
+              },
+              {
+                "objectName": "Background"
+              }
+            ]
+          },
+          "objectsGroups": [],
+          "layers": [
+            {
+              "ambientLightColorB": 200,
+              "ambientLightColorG": 200,
+              "ambientLightColorR": 200,
+              "camera3DFarPlaneDistance": 10000,
+              "camera3DFieldOfView": 45,
+              "camera3DNearPlaneDistance": 3,
+              "cameraType": "",
+              "followBaseLayerCamera": false,
+              "isLightingLayer": false,
+              "isLocked": false,
+              "name": "",
+              "renderingType": "",
+              "visibility": true,
+              "cameras": [
+                {
+                  "defaultSize": true,
+                  "defaultViewport": true,
+                  "height": 0,
+                  "viewportBottom": 1,
+                  "viewportLeft": 0,
+                  "viewportRight": 1,
+                  "viewportTop": 0,
+                  "width": 0
+                }
+              ],
+              "effects": []
+            }
+          ],
+          "instances": [],
+          "eventsFunctions": [
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "onCreated",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "This allows to detect a change of \"intial value\" on hot reload."
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "PreviousInitialValue",
+                        "=",
+                        "InitialValue"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Create the child-object instances."
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "Background",
+                        "0",
+                        "0",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "Bar",
+                        "0",
+                        "0",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "FillBar",
+                        "0",
+                        "0",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ChangePlan"
+                      },
+                      "parameters": [
+                        "Background",
+                        "=",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ChangePlan"
+                      },
+                      "parameters": [
+                        "Bar",
+                        "=",
+                        "2"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ChangePlan"
+                      },
+                      "parameters": [
+                        "FillBar",
+                        "=",
+                        "3"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "ShowBackground",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Cache"
+                      },
+                      "parameters": [
+                        "Background"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Pass the configuration to the behavior (MaxValue must be set before Value)."
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TiledUnitsBar::TiledUnitsBar::SetMaxValue"
+                      },
+                      "parameters": [
+                        "Object",
+                        "=",
+                        "MaxValue",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "TiledUnitsBar::TiledUnitsBar::SetValue"
+                      },
+                      "parameters": [
+                        "Object",
+                        "=",
+                        "InitialValue",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "TiledUnitsBar::TiledUnitsBar",
+                  "type": "object"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "onHotReloading",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TiledUnitsBar::TiledUnitsBar::CenterBar"
+                      },
+                      "parameters": [
+                        "Object",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "TiledUnitsBar::TiledUnitsBar::SetMaxValue"
+                      },
+                      "parameters": [
+                        "Object",
+                        "=",
+                        "MaxValue",
+                        "Object.PropertyMaxValue()"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "InitialValue",
+                        "!=",
+                        "PreviousInitialValue"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "PreviousInitialValue",
+                        "=",
+                        "InitialValue"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "TiledUnitsBar::TiledUnitsBar::SetValue"
+                      },
+                      "parameters": [
+                        "Object",
+                        "=",
+                        "InitialValue",
+                        "Object.PropertyInitialValue()"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "TiledUnitsBar::TiledUnitsBar",
+                  "type": "object"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPostEvents",
+              "sentence": "",
+              "events": [
+                {
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
+                  "name": "Resize",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Comment",
+                      "color": {
+                        "b": 109,
+                        "g": 230,
+                        "r": 255,
+                        "textB": 0,
+                        "textG": 0,
+                        "textR": 0
+                      },
+                      "comment": "Children instances must be resized when the button size change:\n- background is resized to take the full dimensions of the button\n- the bar size is refreshed according to the value\n\nThe scale is set back to 1 because it means that the parent instance has the same dimensions as the union of its children instances."
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Or"
+                          },
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "value": "BuiltinCommonInstructions::CompareNumbers"
+                              },
+                              "parameters": [
+                                "Object.Width()",
+                                "!=",
+                                "max(Background.BoundingBoxRight(), Bar.BoundingBoxRight()) - min(Background.BoundingBoxLeft(), Bar.BoundingBoxLeft())"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "BuiltinCommonInstructions::CompareNumbers"
+                              },
+                              "parameters": [
+                                "Object.Height()",
+                                "!=",
+                                "max(Background.BoundingBoxBottom(), Bar.BoundingBoxBottom()) - min(Background.BoundingBoxTop(), Bar.BoundingBoxTop())"
+                              ]
+                            }
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "Width",
+                                "=",
+                                "Object.Width()"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "Height",
+                                "=",
+                                "Object.Height()"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "ScalableCapability::ScalableBehavior::SetValue"
+                              },
+                              "parameters": [
+                                "Object",
+                                "Scale",
+                                "=",
+                                "1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PanelSpriteObject::Width"
+                              },
+                              "parameters": [
+                                "Background",
+                                "=",
+                                "Width"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PanelSpriteObject::Height"
+                              },
+                              "parameters": [
+                                "Background",
+                                "=",
+                                "Height"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "TiledUnitsBar::TiledUnitsBar::CenterBar"
+                              },
+                              "parameters": [
+                                "Object",
+                                ""
+                              ]
+                            }
+                          ],
+                          "variables": [
+                            {
+                              "name": "Width",
+                              "type": "number",
+                              "value": 0
+                            },
+                            {
+                              "name": "Height",
+                              "type": "number",
+                              "value": 0
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "parameters": []
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "TiledUnitsBar::TiledUnitsBar",
+                  "type": "object"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Center the bar according to the button configuration. This is used in doStepPostEvents when the button is resized.",
+              "fullName": "",
+              "functionType": "Action",
+              "name": "CenterBar",
+              "private": true,
+              "sentence": "Center the bar of _PARAM0_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetCenter"
+                      },
+                      "parameters": [
+                        "Bar",
+                        "=",
+                        "Background.CenterX()",
+                        "=",
+                        "Background.CenterY()"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MettreX"
+                      },
+                      "parameters": [
+                        "Bar",
+                        "+",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MettreY"
+                      },
+                      "parameters": [
+                        "Bar",
+                        "+",
+                        "0"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "FillBar",
+                        "=",
+                        "Bar.X()",
+                        "=",
+                        "Bar.Y()"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "TiledUnitsBar::TiledUnitsBar",
+                  "type": "object"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "the value of the object.",
+              "fullName": "Value",
+              "functionType": "ExpressionAndCondition",
+              "group": "Resource bar",
+              "name": "Value",
+              "sentence": "the value",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnNumber"
+                      },
+                      "parameters": [
+                        "FillBar.ResourceBar::Value()"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expressionType": {
+                "type": "expression"
+              },
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "TiledUnitsBar::TiledUnitsBar",
+                  "type": "object"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "ActionWithOperator",
+              "getterName": "Value",
+              "name": "SetValue",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "The value is clamped by the behavior. This is why Object.Value() is used instead of Value directly."
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TiledUnitsBar::ResourceBar::SetValue"
+                      },
+                      "parameters": [
+                        "FillBar",
+                        "ResourceBar",
+                        "=",
+                        "Value",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResizableCapability::ResizableBehavior::SetWidth"
+                      },
+                      "parameters": [
+                        "FillBar",
+                        "Resizable",
+                        "=",
+                        "Object.Value() * UnitWidth"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "TiledUnitsBar::TiledUnitsBar",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "the maximum value of the object.",
+              "fullName": "Maximum value",
+              "functionType": "ExpressionAndCondition",
+              "group": "Resource bar configuration",
+              "name": "MaxValue",
+              "sentence": "the maximum value",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnNumber"
+                      },
+                      "parameters": [
+                        "FillBar.ResourceBar::MaxValue()"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expressionType": {
+                "type": "expression"
+              },
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "TiledUnitsBar::TiledUnitsBar",
+                  "type": "object"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "ActionWithOperator",
+              "getterName": "MaxValue",
+              "name": "SetMaxValue",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TiledUnitsBar::ResourceBar::SetMaxValue"
+                      },
+                      "parameters": [
+                        "FillBar",
+                        "ResourceBar",
+                        "=",
+                        "Value",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResizableCapability::ResizableBehavior::SetWidth"
+                      },
+                      "parameters": [
+                        "Bar",
+                        "Resizable",
+                        "=",
+                        "Value * UnitWidth"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "TiledUnitsBar::TiledUnitsBar::CenterBar"
+                      },
+                      "parameters": [
+                        "Object",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "TiledUnitsBar::TiledUnitsBar",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "TiledUnitsBar::ResourceBar",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Check if the bar is empty.",
+              "fullName": "Empty",
+              "functionType": "Condition",
+              "group": "Resource bar",
+              "name": "IsEmpty",
+              "sentence": "_PARAM0_ bar is empty",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "TiledUnitsBar::ResourceBar::IsEmpty"
+                      },
+                      "parameters": [
+                        "FillBar",
+                        "ResourceBar",
+                        "="
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnBoolean"
+                      },
+                      "parameters": [
+                        "True"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "TiledUnitsBar::TiledUnitsBar",
+                  "type": "object"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Check if the bar is full.",
+              "fullName": "Full",
+              "functionType": "Condition",
+              "group": "Resource bar",
+              "name": "IsFull",
+              "sentence": "_PARAM0_ bar is full",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "TiledUnitsBar::ResourceBar::IsFull"
+                      },
+                      "parameters": [
+                        "FillBar",
+                        "ResourceBar",
+                        "="
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnBoolean"
+                      },
+                      "parameters": [
+                        "True"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "supplementaryInformation": "TiledUnitsBar::TiledUnitsBar",
+                  "type": "object"
+                }
+              ],
+              "objectGroups": []
+            }
+          ],
+          "propertyDescriptors": [
+            {
+              "value": "3",
+              "type": "Number",
+              "unit": "Dimensionless",
+              "label": "Maximum value",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "MaxValue"
+            },
+            {
+              "value": "3",
+              "type": "Number",
+              "unit": "Dimensionless",
+              "label": "Initial value",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "InitialValue"
+            },
+            {
+              "value": "",
+              "type": "Number",
+              "label": "",
+              "description": "It's used to detect a change at hot reload.",
+              "group": "",
+              "extraInformation": [],
+              "hidden": true,
+              "name": "PreviousInitialValue"
+            },
+            {
+              "value": "24",
+              "type": "Number",
+              "unit": "Pixel",
+              "label": "Unit width",
+              "description": "How much pixels to show for a value of 1.",
+              "group": "",
+              "extraInformation": [],
+              "name": "UnitWidth"
+            },
+            {
+              "value": "true",
+              "type": "Boolean",
+              "label": "Show the background",
+              "description": "",
+              "group": "",
+              "extraInformation": [
+                "Background"
+              ],
+              "name": "ShowBackground"
+            },
+            {
+              "value": "0",
+              "type": "Number",
+              "unit": "Pixel",
+              "label": "Bar left margin",
+              "description": "",
+              "group": "",
+              "extraInformation": [
+                "FillBar",
+                "Bar"
+              ],
+              "name": "BarLeftPadding"
+            },
+            {
+              "value": "0",
+              "type": "Number",
+              "unit": "Pixel",
+              "label": "Bar right margin",
+              "description": "",
+              "group": "",
+              "extraInformation": [
+                "FillBar",
+                "Bar"
+              ],
+              "name": "BarRightPadding"
+            },
+            {
+              "value": "Center",
+              "type": "String",
+              "label": "",
+              "description": "Only used by the scene editor.",
+              "group": "",
+              "extraInformation": [
+                "FillBar",
+                "Bar"
+              ],
+              "hidden": true,
+              "name": "BarVerticalAnchorOrigin"
+            },
+            {
+              "value": "Center",
+              "type": "String",
+              "label": "",
+              "description": "Only used by the scene editor.",
+              "group": "",
+              "extraInformation": [
+                "Background"
+              ],
+              "hidden": true,
+              "name": "BarVerticalAnchorTarget"
+            }
+          ],
+          "variants": []
+        }
+      ]
     }
   ],
   "externalLayouts": []
