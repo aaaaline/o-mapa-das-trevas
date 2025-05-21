@@ -625,6 +625,254 @@
         "name": "Assets\\HUD\\coracao_base.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Efeito caveira/01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Efeito caveira\\01.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Efeito caveira/02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Efeito caveira\\02.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Efeito caveira/03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Efeito caveira\\03.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Efeito caveira/04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Efeito caveira\\04.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Inimigos/Efeito caveira/05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Inimigos\\Efeito caveira\\05.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Red Potion/01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Red Potion\\01.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Red Potion/02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Red Potion\\02.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Red Potion/03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Red Potion\\03.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Red Potion/04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Red Potion\\04.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Red Potion/05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Red Potion\\05.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Red Potion/06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Red Potion\\06.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Red Potion/07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Red Potion\\07.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Green Bottle/01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Green Bottle\\01.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Green Bottle/02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Green Bottle\\02.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Green Bottle/03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Green Bottle\\03.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Green Bottle/04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Green Bottle\\04.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Green Bottle/05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Green Bottle\\05.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Green Bottle/06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Green Bottle\\06.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Green Bottle/07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Green Bottle\\07.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Golden Skull/01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Golden Skull\\01.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Golden Skull/02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Golden Skull\\02.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Golden Skull/03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Golden Skull\\03.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Golden Skull/04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Golden Skull\\04.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Golden Skull/05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Golden Skull\\05.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Golden Skull/06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Golden Skull\\06.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Golden Skull/07.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Golden Skull\\07.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Golden Skull/08.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Golden Skull\\08.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Potion Effect/01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Potion Effect\\01.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Potion Effect/02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Potion Effect\\02.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Potion Effect/03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Potion Effect\\03.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Potion Effect/04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Potion Effect\\04.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -2319,13 +2567,363 @@
           "yGrabOffset": 0
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "caveira",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.2,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Inimigos\\Efeito caveira\\01.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 26
+                      },
+                      {
+                        "x": 5,
+                        "y": 26
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Inimigos\\Efeito caveira\\02.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 26
+                      },
+                      {
+                        "x": 5,
+                        "y": 26
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Inimigos\\Efeito caveira\\03.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 26
+                      },
+                      {
+                        "x": 5,
+                        "y": 26
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Inimigos\\Efeito caveira\\04.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 26
+                      },
+                      {
+                        "x": 5,
+                        "y": 26
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Inimigos\\Efeito caveira\\05.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 26
+                      },
+                      {
+                        "x": 5,
+                        "y": 26
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "texto_vidas",
+      "type": "BitmapText::BitmapTextObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "x00",
+        "opacity": 255,
+        "scale": 1,
+        "fontSize": 20,
+        "tint": "243;233;233",
+        "bitmapFontResourceName": "Assets\\Fonte\\Fonte_jogo\\Fonte_jogo.fnt",
+        "textureAtlasResourceName": "Assets\\Fonte\\Fonte_jogo\\Fonte_jogo (cópia).png",
+        "align": "left",
+        "verticalTextAlignment": "top"
+      }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "avatar",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\HUD\\avatar_pirata.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 1
+                      },
+                      {
+                        "x": 25,
+                        "y": 1
+                      },
+                      {
+                        "x": 25,
+                        "y": 21
+                      },
+                      {
+                        "x": 1,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "barra_vidas",
+      "type": "TiledUnitsBar::TiledUnitsBar",
+      "variant": "",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "InitialValue": 3,
+        "MaxValue": 3,
+        "ShowBackground": false,
+        "UnitWidth": 10
+      },
+      "childrenContent": {
+        "Background": {
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "",
+          "tiled": true,
+          "topMargin": 0,
+          "width": 32
+        },
+        "Bar": {
+          "height": 8,
+          "texture": "Assets\\HUD\\coracao_base.png",
+          "width": 10
+        },
+        "FillBar": {
+          "height": 8,
+          "texture": "Assets\\HUD\\coracao_barra.png",
+          "width": 10
+        }
+      }
     }
   ],
   "objectsFolderStructure": {
     "folderName": "__ROOT",
     "children": [
       {
-        "folderName": "FX"
+        "folderName": "hud",
+        "children": [
+          {
+            "objectName": "barra_vidas"
+          },
+          {
+            "objectName": "avatar"
+          },
+          {
+            "objectName": "texto_vidas"
+          }
+        ]
+      },
+      {
+        "folderName": "FX",
+        "children": [
+          {
+            "objectName": "caveira"
+          }
+        ]
       },
       {
         "folderName": "personagem",
@@ -2406,6 +3004,17 @@
           "name": "inimigo_atirador"
         }
       ]
+    },
+    {
+      "name": "FX_destroy",
+      "objects": [
+        {
+          "name": "caveira"
+        },
+        {
+          "name": "fx_pocao"
+        }
+      ]
     }
   ],
   "variables": [
@@ -2441,7 +3050,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 7.409974779914783,
+        "zoomFactor": 1.2777758561362627,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -3994,6 +4603,118 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "item_pocao",
+          "persistentUuid": "f96210a6-1904-4606-9226-0daa21ab6c56",
+          "width": 0,
+          "x": 935,
+          "y": 160,
+          "zOrder": 40,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "item_pocao_verde",
+          "persistentUuid": "666393a5-2cff-44c1-ac24-bc8033647559",
+          "width": 0,
+          "x": 371,
+          "y": 96,
+          "zOrder": 41,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "armadilha_espinhos",
+          "persistentUuid": "48310a89-ddaa-483f-a4ad-2add6730d213",
+          "width": 0,
+          "x": 672,
+          "y": 192,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "item_caveira",
+          "persistentUuid": "d9410cb9-a213-447e-9316-5d8ef3022ba2",
+          "width": 0,
+          "x": 736,
+          "y": 132,
+          "zOrder": 43,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "armadilha_espinhos",
+          "persistentUuid": "0703bf30-4aa2-4fb2-a9cf-8d1021d42001",
+          "width": 0,
+          "x": 1440,
+          "y": 128,
+          "zOrder": 44,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "armadilha_espinhos",
+          "persistentUuid": "c8595aad-ba8a-4b97-a96b-265c18e3d746",
+          "width": 0,
+          "x": 1952,
+          "y": 160,
+          "zOrder": 45,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "inimigo_atirador",
+          "persistentUuid": "2b1d7d35-6575-4400-aec7-66c5faec6eee",
+          "width": 0,
+          "x": 2122,
+          "y": 154,
+          "zOrder": 46,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -4846,28 +5567,9 @@
           "animations": []
         },
         {
-          "assetStoreId": "",
-          "name": "texto_vidas",
-          "type": "BitmapText::BitmapTextObject",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "text": "x00",
-            "opacity": 255,
-            "scale": 1,
-            "fontSize": 20,
-            "tint": "243;233;233",
-            "bitmapFontResourceName": "Assets\\Fonte\\Fonte_jogo\\Fonte_jogo.fnt",
-            "textureAtlasResourceName": "Assets\\Fonte\\Fonte_jogo\\Fonte_jogo (cópia).png",
-            "align": "left",
-            "verticalTextAlignment": "top"
-          }
-        },
-        {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "avatar",
+          "name": "item_pocao",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -4879,12 +5581,564 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "looping": true,
+                  "timeBetweenFrames": 0.1,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Assets\\HUD\\avatar_pirata.png",
+                      "image": "Assets\\Itens\\Red Potion\\01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 6.5,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 3
+                          },
+                          {
+                            "x": 11,
+                            "y": 3
+                          },
+                          {
+                            "x": 11,
+                            "y": 17
+                          },
+                          {
+                            "x": 2,
+                            "y": 17
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Itens\\Red Potion\\02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 6.5,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 3
+                          },
+                          {
+                            "x": 11,
+                            "y": 3
+                          },
+                          {
+                            "x": 11,
+                            "y": 17
+                          },
+                          {
+                            "x": 2,
+                            "y": 17
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Itens\\Red Potion\\03.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 6.5,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 3
+                          },
+                          {
+                            "x": 11,
+                            "y": 3
+                          },
+                          {
+                            "x": 11,
+                            "y": 17
+                          },
+                          {
+                            "x": 2,
+                            "y": 17
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Itens\\Red Potion\\04.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 6.5,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 3
+                          },
+                          {
+                            "x": 11,
+                            "y": 3
+                          },
+                          {
+                            "x": 11,
+                            "y": 17
+                          },
+                          {
+                            "x": 2,
+                            "y": 17
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Itens\\Red Potion\\05.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 6.5,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 3
+                          },
+                          {
+                            "x": 11,
+                            "y": 3
+                          },
+                          {
+                            "x": 11,
+                            "y": 17
+                          },
+                          {
+                            "x": 2,
+                            "y": 17
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Itens\\Red Potion\\06.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 6.5,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 3
+                          },
+                          {
+                            "x": 11,
+                            "y": 3
+                          },
+                          {
+                            "x": 11,
+                            "y": 17
+                          },
+                          {
+                            "x": 2,
+                            "y": 17
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Itens\\Red Potion\\07.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 6.5,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 3
+                          },
+                          {
+                            "x": 11,
+                            "y": 3
+                          },
+                          {
+                            "x": 11,
+                            "y": 17
+                          },
+                          {
+                            "x": 2,
+                            "y": 17
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "item_pocao_verde",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.2,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Itens\\Green Bottle\\01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 6.5,
+                        "y": 17
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 13,
+                            "y": 0
+                          },
+                          {
+                            "x": 13,
+                            "y": 17
+                          },
+                          {
+                            "x": 0,
+                            "y": 17
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Itens\\Green Bottle\\02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 6.5,
+                        "y": 17
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 13,
+                            "y": 0
+                          },
+                          {
+                            "x": 13,
+                            "y": 17
+                          },
+                          {
+                            "x": 0,
+                            "y": 17
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Itens\\Green Bottle\\03.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 6.5,
+                        "y": 17
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 13,
+                            "y": 0
+                          },
+                          {
+                            "x": 13,
+                            "y": 17
+                          },
+                          {
+                            "x": 0,
+                            "y": 17
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Itens\\Green Bottle\\04.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 6.5,
+                        "y": 17
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 13,
+                            "y": 0
+                          },
+                          {
+                            "x": 13,
+                            "y": 17
+                          },
+                          {
+                            "x": 0,
+                            "y": 17
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Itens\\Green Bottle\\05.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 6.5,
+                        "y": 17
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 13,
+                            "y": 0
+                          },
+                          {
+                            "x": 13,
+                            "y": 17
+                          },
+                          {
+                            "x": 0,
+                            "y": 17
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Itens\\Green Bottle\\06.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 6.5,
+                        "y": 17
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 13,
+                            "y": 0
+                          },
+                          {
+                            "x": 13,
+                            "y": 17
+                          },
+                          {
+                            "x": 0,
+                            "y": 17
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Itens\\Green Bottle\\07.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 6.5,
+                        "y": 17
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 13,
+                            "y": 0
+                          },
+                          {
+                            "x": 13,
+                            "y": 17
+                          },
+                          {
+                            "x": 0,
+                            "y": 17
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "item_caveira",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.2,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Itens\\Golden Skull\\01.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4900,20 +6154,272 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 1,
-                            "y": 1
+                            "x": 5,
+                            "y": 2
                           },
                           {
-                            "x": 25,
-                            "y": 1
+                            "x": 21,
+                            "y": 2
                           },
                           {
-                            "x": 25,
-                            "y": 21
+                            "x": 21,
+                            "y": 26
                           },
                           {
-                            "x": 1,
-                            "y": 21
+                            "x": 5,
+                            "y": 26
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Itens\\Golden Skull\\02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 2
+                          },
+                          {
+                            "x": 21,
+                            "y": 2
+                          },
+                          {
+                            "x": 21,
+                            "y": 26
+                          },
+                          {
+                            "x": 5,
+                            "y": 26
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Itens\\Golden Skull\\03.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 2
+                          },
+                          {
+                            "x": 21,
+                            "y": 2
+                          },
+                          {
+                            "x": 21,
+                            "y": 26
+                          },
+                          {
+                            "x": 5,
+                            "y": 26
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Itens\\Golden Skull\\04.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 2
+                          },
+                          {
+                            "x": 21,
+                            "y": 2
+                          },
+                          {
+                            "x": 21,
+                            "y": 26
+                          },
+                          {
+                            "x": 5,
+                            "y": 26
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Itens\\Golden Skull\\05.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 2
+                          },
+                          {
+                            "x": 21,
+                            "y": 2
+                          },
+                          {
+                            "x": 21,
+                            "y": 26
+                          },
+                          {
+                            "x": 5,
+                            "y": 26
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Itens\\Golden Skull\\06.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 2
+                          },
+                          {
+                            "x": 21,
+                            "y": 2
+                          },
+                          {
+                            "x": 21,
+                            "y": 26
+                          },
+                          {
+                            "x": 5,
+                            "y": 26
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Itens\\Golden Skull\\07.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 2
+                          },
+                          {
+                            "x": 21,
+                            "y": 2
+                          },
+                          {
+                            "x": 21,
+                            "y": 26
+                          },
+                          {
+                            "x": 5,
+                            "y": 26
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Itens\\Golden Skull\\08.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 2
+                          },
+                          {
+                            "x": 21,
+                            "y": 2
+                          },
+                          {
+                            "x": 21,
+                            "y": 26
+                          },
+                          {
+                            "x": 5,
+                            "y": 26
                           }
                         ]
                       ]
@@ -4925,41 +6431,172 @@
           ]
         },
         {
+          "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "barra_vidas",
-          "type": "TiledUnitsBar::TiledUnitsBar",
-          "variant": "",
+          "name": "fx_pocao",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "content": {
-            "InitialValue": 3,
-            "MaxValue": 3,
-            "ShowBackground": false,
-            "UnitWidth": 10
-          },
-          "childrenContent": {
-            "Background": {
-              "bottomMargin": 0,
-              "height": 32,
-              "leftMargin": 0,
-              "rightMargin": 0,
-              "texture": "",
-              "tiled": true,
-              "topMargin": 0,
-              "width": 32
-            },
-            "Bar": {
-              "height": 8,
-              "texture": "Assets\\HUD\\coracao_base.png",
-              "width": 10
-            },
-            "FillBar": {
-              "height": 8,
-              "texture": "Assets\\HUD\\coracao_barra.png",
-              "width": 10
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Itens\\Potion Effect\\01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8.5,
+                        "y": 39
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 8,
+                        "y": 20.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 9
+                          },
+                          {
+                            "x": 16,
+                            "y": 9
+                          },
+                          {
+                            "x": 16,
+                            "y": 39
+                          },
+                          {
+                            "x": 0,
+                            "y": 39
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Itens\\Potion Effect\\02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8.5,
+                        "y": 39
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 8,
+                        "y": 20.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 9
+                          },
+                          {
+                            "x": 16,
+                            "y": 9
+                          },
+                          {
+                            "x": 16,
+                            "y": 39
+                          },
+                          {
+                            "x": 0,
+                            "y": 39
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Itens\\Potion Effect\\03.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8.5,
+                        "y": 39
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 8,
+                        "y": 20.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 9
+                          },
+                          {
+                            "x": 16,
+                            "y": 9
+                          },
+                          {
+                            "x": 16,
+                            "y": 39
+                          },
+                          {
+                            "x": 0,
+                            "y": 39
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\Itens\\Potion Effect\\04.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8.5,
+                        "y": 39
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 8,
+                        "y": 20.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 9
+                          },
+                          {
+                            "x": 16,
+                            "y": 9
+                          },
+                          {
+                            "x": 16,
+                            "y": 39
+                          },
+                          {
+                            "x": 0,
+                            "y": 39
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
-          }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -5011,13 +6648,16 @@
             "objectName": "NewSprite2"
           },
           {
-            "objectName": "texto_vidas"
+            "objectName": "item_pocao"
           },
           {
-            "objectName": "avatar"
+            "objectName": "item_pocao_verde"
           },
           {
-            "objectName": "barra_vidas"
+            "objectName": "item_caveira"
+          },
+          {
+            "objectName": "fx_pocao"
           }
         ]
       },
@@ -6297,17 +7937,6 @@
                 "hp",
                 ""
               ]
-            },
-            {
-              "type": {
-                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-              },
-              "parameters": [
-                "texto_vidas",
-                "Text",
-                "=",
-                "\"x0\" + vidas"
-              ]
             }
           ],
           "events": [
@@ -6359,19 +7988,195 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "\"a\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "hp",
+                    "+",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "hp",
+                    ">=",
+                    "3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "hp",
+                    "=",
+                    "3"
+                  ]
+                }
+              ]
             }
           ]
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "morte morrida do jack",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
-                "value": "KeyFromTextPressed"
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "hp",
+                "<=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Jack",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
               },
               "parameters": [
                 "",
-                "\"a\""
+                "caveira",
+                "Jack.PointX(\"Center\")",
+                "Jack.PointY(\"Center\")",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Cena sem título\"",
+                "yes"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "hp",
+                "=",
+                "3"
+              ]
+            }
+          ]
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "poções",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Jack",
+                "item_pocao",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "hp",
+                "<",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "hp",
+                "<",
+                "3"
               ]
             },
             {
@@ -6391,6 +8196,27 @@
                 "+",
                 "1"
               ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "item_pocao",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "fx_pocao",
+                "item_pocao.X()",
+                "item_pocao.Y()",
+                ""
+              ]
             }
           ]
         },
@@ -6399,13 +8225,41 @@
           "conditions": [
             {
               "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Jack",
+                "item_pocao_verde",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "NumberVariable"
               },
               "parameters": [
                 "hp",
-                ">=",
+                "<",
                 "3"
               ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "hp",
+                "<",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -6417,6 +8271,108 @@
                 "hp",
                 "=",
                 "3"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "item_pocao_verde",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "fx_pocao",
+                "item_pocao_verde.X()",
+                "item_pocao_verde.Y()",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Jack",
+                "item_caveira",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "vidas",
+                "+",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "item_caveira",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "fx_pocao",
+                "item_caveira.X()",
+                "item_caveira.Y()",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+              },
+              "parameters": [
+                "FX_destroy",
+                "Animation"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "FX_destroy",
+                ""
               ]
             }
           ]
