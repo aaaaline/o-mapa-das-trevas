@@ -982,6 +982,14 @@
         "userAdded": false
       },
       {
+        "file": "Assets/fundo_menu.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets/fundo_menu.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
         "file": "assets/Alt Key.png",
         "kind": "image",
         "metadata": "",
@@ -992,14 +1000,6 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Interface/Pixel Buttons Set/c149847fef697bee5cc33a2d0fd246312008851fa1c6cc28ecb28831aeb62fed_Alt Key.png",
           "name": "Alt Key.png"
         }
-      },
-      {
-        "file": "Assets/fundo_menu.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Assets/fundo_menu.png",
-        "smoothed": false,
-        "userAdded": false
       },
       {
         "file": "assets/Button_Blank.png",
@@ -1525,6 +1525,762 @@
         "name": "Assets/tela_carregamento.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "Assets/Platforms (32x32).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Platforms (32x32).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Terrain and Back Wall (32x32).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Terrain and Back Wall (32x32).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tiled_sea.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_sea.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Pack (190 assets)/PNG/Retina/Sea/5bf50b4a49b40cdab578d8eec6720ef953fb6f8309ce6e34c501bc9bd224d903_tiled_sea.png",
+          "name": "tiled_sea.png"
+        }
+      },
+      {
+        "file": "Terrain and Back Wall (32x32)2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Terrain and Back Wall (32x32)2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Water/Bottom/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Water\\Bottom\\1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Water/Top/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Water\\Top\\1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Water/Top/2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Water\\Top\\2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Water/Top/3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Water\\Top\\3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Water/Top/4 - Copia.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Water\\Top\\4 - Copia.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Water/Top/4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Water\\Top\\4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Water Splash 1/1 - Copia.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Water Splash 1\\1 - Copia.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Water Splash 1/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Water Splash 1\\1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Water Splash 1/2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Water Splash 1\\2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Water Splash 1/3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Water Splash 1\\3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Water Splash 1/4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Water Splash 1\\4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Water Splash 1/5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Water Splash 1\\5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Water Splash 2/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Water Splash 2\\1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Water Splash 2/2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Water Splash 2\\2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Water Splash 2/3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Water Splash 2\\3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Water Splash 2/4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Water Splash 2\\4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Reflexes 1/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Reflexes 1\\1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Reflexes 1/2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Reflexes 1\\2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Reflexes 1/3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Reflexes 1\\3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Reflexes 1/4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Reflexes 1\\4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Reflexes 1/5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Reflexes 1\\5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Reflexes 1/6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Reflexes 1\\6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Reflexes 2/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Reflexes 2\\1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Reflexes 2/2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Reflexes 2\\2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Reflexes 2/3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Reflexes 2\\3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Reflexes 2/4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Reflexes 2\\4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Reflexes 2/5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Reflexes 2\\5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Water/Reflexes 2/6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Reflexes 2\\6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Ship/Ship/Hit/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Ship\\Hit\\1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Ship/Ship/Hit/2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Ship\\Hit\\2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Ship/Ship/Hit/3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Ship\\Hit\\3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Ship/Ship/Hit/4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Ship\\Hit\\4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Ship/Ship/Idle/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Ship\\Idle\\1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Ship/Ship/Idle/2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Ship\\Idle\\2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Ship/Ship/Idle/3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Ship\\Idle\\3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Ship/Ship/Idle/4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Ship\\Idle\\4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Ship/Ship/Idle/5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Ship\\Idle\\5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Ship/Ship/Idle/6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Ship\\Idle\\6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Ship/Sail/No Wind/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\No Wind\\1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Ship/Sail/No Wind/2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\No Wind\\2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Ship/Sail/No Wind/3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\No Wind\\3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Ship/Sail/No Wind/4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\No Wind\\4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Ship/Sail/No Wind/5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\No Wind\\5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Ship/Sail/No Wind/6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\No Wind\\6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Ship/Sail/No Wind/7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\No Wind\\7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Ship/Sail/No Wind/8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\No Wind\\8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Ship/Sail/Transition to No Wind/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\Transition to No Wind\\1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Ship/Sail/Transition to No Wind/2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\Transition to No Wind\\2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Ship/Sail/Transition to No Wind/3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\Transition to No Wind\\3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Ship/Destroyed/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Destroyed\\1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Ship/Destroyed/2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Destroyed\\2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Ship/Destroyed/3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Destroyed\\3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Ship/Anchor/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Anchor\\1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Ship/Anchor/2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Anchor\\2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest Key/Effect/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest Key\\Effect\\1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest Key/Effect/2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest Key\\Effect\\2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest Key/Effect/3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest Key\\Effect\\3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest Key/Effect/4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest Key\\Effect\\4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest Key/Idle/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest Key\\Idle\\1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest Key/Idle/2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest Key\\Idle\\2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest Key/Idle/3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest Key\\Idle\\3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest Key/Idle/4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest Key\\Idle\\4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest Key/Idle/5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest Key\\Idle\\5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest Key/Idle/6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest Key\\Idle\\6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest Key/Idle/7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest Key\\Idle\\7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest Key/Idle/8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest Key\\Idle\\8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Idle/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Idle\\1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Padlock/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Padlock\\1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Box/Destroyed/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Box\\Destroyed\\1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Box/Destroyed/2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Box\\Destroyed\\2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Box/Destroyed/3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Box\\Destroyed\\3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Box/Destroyed/4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Box\\Destroyed\\4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Box/Destroyed/5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Box\\Destroyed\\5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Box/Hit/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Box\\Hit\\1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Box/Hit/2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Box\\Hit\\2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Box/Hit/3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Box\\Hit\\3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Box/Hit/4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Box\\Hit\\4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Barrel/Destroyed/1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Barrel\\Destroyed\\1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Barrel/Destroyed/2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Barrel\\Destroyed\\2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Barrel/Destroyed/3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Barrel\\Destroyed\\3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Barrel/Destroyed/4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Barrel\\Destroyed\\4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Barrel/Destroyed/5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Barrel\\Destroyed\\5.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1541,6 +2297,11 @@
           "name": "controles",
           "type": "boolean",
           "value": true
+        },
+        {
+          "name": "tem_chave",
+          "type": "boolean",
+          "value": false
         }
       ],
       "effects": [],
@@ -4006,7 +4767,8 @@
         "bitmapFontResourceName": "Assets/Fonte/Fonte_jogo/Fonte_jogo.fnt",
         "textureAtlasResourceName": "Assets/Fonte/Fonte_jogo/Fonte_jogo (cópia).png",
         "align": "left",
-        "wordWrap": true
+        "wordWrap": true,
+        "verticalTextAlignment": "top"
       }
     },
     {
@@ -6007,6 +6769,222 @@
           "yGrabOffset": 0
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "agua_mexendo",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.23,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Water\\Top\\1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10,
+                    "y": 8
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 96,
+                        "y": 0
+                      },
+                      {
+                        "x": 96,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Water\\Top\\2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10,
+                    "y": 8
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 96,
+                        "y": 0
+                      },
+                      {
+                        "x": 96,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Water\\Top\\3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10,
+                    "y": 8
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 96,
+                        "y": 0
+                      },
+                      {
+                        "x": 96,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Water\\Top\\4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10,
+                    "y": 8
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 96,
+                        "y": 0
+                      },
+                      {
+                        "x": 96,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "4 - Copia",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Water\\Top\\4 - Copia.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 10,
+                    "y": 8
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 96,
+                        "y": 0
+                      },
+                      {
+                        "x": 96,
+                        "y": 32
+                      },
+                      {
+                        "x": 0,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -6018,6 +6996,9 @@
       {
         "folderName": "Inimigos",
         "children": [
+          {
+            "objectName": "agua_mexendo"
+          },
           {
             "objectName": "inimigo_totem"
           },
@@ -6118,10 +7099,10 @@
             "objectName": "PauseButton"
           },
           {
-            "objectName": "esquerda_bt"
+            "objectName": "direita_bt"
           },
           {
-            "objectName": "direita_bt"
+            "objectName": "esquerda_bt"
           },
           {
             "objectName": "pulo_bt"
@@ -6271,7 +7252,8 @@
             "bitmapFontResourceName": "Assets/Fonte/Fonte_jogo/Fonte_jogo.fnt",
             "textureAtlasResourceName": "Assets/Fonte/Fonte_jogo/Fonte_jogo (cópia).png",
             "align": "left",
-            "wordWrap": true
+            "wordWrap": true,
+            "verticalTextAlignment": "top"
           }
         }
       ],
@@ -7100,7 +8082,8 @@
             "bitmapFontResourceName": "Assets/Fonte/Fonte_jogo/Fonte_jogo.fnt",
             "textureAtlasResourceName": "Assets/Fonte/Fonte_jogo/Fonte_jogo (cópia).png",
             "align": "left",
-            "wordWrap": true
+            "wordWrap": true,
+            "verticalTextAlignment": "top"
           }
         }
       ],
@@ -10486,176 +11469,6 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "NOITE"
-        },
-        {
-          "disabled": true,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "SetLayerEffectParameter"
-              },
-              "parameters": [
-                "",
-                "\"ceu\"",
-                "\"Ajustes\"",
-                "\"brightness\"",
-                "brilho"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetLayerEffectParameter"
-              },
-              "parameters": [
-                "",
-                "\"nuvens\"",
-                "\"Ajustes\"",
-                "\"brightness\"",
-                "brilho"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetLayerEffectParameter"
-              },
-              "parameters": [
-                "",
-                "\"tileset\"",
-                "\"Ajustes\"",
-                "\"brightness\"",
-                "brilho"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetLayerEffectParameter"
-              },
-              "parameters": [
-                "",
-                "\"palmeiras_fundo\"",
-                "\"Ajustes\"",
-                "\"brightness\"",
-                "brilho"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetLayerEffectParameter"
-              },
-              "parameters": [
-                "",
-                "\"palmeiras_frente\"",
-                "\"Ajustes\"",
-                "\"brightness\"",
-                "brilho"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetLayerEffectParameter"
-              },
-              "parameters": [
-                "",
-                "",
-                "\"Ajustes\"",
-                "\"brightness\"",
-                "brilho"
-              ]
-            }
-          ]
-        },
-        {
-          "disabled": true,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "SetLayerEffectParameter"
-              },
-              "parameters": [
-                "",
-                "\"ceu\"",
-                "\"Ajustes\"",
-                "\"blue\"",
-                "azul"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetLayerEffectParameter"
-              },
-              "parameters": [
-                "",
-                "\"nuvens\"",
-                "\"Ajustes\"",
-                "\"blue\"",
-                "azul"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetLayerEffectParameter"
-              },
-              "parameters": [
-                "",
-                "\"tileset\"",
-                "\"Ajustes\"",
-                "\"blue\"",
-                "azul"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetLayerEffectParameter"
-              },
-              "parameters": [
-                "",
-                "\"palmeiras_fundo\"",
-                "\"Ajustes\"",
-                "\"blue\"",
-                "azul"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetLayerEffectParameter"
-              },
-              "parameters": [
-                "",
-                "\"palmeiras_frente\"",
-                "\"Ajustes\"",
-                "\"blue\"",
-                "azul"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetLayerEffectParameter"
-              },
-              "parameters": [
-                "",
-                "",
-                "\"Ajustes\"",
-                "\"blue\"",
-                "azul"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
           "comment": "iniciar timer"
         },
         {
@@ -11633,7 +12446,8 @@
             "bitmapFontResourceName": "Assets/Fonte/Fonte_jogo/Fonte_jogo.fnt",
             "textureAtlasResourceName": "Assets/Fonte/Fonte_jogo/Fonte_jogo (cópia).png",
             "align": "left",
-            "wordWrap": true
+            "wordWrap": true,
+            "verticalTextAlignment": "top"
           }
         }
       ],
@@ -11756,6 +12570,293 @@
               "parameters": [
                 "",
                 "\"Fase 2\"",
+                "yes"
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flash",
+          "type": "Flash::Flash"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "LightObstacleBehavior",
+          "type": "Lighting::LightObstacleBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "PlatformerConfigurationStack",
+          "type": "AdvancedJump::PlatformerConfigurationStack"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        }
+      ]
+    },
+    {
+      "b": 19,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "LOADING_32_45_32fase3",
+      "name": "LOADING - fase3",
+      "r": 13,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 14,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 1.731491677256571,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewBitmapText",
+          "persistentUuid": "4c2c8ccc-0e2e-44f8-b1ae-6295299344a9",
+          "width": 0,
+          "x": 8,
+          "y": 218,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "name": "NewBitmapText",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "Loading...",
+            "opacity": 255,
+            "scale": 1,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "Assets/Fonte/Fonte_jogo/Fonte_jogo.fnt",
+            "textureAtlasResourceName": "Assets/Fonte/Fonte_jogo/Fonte_jogo (cópia).png",
+            "align": "left",
+            "wordWrap": true,
+            "verticalTextAlignment": "top"
+          }
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "NewBitmapText"
+          }
+        ]
+      },
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "carregar audio e cena"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PrioritizeLoadingOfScene"
+              },
+              "parameters": [
+                "",
+                "\"Fase 2\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PreloadSound"
+              },
+              "parameters": [
+                "",
+                "Assets/Musicas/bgm_action_5.mp3"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "descarregar audio não utilizado"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "UnloadSound"
+              },
+              "parameters": [
+                "",
+                "Assets/Musicas/bgm_action_2.mp3"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "AreSceneAssetsLoaded"
+              },
+              "parameters": [
+                "",
+                "\"Fase3\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Fase3\"",
                 "yes"
               ]
             }
@@ -12431,7 +13532,7 @@
                   },
                   "parameters": [
                     "",
-                    "\"LOADING - MENU\"",
+                    "\"LOADING - fase3\"",
                     "yes"
                   ]
                 }
@@ -12762,6 +13863,3952 @@
                 "groundColor": "64;64;64",
                 "skyColor": "255;255;255",
                 "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flash",
+          "type": "Flash::Flash"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "LightObstacleBehavior",
+          "type": "Lighting::LightObstacleBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "PlatformerConfigurationStack",
+          "type": "AdvancedJump::PlatformerConfigurationStack"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        }
+      ]
+    },
+    {
+      "b": 197,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Fase3",
+      "name": "Fase3",
+      "r": 85,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 142,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.2,
+        "snap": false,
+        "zoomFactor": 0.6618075820388595,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [
+        {
+          "name": "piscar",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "name": "tem_chave",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "persoangem",
+          "persistentUuid": "d9bc3ff5-6436-454a-877f-cd8961f2c021",
+          "width": 0,
+          "x": 40,
+          "y": 160,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bloco_solido",
+          "persistentUuid": "d0b90296-a7b9-4ec7-b2f1-ec7a1512364d",
+          "width": 384,
+          "x": 0,
+          "y": 192,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "tileset",
+          "name": "tilemap_ilha",
+          "persistentUuid": "5873128d-c18e-4413-b8ca-4a38b2304ca7",
+          "width": 0,
+          "x": 0,
+          "y": 128,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":32,\"tileHeight\":32,\"dimX\":49,\"dimY\":5,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,1,1,1,1,1,1,1,1,1,2,-1,-1,-1,-1,-1,-1,-1,17,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18],[1,1,1,1,1,1,1,1,1,1,1,2,-1,-1,-1,17,18,18,18,18,18,18,18,18,18,23,1,1,1,1,1,1,1,24,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18],[18,18,18,18,18,18,18,18,18,18,18,19,-1,-1,-1,17,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18],[18,18,18,18,18,18,18,18,18,18,18,19,-1,-1,-1,17,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18]]}]}"
+            }
+          ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "inimigo_totem",
+          "persistentUuid": "aa7d4458-1526-4627-b4df-ba6037a9c2aa",
+          "width": 0,
+          "x": 1195,
+          "y": 116,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "inimigo_2",
+          "persistentUuid": "182a17f8-d1c9-49d2-97bc-0f7db6fe0a0a",
+          "width": 0,
+          "x": 1008,
+          "y": 123,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Passar_fase",
+          "persistentUuid": "a5267e50-2375-4fb5-82a9-8fc19ddc86b2",
+          "width": 0,
+          "x": 2161,
+          "y": 93,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Luz",
+          "name": "luz_amarela",
+          "persistentUuid": "eb8dcfb1-7d76-4169-8a0d-d48942edb159",
+          "width": 0,
+          "x": 56,
+          "y": -62,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 198,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bloco_azul",
+          "persistentUuid": "1f634a6e-74f4-41f2-9b92-7f7c562785f1",
+          "width": 400,
+          "x": -1,
+          "y": 166,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bloco_azul",
+          "persistentUuid": "b55f5ceb-464b-4dcb-bc3e-7771ea963d7e",
+          "width": 0,
+          "x": 311,
+          "y": 391,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 203,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bloco_azul",
+          "persistentUuid": "f273b17c-a893-414d-9e02-078349c71969",
+          "width": 367,
+          "x": 467,
+          "y": 160,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Luz",
+          "name": "luz_rosa",
+          "persistentUuid": "34e50f68-95b0-496c-b2f0-1161153833b8",
+          "width": 0,
+          "x": 373,
+          "y": -61,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 115,
+          "keepRatio": true,
+          "layer": "",
+          "name": "navio",
+          "persistentUuid": "bbd048a8-0ce2-4d4a-902f-01dcc5f7ddca",
+          "width": 455,
+          "x": 1676,
+          "y": 124,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 33,
+          "keepRatio": true,
+          "layer": "",
+          "name": "chave",
+          "persistentUuid": "0ab398f2-36e4-429d-9c01-374fd51ab8cf",
+          "width": 36,
+          "x": 2004,
+          "y": 43,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 66,
+          "keepRatio": true,
+          "layer": "",
+          "name": "baú",
+          "persistentUuid": "a011937c-f26e-48c7-8033-3ff1ea7440fb",
+          "width": 74,
+          "x": 2061,
+          "y": 88,
+          "zOrder": 27,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 177,
+          "keepRatio": true,
+          "layer": "",
+          "name": "vento",
+          "persistentUuid": "a59f1482-0937-483e-805d-288b01c665de",
+          "width": 137,
+          "x": 422,
+          "y": -34,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 141,
+          "keepRatio": true,
+          "layer": "",
+          "name": "mastromexendo",
+          "persistentUuid": "36d09c4c-8beb-4795-9748-ca2662dec475",
+          "width": 139,
+          "x": 1799,
+          "y": -9,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 152,
+          "keepRatio": true,
+          "layer": "",
+          "name": "agua_mexendo",
+          "persistentUuid": "96c0a250-436b-4abe-b843-a75bfa19e018",
+          "width": 96,
+          "x": 1619,
+          "y": 245,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 132,
+          "keepRatio": true,
+          "layer": "",
+          "name": "agua_mexendo",
+          "persistentUuid": "639dfc06-4c45-4a4e-b4e4-c15d52ddbcfa",
+          "width": 96,
+          "x": 2073,
+          "y": 261,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 127,
+          "keepRatio": true,
+          "layer": "",
+          "name": "agua_mexendo",
+          "persistentUuid": "1ec4d619-ed5f-4184-9df4-adf62fae7714",
+          "width": 93,
+          "x": 1977,
+          "y": 264,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 131,
+          "keepRatio": true,
+          "layer": "",
+          "name": "agua_mexendo",
+          "persistentUuid": "a09684e8-5fa0-4202-852d-fae35816bb2d",
+          "width": 93,
+          "x": 1878,
+          "y": 259,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 132,
+          "keepRatio": true,
+          "layer": "",
+          "name": "agua_mexendo",
+          "persistentUuid": "a450e1cc-5ef3-4c84-ad1e-33f20525bf57",
+          "width": 96,
+          "x": 1715,
+          "y": 259,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 132,
+          "keepRatio": true,
+          "layer": "",
+          "name": "agua_mexendo",
+          "persistentUuid": "95f0c422-792c-4a56-ac22-9b2e7df2017d",
+          "width": 96,
+          "x": 1783,
+          "y": 255,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 137,
+          "keepRatio": true,
+          "layer": "",
+          "name": "vento",
+          "persistentUuid": "5400f2c4-54e3-4458-8898-1ef29858dd90",
+          "width": 171,
+          "x": 1985,
+          "y": -118,
+          "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "inimigo_totem",
+          "persistentUuid": "40375e5b-a812-4176-8b2d-3216ab760c5e",
+          "width": 0,
+          "x": 805,
+          "y": 157,
+          "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "inimigo_1",
+          "persistentUuid": "a2e96d1e-67ff-4477-995b-3269e43f17c0",
+          "width": 0,
+          "x": 324,
+          "y": 155,
+          "zOrder": 34,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "item_pocao_completa",
+          "persistentUuid": "49ccfda1-3493-47ff-8cd4-80bce7d6c939",
+          "width": 0,
+          "x": 526,
+          "y": 115,
+          "zOrder": 35,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "item_pocao_simples",
+          "persistentUuid": "6e543927-be42-49bf-9525-d3ca6f3a74c1",
+          "width": 0,
+          "x": 975,
+          "y": 72,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "item_pocao_completa",
+          "persistentUuid": "9155cf2b-c5ba-42bf-b4b1-eb1a96ee162b",
+          "width": 0,
+          "x": 1233,
+          "y": 59,
+          "zOrder": 37,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Luz",
+          "name": "luz_rosa",
+          "persistentUuid": "04be413a-0509-48f7-8753-62313b0289fc",
+          "width": 0,
+          "x": 682,
+          "y": -26,
+          "zOrder": 38,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Luz",
+          "name": "luz_amarela",
+          "persistentUuid": "6f22f774-9856-4806-ae19-0f986508a895",
+          "width": 0,
+          "x": 1087,
+          "y": 23,
+          "zOrder": 39,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Luz",
+          "name": "luz_azul",
+          "persistentUuid": "70c3b617-314a-4fa4-9ef1-4e391efa4e79",
+          "width": 0,
+          "x": 1481,
+          "y": -33,
+          "zOrder": 40,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "trigger_esquerda",
+          "persistentUuid": "28c6525d-55e8-49dd-8157-80bffae81f56",
+          "width": 0,
+          "x": 5,
+          "y": 127,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "trigger_direita",
+          "persistentUuid": "0a016395-d0ef-418d-aa6a-75c9e2f81d7a",
+          "width": 0,
+          "x": 375,
+          "y": 141,
+          "zOrder": 43,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 201,
+          "keepRatio": true,
+          "layer": "",
+          "name": "agua_mexendo",
+          "persistentUuid": "989c4ca6-d109-4156-a43d-b786eece1415",
+          "width": 68,
+          "x": 406,
+          "y": 209,
+          "zOrder": 45,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 23,
+          "keepRatio": true,
+          "layer": "",
+          "name": "mastrotremendo",
+          "persistentUuid": "f1399ae8-44ec-4568-ac5b-e87472ba943c",
+          "width": 33,
+          "x": 411,
+          "y": 184,
+          "zOrder": 46,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "mastrotremendo",
+          "persistentUuid": "f638ec04-6adf-4b36-8e2a-dbfa071a1c27",
+          "width": 0,
+          "x": 1582,
+          "y": 167,
+          "zOrder": 47,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "mastrotremendo",
+          "persistentUuid": "1186868e-9e43-4766-acfd-9609cac7c141",
+          "width": 0,
+          "x": 1913,
+          "y": 223,
+          "zOrder": 48,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "texto_vidas",
+          "persistentUuid": "73b190b9-25f4-4d5f-a64e-02a42c79e3a0",
+          "width": 0,
+          "x": 2447,
+          "y": 111,
+          "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 177,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bloco_azul",
+          "persistentUuid": "84426c8b-a2c9-453e-a30f-8c26e6ae5eb0",
+          "width": 128,
+          "x": 827,
+          "y": 188,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 240,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bloco_azul",
+          "persistentUuid": "935a2fe4-c456-4a41-aba7-e331d92b8731",
+          "width": 701,
+          "x": 917,
+          "y": 129,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 214,
+          "keepRatio": true,
+          "layer": "",
+          "name": "agua_mexendo",
+          "persistentUuid": "1a2f7d40-ba52-419a-b40b-1bb35924630a",
+          "width": 83,
+          "x": 843,
+          "y": 214,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 137,
+          "keepRatio": true,
+          "layer": "",
+          "name": "vento",
+          "persistentUuid": "569f68d7-09c8-4667-815f-0af2f02f1018",
+          "width": 171,
+          "x": 1257,
+          "y": -17,
+          "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "inimigo_2",
+          "persistentUuid": "191b6c21-c219-4e42-9439-6caacbd91480",
+          "width": 0,
+          "x": 520,
+          "y": 155,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 137,
+          "keepRatio": true,
+          "layer": "",
+          "name": "vento",
+          "persistentUuid": "f3b50553-00e1-4a6c-bf03-60362fa40783",
+          "width": 171,
+          "x": 843,
+          "y": -19,
+          "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "name": "luz_amarela",
+          "type": "Lighting::LightObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "radius": 100,
+            "color": "255;255;255",
+            "debugMode": false,
+            "texture": "Assets/luz.png"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "luz_rosa",
+          "type": "Lighting::LightObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "radius": 150,
+            "color": "255;93;200",
+            "debugMode": false,
+            "texture": ""
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "luz_azul",
+          "type": "Lighting::LightObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "radius": 150,
+            "color": "93;227;255",
+            "debugMode": false,
+            "texture": ""
+          }
+        },
+        {
+          "assetStoreId": "3ee3a793953b7172157fb8fe898fc26a387689feb50ed02be93a48b411fd0cd6",
+          "height": 128,
+          "name": "bloco_azul",
+          "texture": "tiled_sea.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 128,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": false,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "agua2",
+          "texture": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Water\\Bottom\\1.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "NewTiledSprite",
+          "texture": "",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "vento",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Reflexes 1\\1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 14,
+                            "y": 0
+                          },
+                          {
+                            "x": 51,
+                            "y": 0
+                          },
+                          {
+                            "x": 51,
+                            "y": 24
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Reflexes 1\\2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 14,
+                            "y": 0
+                          },
+                          {
+                            "x": 51,
+                            "y": 0
+                          },
+                          {
+                            "x": 51,
+                            "y": 24
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Reflexes 1\\3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 14,
+                            "y": 0
+                          },
+                          {
+                            "x": 51,
+                            "y": 0
+                          },
+                          {
+                            "x": 51,
+                            "y": 24
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Reflexes 1\\4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 14,
+                            "y": 0
+                          },
+                          {
+                            "x": 51,
+                            "y": 0
+                          },
+                          {
+                            "x": 51,
+                            "y": 24
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Reflexes 1\\5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 14,
+                            "y": 0
+                          },
+                          {
+                            "x": 51,
+                            "y": 0
+                          },
+                          {
+                            "x": 51,
+                            "y": 24
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Water\\Reflexes 1\\6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 14,
+                            "y": 0
+                          },
+                          {
+                            "x": 51,
+                            "y": 0
+                          },
+                          {
+                            "x": 51,
+                            "y": 24
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "navio",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Ship\\Idle\\1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 2
+                          },
+                          {
+                            "x": 79,
+                            "y": 2
+                          },
+                          {
+                            "x": 79,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Ship\\Idle\\2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 2
+                          },
+                          {
+                            "x": 79,
+                            "y": 2
+                          },
+                          {
+                            "x": 79,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Ship\\Idle\\3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 2
+                          },
+                          {
+                            "x": 79,
+                            "y": 2
+                          },
+                          {
+                            "x": 79,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Ship\\Idle\\4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 2
+                          },
+                          {
+                            "x": 79,
+                            "y": 2
+                          },
+                          {
+                            "x": 79,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Ship\\Idle\\5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 2
+                          },
+                          {
+                            "x": 79,
+                            "y": 2
+                          },
+                          {
+                            "x": 79,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Ship\\Idle\\6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 2
+                          },
+                          {
+                            "x": 79,
+                            "y": 2
+                          },
+                          {
+                            "x": 79,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "mastro",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\No Wind\\1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 50
+                          },
+                          {
+                            "x": 1,
+                            "y": 50
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\No Wind\\2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 50
+                          },
+                          {
+                            "x": 1,
+                            "y": 50
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\No Wind\\3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 50
+                          },
+                          {
+                            "x": 1,
+                            "y": 50
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\No Wind\\4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 50
+                          },
+                          {
+                            "x": 1,
+                            "y": 50
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\No Wind\\5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 50
+                          },
+                          {
+                            "x": 1,
+                            "y": 50
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\No Wind\\6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 50
+                          },
+                          {
+                            "x": 1,
+                            "y": 50
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\No Wind\\7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 50
+                          },
+                          {
+                            "x": 1,
+                            "y": 50
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\No Wind\\8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 50
+                          },
+                          {
+                            "x": 1,
+                            "y": 50
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "mastromexendo",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\Transition to No Wind\\1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 26,
+                            "y": 0
+                          },
+                          {
+                            "x": 26,
+                            "y": 50
+                          },
+                          {
+                            "x": 1,
+                            "y": 50
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\Transition to No Wind\\2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 26,
+                            "y": 0
+                          },
+                          {
+                            "x": 26,
+                            "y": 50
+                          },
+                          {
+                            "x": 1,
+                            "y": 50
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\Transition to No Wind\\3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 26,
+                            "y": 0
+                          },
+                          {
+                            "x": 26,
+                            "y": 50
+                          },
+                          {
+                            "x": 1,
+                            "y": 50
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\No Wind\\1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 50
+                          },
+                          {
+                            "x": 1,
+                            "y": 50
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\No Wind\\2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 50
+                          },
+                          {
+                            "x": 1,
+                            "y": 50
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\No Wind\\3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 50
+                          },
+                          {
+                            "x": 1,
+                            "y": 50
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\No Wind\\4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 50
+                          },
+                          {
+                            "x": 1,
+                            "y": 50
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\No Wind\\5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 50
+                          },
+                          {
+                            "x": 1,
+                            "y": 50
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\No Wind\\6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 50
+                          },
+                          {
+                            "x": 1,
+                            "y": 50
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\No Wind\\7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 50
+                          },
+                          {
+                            "x": 1,
+                            "y": 50
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Sail\\No Wind\\8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 50
+                          },
+                          {
+                            "x": 1,
+                            "y": 50
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "mastrodestruido",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Destroyed\\1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 3
+                          },
+                          {
+                            "x": 56,
+                            "y": 3
+                          },
+                          {
+                            "x": 56,
+                            "y": 18
+                          },
+                          {
+                            "x": 0,
+                            "y": 18
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Destroyed\\2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 3
+                          },
+                          {
+                            "x": 56,
+                            "y": 3
+                          },
+                          {
+                            "x": 56,
+                            "y": 18
+                          },
+                          {
+                            "x": 0,
+                            "y": 18
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Destroyed\\3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 3
+                          },
+                          {
+                            "x": 56,
+                            "y": 3
+                          },
+                          {
+                            "x": 56,
+                            "y": 18
+                          },
+                          {
+                            "x": 0,
+                            "y": 18
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "mastrotremendo",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Anchor\\1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 19,
+                            "y": 0
+                          },
+                          {
+                            "x": 19,
+                            "y": 18
+                          },
+                          {
+                            "x": 0,
+                            "y": 18
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Ship\\Anchor\\2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 19,
+                            "y": 0
+                          },
+                          {
+                            "x": 19,
+                            "y": 18
+                          },
+                          {
+                            "x": 0,
+                            "y": 18
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "chave",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "tem_chave",
+              "type": "boolean",
+              "value": false
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest Key\\Idle\\1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9.5,
+                        "y": 7.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 5
+                          },
+                          {
+                            "x": 16,
+                            "y": 5
+                          },
+                          {
+                            "x": 16,
+                            "y": 20
+                          },
+                          {
+                            "x": 8,
+                            "y": 20
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest Key\\Idle\\2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9.5,
+                        "y": 7.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 5
+                          },
+                          {
+                            "x": 16,
+                            "y": 5
+                          },
+                          {
+                            "x": 16,
+                            "y": 20
+                          },
+                          {
+                            "x": 8,
+                            "y": 20
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest Key\\Idle\\3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9.5,
+                        "y": 7.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 5
+                          },
+                          {
+                            "x": 16,
+                            "y": 5
+                          },
+                          {
+                            "x": 16,
+                            "y": 20
+                          },
+                          {
+                            "x": 8,
+                            "y": 20
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest Key\\Idle\\4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9.5,
+                        "y": 7.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 5
+                          },
+                          {
+                            "x": 16,
+                            "y": 5
+                          },
+                          {
+                            "x": 16,
+                            "y": 20
+                          },
+                          {
+                            "x": 8,
+                            "y": 20
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest Key\\Idle\\5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9.5,
+                        "y": 7.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 5
+                          },
+                          {
+                            "x": 16,
+                            "y": 5
+                          },
+                          {
+                            "x": 16,
+                            "y": 20
+                          },
+                          {
+                            "x": 8,
+                            "y": 20
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest Key\\Idle\\6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9.5,
+                        "y": 7.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 5
+                          },
+                          {
+                            "x": 16,
+                            "y": 5
+                          },
+                          {
+                            "x": 16,
+                            "y": 20
+                          },
+                          {
+                            "x": 8,
+                            "y": 20
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest Key\\Idle\\7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9.5,
+                        "y": 7.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 5
+                          },
+                          {
+                            "x": 16,
+                            "y": 5
+                          },
+                          {
+                            "x": 16,
+                            "y": 20
+                          },
+                          {
+                            "x": 8,
+                            "y": 20
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest Key\\Idle\\8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9.5,
+                        "y": 7.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 5
+                          },
+                          {
+                            "x": 16,
+                            "y": 5
+                          },
+                          {
+                            "x": 16,
+                            "y": 20
+                          },
+                          {
+                            "x": 8,
+                            "y": 20
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "baú",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "pode_abrir",
+              "type": "boolean",
+              "value": true
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "bau_fechado",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Idle\\1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 4.5,
+                        "y": 10
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 8
+                          },
+                          {
+                            "x": 31,
+                            "y": 8
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "cadeado",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Padlock\\1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 4.5,
+                        "y": 10
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 8
+                          },
+                          {
+                            "x": 31,
+                            "y": 8
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "bau_aberto",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 4.5,
+                        "y": 10
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 8
+                          },
+                          {
+                            "x": 31,
+                            "y": 8
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 4.5,
+                        "y": 10
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 8
+                          },
+                          {
+                            "x": 31,
+                            "y": 8
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 4.5,
+                        "y": 10
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 8
+                          },
+                          {
+                            "x": 31,
+                            "y": 8
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 4.5,
+                        "y": 10
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 8
+                          },
+                          {
+                            "x": 31,
+                            "y": 8
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 4.5,
+                        "y": 10
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 8
+                          },
+                          {
+                            "x": 31,
+                            "y": 8
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 4.5,
+                        "y": 10
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 8
+                          },
+                          {
+                            "x": 31,
+                            "y": 8
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 4.5,
+                        "y": 10
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 8
+                          },
+                          {
+                            "x": 31,
+                            "y": 8
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 4.5,
+                        "y": 10
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 8
+                          },
+                          {
+                            "x": 31,
+                            "y": 8
+                          },
+                          {
+                            "x": 31,
+                            "y": 32
+                          },
+                          {
+                            "x": 1,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": []
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "luz_amarela"
+          },
+          {
+            "objectName": "luz_azul"
+          },
+          {
+            "objectName": "luz_rosa"
+          },
+          {
+            "objectName": "bloco_azul"
+          },
+          {
+            "objectName": "agua2"
+          },
+          {
+            "objectName": "NewTiledSprite"
+          },
+          {
+            "objectName": "vento"
+          },
+          {
+            "objectName": "navio"
+          },
+          {
+            "objectName": "mastro"
+          },
+          {
+            "objectName": "mastromexendo"
+          },
+          {
+            "objectName": "NewSprite"
+          },
+          {
+            "objectName": "mastrodestruido"
+          },
+          {
+            "objectName": "mastrotremendo"
+          },
+          {
+            "objectName": "chave"
+          },
+          {
+            "objectName": "baú"
+          },
+          {
+            "objectName": "NewSprite2"
+          }
+        ]
+      },
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "Inimigos"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "Personagem"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "CAMERA"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "CentreCamera"
+              },
+              "parameters": [
+                "",
+                "persoangem",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "CentreCamera"
+              },
+              "parameters": [
+                "",
+                "persoangem",
+                "",
+                "\"tileset\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": ""
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": ""
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": ""
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": ""
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": ""
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": ""
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": ""
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "ClampCamera"
+              },
+              "parameters": [
+                "",
+                "0",
+                "200",
+                "3000",
+                "0",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ClampCamera"
+              },
+              "parameters": [
+                "",
+                "0",
+                "150",
+                "3000",
+                "0",
+                "\"tileset\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "PASSAR DE FASE",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "PASSAR DE FASE"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "persoangem",
+                    ">",
+                    "Passar_fase.X()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"LOADING - MENU\"",
+                    "yes"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "musica"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Assets/Musicas/bgm_action_5.mp3",
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": ""
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "luz_amarela",
+                "=",
+                "persoangem.X()",
+                "=",
+                "persoangem.Y()-10"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "PISCAR LUZ"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "piscar",
+                "True",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Lighting::SetRadius"
+              },
+              "parameters": [
+                "luz_amarela",
+                "100"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "piscar",
+                "False",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Lighting::SetRadius"
+              },
+              "parameters": [
+                "luz_amarela",
+                "97"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"piscar\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"piscar\"",
+                ">=",
+                "0.1"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"piscar\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "piscar",
+                "Toggle",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "chave"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "chave",
+                "persoangem",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "chave",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "persoangem",
+                "tem_chave",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "baú"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "baú",
+                "persoangem",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "baú",
+                "pode_abrir",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "persoangem",
+                "tem_chave",
+                "False",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "baú",
+                "Animation",
+                "=",
+                "\"cadeado\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"abrirBaú\"\n"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanObjectVariable"
+              },
+              "parameters": [
+                "baú",
+                "pode_abrir",
+                "False",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CompareTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"abrirBaú\"\n",
+                    ">=",
+                    "0.2"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "baú",
+                    "Animation",
+                    "=",
+                    "\"bau_aberto\""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "agua_mexendo",
+                "persoangem",
+                "",
+                "",
+                "no"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Fase3\"",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": true,
+          "name": "tileset",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 230,
+          "ambientLightColorG": 183,
+          "ambientLightColorR": 145,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": true,
+          "isLightingLayer": true,
+          "isLocked": false,
+          "name": "Luz",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": true,
+          "name": "HUD",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Outline",
+              "name": "Effect",
+              "doubleParameters": {
+                "padding": 0,
+                "thickness": 1
+              },
+              "stringParameters": {
+                "color": "255;255;255"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "mobile",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::AmbientLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "intensity": 0.75
+              },
+              "stringParameters": {
+                "color": "255;255;255"
               },
               "booleanParameters": {}
             }
@@ -13397,7 +18444,8 @@
             "bitmapFontResourceName": "Assets/Fonte/Fonte_jogo/Fonte_jogo.fnt",
             "textureAtlasResourceName": "Assets/Fonte/Fonte_jogo/Fonte_jogo (cópia).png",
             "align": "center",
-            "wordWrap": true
+            "wordWrap": true,
+            "verticalTextAlignment": "top"
           }
         },
         {
