@@ -14020,8 +14020,8 @@
           "name": "inimigo_totem",
           "persistentUuid": "aa7d4458-1526-4627-b4df-ba6037a9c2aa",
           "width": 0,
-          "x": 1195,
-          "y": 116,
+          "x": 1369,
+          "y": 114,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -14052,8 +14052,8 @@
           "name": "Passar_fase",
           "persistentUuid": "a5267e50-2375-4fb5-82a9-8fc19ddc86b2",
           "width": 0,
-          "x": 2161,
-          "y": 93,
+          "x": 2283,
+          "y": 109,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -14094,32 +14094,16 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "bloco_azul",
-          "persistentUuid": "b55f5ceb-464b-4dcb-bc3e-7771ea963d7e",
-          "width": 0,
-          "x": 311,
-          "y": 391,
-          "zOrder": 20,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 203,
+          "height": 205,
           "keepRatio": true,
           "layer": "",
           "name": "bloco_azul",
           "persistentUuid": "f273b17c-a893-414d-9e02-078349c71969",
           "width": 367,
           "x": 467,
-          "y": 160,
+          "y": 158,
           "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
@@ -14145,14 +14129,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 115,
+          "height": 108,
           "keepRatio": true,
           "layer": "",
           "name": "navio",
           "persistentUuid": "bbd048a8-0ce2-4d4a-902f-01dcc5f7ddca",
-          "width": 455,
-          "x": 1676,
-          "y": 124,
+          "width": 413,
+          "x": 1678,
+          "y": 136,
           "zOrder": 25,
           "numberProperties": [],
           "stringProperties": [],
@@ -14162,14 +14146,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 33,
+          "height": 40,
           "keepRatio": true,
           "layer": "",
           "name": "chave",
           "persistentUuid": "0ab398f2-36e4-429d-9c01-374fd51ab8cf",
-          "width": 36,
-          "x": 2004,
-          "y": 43,
+          "width": 44,
+          "x": 1967,
+          "y": 81,
           "zOrder": 26,
           "numberProperties": [],
           "stringProperties": [],
@@ -14185,8 +14169,8 @@
           "name": "baú",
           "persistentUuid": "a011937c-f26e-48c7-8033-3ff1ea7440fb",
           "width": 74,
-          "x": 2061,
-          "y": 88,
+          "x": 2048,
+          "y": 101,
           "zOrder": 27,
           "numberProperties": [],
           "stringProperties": [],
@@ -14219,8 +14203,8 @@
           "name": "mastromexendo",
           "persistentUuid": "36d09c4c-8beb-4795-9748-ca2662dec475",
           "width": 139,
-          "x": 1799,
-          "y": -9,
+          "x": 1803,
+          "y": 6,
           "zOrder": 30,
           "numberProperties": [],
           "stringProperties": [],
@@ -14230,14 +14214,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 152,
+          "height": 162,
           "keepRatio": true,
           "layer": "",
           "name": "agua_mexendo",
           "persistentUuid": "96c0a250-436b-4abe-b843-a75bfa19e018",
           "width": 96,
           "x": 1619,
-          "y": 245,
+          "y": 248,
           "zOrder": 31,
           "numberProperties": [],
           "stringProperties": [],
@@ -14247,14 +14231,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 132,
+          "height": 145,
           "keepRatio": true,
           "layer": "",
           "name": "agua_mexendo",
           "persistentUuid": "639dfc06-4c45-4a4e-b4e4-c15d52ddbcfa",
           "width": 96,
-          "x": 2073,
-          "y": 261,
+          "x": 2062,
+          "y": 265,
           "zOrder": 31,
           "numberProperties": [],
           "stringProperties": [],
@@ -14264,14 +14248,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 127,
+          "height": 145,
           "keepRatio": true,
           "layer": "",
           "name": "agua_mexendo",
           "persistentUuid": "1ec4d619-ed5f-4184-9df4-adf62fae7714",
           "width": 93,
-          "x": 1977,
-          "y": 264,
+          "x": 1970,
+          "y": 263,
           "zOrder": 31,
           "numberProperties": [],
           "stringProperties": [],
@@ -14281,14 +14265,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 131,
+          "height": 145,
           "keepRatio": true,
           "layer": "",
           "name": "agua_mexendo",
           "persistentUuid": "a09684e8-5fa0-4202-852d-fae35816bb2d",
           "width": 93,
           "x": 1878,
-          "y": 259,
+          "y": 262,
           "zOrder": 31,
           "numberProperties": [],
           "stringProperties": [],
@@ -14298,14 +14282,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 132,
+          "height": 142,
           "keepRatio": true,
           "layer": "",
           "name": "agua_mexendo",
           "persistentUuid": "a450e1cc-5ef3-4c84-ad1e-33f20525bf57",
           "width": 96,
           "x": 1715,
-          "y": 259,
+          "y": 262,
           "zOrder": 31,
           "numberProperties": [],
           "stringProperties": [],
@@ -14315,14 +14299,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 132,
+          "height": 147,
           "keepRatio": true,
           "layer": "",
           "name": "agua_mexendo",
           "persistentUuid": "95f0c422-792c-4a56-ac22-9b2e7df2017d",
           "width": 96,
           "x": 1783,
-          "y": 255,
+          "y": 260,
           "zOrder": 31,
           "numberProperties": [],
           "stringProperties": [],
@@ -14370,8 +14354,8 @@
           "name": "inimigo_1",
           "persistentUuid": "a2e96d1e-67ff-4477-995b-3269e43f17c0",
           "width": 0,
-          "x": 324,
-          "y": 155,
+          "x": 342,
+          "y": 160,
           "zOrder": 34,
           "numberProperties": [],
           "stringProperties": [],
@@ -14386,8 +14370,8 @@
           "name": "item_pocao_completa",
           "persistentUuid": "49ccfda1-3493-47ff-8cd4-80bce7d6c939",
           "width": 0,
-          "x": 526,
-          "y": 115,
+          "x": 686,
+          "y": 114,
           "zOrder": 35,
           "numberProperties": [],
           "stringProperties": [],
@@ -14418,8 +14402,8 @@
           "name": "item_pocao_completa",
           "persistentUuid": "9155cf2b-c5ba-42bf-b4b1-eb1a96ee162b",
           "width": 0,
-          "x": 1233,
-          "y": 59,
+          "x": 1536,
+          "y": 63,
           "zOrder": 37,
           "numberProperties": [],
           "stringProperties": [],
@@ -14482,8 +14466,8 @@
           "name": "trigger_esquerda",
           "persistentUuid": "28c6525d-55e8-49dd-8157-80bffae81f56",
           "width": 0,
-          "x": 5,
-          "y": 127,
+          "x": 130,
+          "y": 163,
           "zOrder": 42,
           "numberProperties": [],
           "stringProperties": [],
@@ -14498,8 +14482,8 @@
           "name": "trigger_direita",
           "persistentUuid": "0a016395-d0ef-418d-aa6a-75c9e2f81d7a",
           "width": 0,
-          "x": 375,
-          "y": 141,
+          "x": 400,
+          "y": 163,
           "zOrder": 43,
           "numberProperties": [],
           "stringProperties": [],
@@ -14509,14 +14493,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 201,
+          "height": 198,
           "keepRatio": true,
           "layer": "",
           "name": "agua_mexendo",
           "persistentUuid": "989c4ca6-d109-4156-a43d-b786eece1415",
           "width": 68,
           "x": 406,
-          "y": 209,
+          "y": 216,
           "zOrder": 45,
           "numberProperties": [],
           "stringProperties": [],
@@ -14567,22 +14551,6 @@
           "x": 1913,
           "y": 223,
           "zOrder": 48,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "texto_vidas",
-          "persistentUuid": "73b190b9-25f4-4d5f-a64e-02a42c79e3a0",
-          "width": 0,
-          "x": 2447,
-          "y": 111,
-          "zOrder": 50,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -14648,8 +14616,8 @@
           "name": "vento",
           "persistentUuid": "569f68d7-09c8-4667-815f-0af2f02f1018",
           "width": 171,
-          "x": 1257,
-          "y": -17,
+          "x": 1564,
+          "y": -57,
           "zOrder": 32,
           "numberProperties": [],
           "stringProperties": [],
@@ -14664,8 +14632,8 @@
           "name": "inimigo_2",
           "persistentUuid": "191b6c21-c219-4e42-9439-6caacbd91480",
           "width": 0,
-          "x": 520,
-          "y": 155,
+          "x": 579,
+          "y": 154,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -14684,6 +14652,40 @@
           "x": 843,
           "y": -19,
           "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 177,
+          "keepRatio": true,
+          "layer": "",
+          "name": "vento",
+          "persistentUuid": "8d76421b-dfc5-4ee8-9990-1bc71cf09417",
+          "width": 137,
+          "x": 63,
+          "y": -38,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 236,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bloco_azul",
+          "persistentUuid": "fba105c1-cf64-45b3-871a-d68d52ba2bc4",
+          "width": 701,
+          "x": 2145,
+          "y": 142,
+          "zOrder": 51,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -16593,8 +16595,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 4.5,
-                        "y": 10
+                        "x": 15,
+                        "y": 11.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -16633,7 +16635,7 @@
               "directions": [
                 {
                   "looping": true,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.2,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
@@ -16641,8 +16643,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 4.5,
-                        "y": 10
+                        "x": 15,
+                        "y": 11.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -16670,27 +16672,15 @@
                           }
                         ]
                       ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "bau_aberto",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
+                    },
                     {
                       "hasCustomCollisionMask": true,
                       "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 4.5,
-                        "y": 10
+                        "x": 15,
+                        "y": 11.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -16725,8 +16715,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 4.5,
-                        "y": 10
+                        "x": 15,
+                        "y": 11.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -16761,8 +16751,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 4.5,
-                        "y": 10
+                        "x": 15,
+                        "y": 11.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -16797,8 +16787,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 4.5,
-                        "y": 10
+                        "x": 15,
+                        "y": 11.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -16833,8 +16823,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 4.5,
-                        "y": 10
+                        "x": 15,
+                        "y": 11.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -16869,8 +16859,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 4.5,
-                        "y": 10
+                        "x": 15,
+                        "y": 11.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -16905,8 +16895,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 4.5,
-                        "y": 10
+                        "x": 15,
+                        "y": 11.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -16941,8 +16931,8 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 4.5,
-                        "y": 10
+                        "x": 15,
+                        "y": 11.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -17559,13 +17549,12 @@
           "conditions": [
             {
               "type": {
-                "value": "CollisionNP"
+                "value": "BooleanObjectVariable"
               },
               "parameters": [
-                "baú",
                 "persoangem",
-                "",
-                "",
+                "tem_chave",
+                "False",
                 ""
               ]
             },
@@ -17582,12 +17571,13 @@
             },
             {
               "type": {
-                "value": "BooleanObjectVariable"
+                "value": "CollisionNP"
               },
               "parameters": [
+                "baú",
                 "persoangem",
-                "tem_chave",
-                "False",
+                "",
+                "",
                 ""
               ]
             }
@@ -17606,22 +17596,24 @@
             },
             {
               "type": {
-                "value": "ResetTimer"
-              },
-              "parameters": [
-                "",
-                "\"abrirBaú\"\n"
-              ]
-            },
-            {
-              "type": {
                 "value": "SetBooleanObjectVariable"
               },
               "parameters": [
                 "baú",
                 "pode_abrir",
-                "False",
+                "True",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "baú",
+                "Animation",
+                "=",
+                "\"bau_aberto\""
               ]
             }
           ],
@@ -17642,6 +17634,15 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"abrirBaú\"\n"
+                  ]
+                },
                 {
                   "type": {
                     "value": "AnimatableCapability::AnimatableBehavior::SetName"
