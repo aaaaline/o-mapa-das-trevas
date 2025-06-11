@@ -2281,6 +2281,85 @@
         "name": "Assets\\navio\\Merchant Ship\\Sprites\\Barrel\\Destroyed\\5.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Gold Coin/01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Gold Coin\\01.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Gold Coin/02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Gold Coin\\02.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Gold Coin/03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Gold Coin\\03.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Gold Coin/04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Gold Coin\\04.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Coin Effect/01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Coin Effect\\01.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Coin Effect/02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Coin Effect\\02.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Itens/Coin Effect/03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Itens\\Coin Effect\\03.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Fonte/Fonte_jogo/Fonte_jogo.fnt",
+        "kind": "bitmapFont",
+        "metadata": "",
+        "name": "Assets\\Fonte\\Fonte_jogo\\Fonte_jogo.fnt",
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Fonte/Fonte_jogo/Fonte_jogo (cópia).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Fonte\\Fonte_jogo\\Fonte_jogo (cópia).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/Fonte/Fonte_jogo/Fonte_jogo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Fonte\\Fonte_jogo\\Fonte_jogo.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -4759,7 +4838,7 @@
       "effects": [],
       "behaviors": [],
       "content": {
-        "text": "x00",
+        "text": "x03",
         "opacity": 255,
         "scale": 1,
         "fontSize": 20,
@@ -6985,6 +7064,326 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "moeda",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Itens\\Gold Coin\\01.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 3
+                      },
+                      {
+                        "x": 14,
+                        "y": 3
+                      },
+                      {
+                        "x": 14,
+                        "y": 14
+                      },
+                      {
+                        "x": 3,
+                        "y": 14
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Itens\\Gold Coin\\02.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 3
+                      },
+                      {
+                        "x": 14,
+                        "y": 3
+                      },
+                      {
+                        "x": 14,
+                        "y": 14
+                      },
+                      {
+                        "x": 3,
+                        "y": 14
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Itens\\Gold Coin\\03.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 3
+                      },
+                      {
+                        "x": 14,
+                        "y": 3
+                      },
+                      {
+                        "x": 14,
+                        "y": 14
+                      },
+                      {
+                        "x": 3,
+                        "y": 14
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Itens\\Gold Coin\\04.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 3
+                      },
+                      {
+                        "x": 14,
+                        "y": 3
+                      },
+                      {
+                        "x": 14,
+                        "y": 14
+                      },
+                      {
+                        "x": 3,
+                        "y": 14
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "efeito_coleta_moeda",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Itens\\Coin Effect\\01.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 4,
+                        "y": 4
+                      },
+                      {
+                        "x": 13,
+                        "y": 4
+                      },
+                      {
+                        "x": 13,
+                        "y": 13
+                      },
+                      {
+                        "x": 4,
+                        "y": 13
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Itens\\Coin Effect\\02.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 4,
+                        "y": 4
+                      },
+                      {
+                        "x": 13,
+                        "y": 4
+                      },
+                      {
+                        "x": 13,
+                        "y": 13
+                      },
+                      {
+                        "x": 4,
+                        "y": 13
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Assets\\Itens\\Coin Effect\\03.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 4,
+                        "y": 4
+                      },
+                      {
+                        "x": 13,
+                        "y": 4
+                      },
+                      {
+                        "x": 13,
+                        "y": 13
+                      },
+                      {
+                        "x": 4,
+                        "y": 13
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "qtd_moedas",
+      "type": "BitmapText::BitmapTextObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "00",
+        "opacity": 255,
+        "scale": 1,
+        "fontSize": 20,
+        "tint": "255;255;255",
+        "bitmapFontResourceName": "Assets/Fonte/Fonte_jogo/Fonte_jogo.fnt",
+        "textureAtlasResourceName": "Assets/Fonte/Fonte_jogo/Fonte_jogo (cópia).png",
+        "align": "left",
+        "wordWrap": true,
+        "verticalTextAlignment": "top"
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -7054,6 +7453,9 @@
         "folderName": "FX",
         "children": [
           {
+            "objectName": "efeito_coleta_moeda"
+          },
+          {
             "objectName": "fx_pocao"
           },
           {
@@ -7079,6 +7481,9 @@
         "folderName": "ITENS",
         "children": [
           {
+            "objectName": "moeda"
+          },
+          {
             "objectName": "item_caveira"
           },
           {
@@ -7091,6 +7496,14 @@
       },
       {
         "objectName": "tilemap_ilha"
+      },
+      {
+        "folderName": "PONTOS",
+        "children": [
+          {
+            "objectName": "qtd_moedas"
+          }
+        ]
       },
       {
         "folderName": "controles mobile",
@@ -7189,6 +7602,11 @@
       "name": "mobile",
       "type": "boolean",
       "value": true
+    },
+    {
+      "name": "pontos",
+      "type": "number",
+      "value": 0
     }
   ],
   "layouts": [
@@ -8329,7 +8747,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 1.0528694989087495,
+        "zoomFactor": 1.0883726059433714,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -10126,6 +10544,168 @@
           "x": 0,
           "y": 0,
           "zOrder": 105,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "moeda",
+          "persistentUuid": "8a4ea12a-1906-49c6-b305-51c9f3fb7c5d",
+          "width": 0,
+          "x": 368,
+          "y": 112,
+          "zOrder": 108,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 22,
+          "keepRatio": true,
+          "layer": "HUD",
+          "name": "moeda",
+          "persistentUuid": "60f4a68a-56ca-46cd-acae-a0323a5fa381",
+          "width": 22,
+          "x": 309,
+          "y": 10,
+          "zOrder": 109,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "moeda",
+          "persistentUuid": "8d035b0c-9684-45e2-9031-06a1ae78f4bd",
+          "width": 0,
+          "x": 112,
+          "y": 144,
+          "zOrder": 116,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "moeda",
+          "persistentUuid": "cdb17f59-1cc3-4b68-8216-d1d2d22eaff7",
+          "width": 0,
+          "x": 160,
+          "y": 160,
+          "zOrder": 117,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "moeda",
+          "persistentUuid": "14563c05-b0b6-4565-a22c-ee097cc4e0b7",
+          "width": 0,
+          "x": 720,
+          "y": 112,
+          "zOrder": 118,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "moeda",
+          "persistentUuid": "3049064b-8749-4ad9-ad83-914e0e18b5bc",
+          "width": 0,
+          "x": 1296,
+          "y": 96,
+          "zOrder": 119,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "moeda",
+          "persistentUuid": "829cf496-c45b-4a6e-a108-2c5714ffd9fa",
+          "width": 0,
+          "x": 1600,
+          "y": 48,
+          "zOrder": 120,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "moeda",
+          "persistentUuid": "076f900b-0913-44a0-8394-dab01dd09468",
+          "width": 0,
+          "x": 1632,
+          "y": 80,
+          "zOrder": 121,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "moeda",
+          "persistentUuid": "efa2cc0c-2bb9-4bd7-9f5a-22c03f83f3d5",
+          "width": 0,
+          "x": 1696,
+          "y": 128,
+          "zOrder": 122,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 21,
+          "keepRatio": true,
+          "layer": "HUD",
+          "name": "qtd_moedas",
+          "persistentUuid": "ef5fc7c8-11f7-4e6c-8632-97cb40b9bb1c",
+          "width": 19,
+          "x": 333,
+          "y": 12,
+          "zOrder": 123,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -12980,7 +13560,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.2,
         "snap": true,
-        "zoomFactor": 1.0528694989087382,
+        "zoomFactor": 1.2846738680599672,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -13322,6 +13902,151 @@
           "x": 1174,
           "y": 86,
           "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "moeda",
+          "persistentUuid": "d5825cee-7913-40d2-bb19-5c61e4d89e17",
+          "width": 0,
+          "x": 256,
+          "y": 128,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "moeda",
+          "persistentUuid": "627dbbbd-8eb5-4881-b743-e1bbaffa6de9",
+          "width": 0,
+          "x": 576,
+          "y": 128,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "moeda",
+          "persistentUuid": "1a82559e-89b5-4ba4-9708-9336ada9aec1",
+          "width": 0,
+          "x": 736,
+          "y": 128,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "moeda",
+          "persistentUuid": "6cb7802d-a0cb-44b9-82f7-7f15b33f52ba",
+          "width": 0,
+          "x": 928,
+          "y": 96,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "moeda",
+          "persistentUuid": "200942ad-eea0-48db-b612-57317487e68e",
+          "width": 0,
+          "x": 1088,
+          "y": 64,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "item_pocao_simples",
+          "persistentUuid": "128ad36e-eb1d-41bd-b494-29752d466b58",
+          "width": 0,
+          "x": 1024,
+          "y": 192,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "moeda",
+          "persistentUuid": "83b9883b-fb71-464c-ab70-6dd735f97d1b",
+          "width": 0,
+          "x": 992,
+          "y": 128,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0.6875,
+          "height": 22,
+          "keepRatio": true,
+          "layer": "HUD",
+          "name": "moeda",
+          "persistentUuid": "636019e6-4bb8-4838-b6d0-4ef180e386d4",
+          "width": 22,
+          "x": 309,
+          "y": 10,
+          "zOrder": 109,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "HUD",
+          "name": "qtd_moedas",
+          "persistentUuid": "7df2f34c-e419-4194-87df-e7a756028526",
+          "width": 0,
+          "x": 333,
+          "y": 12,
+          "zOrder": 27,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -13815,7 +14540,7 @@
           "cameraType": "",
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
-          "isLocked": true,
+          "isLocked": false,
           "name": "HUD",
           "renderingType": "",
           "visibility": true,
@@ -13940,7 +14665,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.2,
         "snap": false,
-        "zoomFactor": 0.6618075820388595,
+        "zoomFactor": 1.0185245160332854,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -14118,8 +14843,8 @@
           "name": "luz_rosa",
           "persistentUuid": "34e50f68-95b0-496c-b2f0-1161153833b8",
           "width": 0,
-          "x": 373,
-          "y": -61,
+          "x": -171,
+          "y": -3,
           "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
@@ -14686,6 +15411,200 @@
           "x": 2145,
           "y": 142,
           "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 22,
+          "keepRatio": true,
+          "layer": "HUD",
+          "name": "qtd_moedas",
+          "persistentUuid": "6ae42035-e837-4881-816f-f3fb5c8125f3",
+          "width": 22,
+          "x": 333,
+          "y": 12,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1.222222222222222,
+          "height": 22,
+          "keepRatio": true,
+          "layer": "HUD",
+          "name": "moeda",
+          "persistentUuid": "f81563a1-adbf-4177-a44d-7b503ea77bf9",
+          "width": 22,
+          "x": 309,
+          "y": 10,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "moeda",
+          "persistentUuid": "1f104c62-6c72-4edf-a9ae-a7bad298eeba",
+          "width": 0,
+          "x": 517,
+          "y": 94,
+          "zOrder": 55,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "moeda",
+          "persistentUuid": "51da09ad-a301-4202-9aaf-7b8cd79d7100",
+          "width": 0,
+          "x": 571,
+          "y": 103,
+          "zOrder": 56,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "moeda",
+          "persistentUuid": "fba9bec2-01ef-41fb-888d-54f62c97baad",
+          "width": 0,
+          "x": 794,
+          "y": 91,
+          "zOrder": 57,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "moeda",
+          "persistentUuid": "bad61712-2c24-4ef1-b1ee-a173d1379a43",
+          "width": 0,
+          "x": 937,
+          "y": 96,
+          "zOrder": 58,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "armadilha_espinhos",
+          "persistentUuid": "d5f9b446-e6fd-4404-b21c-2ddefcac0e41",
+          "width": 0,
+          "x": 946,
+          "y": 127,
+          "zOrder": 59,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "armadilha_espinhos",
+          "persistentUuid": "cd35d40f-11c0-4542-bac4-b233f1c40fc2",
+          "width": 0,
+          "x": 263,
+          "y": 165,
+          "zOrder": 60,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "moeda",
+          "persistentUuid": "5de03f95-fb96-473e-883f-a098b69f933c",
+          "width": 0,
+          "x": 239,
+          "y": 116,
+          "zOrder": 61,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "moeda",
+          "persistentUuid": "03de7f6c-1335-424e-be52-04edf40e6d34",
+          "width": 0,
+          "x": 307,
+          "y": 108,
+          "zOrder": 62,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "inimigo_1",
+          "persistentUuid": "4d0245ac-ed3c-4b92-8ef0-a0f907031ab7",
+          "width": 0,
+          "x": 684,
+          "y": 159,
+          "zOrder": 63,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "inimigo_2",
+          "persistentUuid": "02bc966b-cf66-45d4-b9b7-10db3a3cfe02",
+          "width": 0,
+          "x": 159,
+          "y": 164,
+          "zOrder": 64,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -16977,6 +17896,17 @@
           "effects": [],
           "behaviors": [],
           "animations": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite3",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": []
         }
       ],
       "objectsFolderStructure": {
@@ -17029,6 +17959,9 @@
           },
           {
             "objectName": "NewSprite2"
+          },
+          {
+            "objectName": "NewSprite3"
           }
         ]
       },
@@ -17766,7 +18699,7 @@
           "cameraType": "",
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
-          "isLocked": true,
+          "isLocked": false,
           "name": "HUD",
           "renderingType": "",
           "visibility": true,
@@ -19504,7 +20437,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "DANO NO PERSONAGEM",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -20065,7 +20997,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "HUD",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -20253,7 +21184,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "MORTE DO PERSONAGEM",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -20267,7 +21197,7 @@
                   },
                   "parameters": [
                     "hp",
-                    "<=",
+                    "=",
                     "0"
                   ]
                 },
@@ -20345,6 +21275,57 @@
                   },
                   "parameters": [
                     "hp",
+                    "=",
+                    "3"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "vidas",
+                    "<=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Fase 1\"",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "vidas",
                     "=",
                     "3"
                   ]
@@ -20609,6 +21590,147 @@
                     "item_caveira.X()",
                     "item_caveira.Y()",
                     ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "moedas"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "qtd_moedas",
+                    "Text",
+                    "=",
+                    "pontos"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "persoangem",
+                    "moeda",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "pontos",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "moeda",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "efeito_coleta_moeda",
+                    "moeda.X()",
+                    "moeda.Y()",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "pontos",
+                    "<",
+                    "10"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "qtd_moedas",
+                    "Text",
+                    "=",
+                    "\"0\" + pontos"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "pontos",
+                    ">=",
+                    "10"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "qtd_moedas",
+                    "Text",
+                    "=",
+                    "pontos"
                   ]
                 }
               ]
@@ -21000,6 +22122,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "CONTROLES MOBILE",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
