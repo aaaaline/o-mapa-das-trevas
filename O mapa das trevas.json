@@ -2360,6 +2360,182 @@
         "name": "Assets\\Fonte\\Fonte_jogo\\Fonte_jogo.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/33069.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\33069.jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/33071.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\33071.jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/20250617_1110_Baú de Tesouro Pixelado_simple_compose_01jxz3hpkge94b8m6yp5htxy83.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\20250617_1110_Baú de Tesouro Pixelado_simple_compose_01jxz3hpkge94b8m6yp5htxy83.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/ChatGPT Image 17 de jun. de 2025, 12_31_32.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\ChatGPT Image 17 de jun. de 2025, 12_31_32.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/ChatGPT Image 17 de jun. de 2025, 12_35_28.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\ChatGPT Image 17 de jun. de 2025, 12_35_28.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/ChatGPT Image 17 de jun. de 2025, 12_36_09.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\ChatGPT Image 17 de jun. de 2025, 12_36_09.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/20250617_1150_Baú com Cadeado Aberto_simple_compose_01jxz5tjxaewcad7c2jtt169fr.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\20250617_1150_Baú com Cadeado Aberto_simple_compose_01jxz5tjxaewcad7c2jtt169fr.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/20250617_1155_Baú em Pixel Art_simple_compose_01jxz62xkae1rsfsz8kx87xmj2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\20250617_1155_Baú em Pixel Art_simple_compose_01jxz62xkae1rsfsz8kx87xmj2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/20250617_1210_Baú em Pixel Art_simple_compose_01jxz6z0qqfypvpaxevf599rm9 (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\20250617_1210_Baú em Pixel Art_simple_compose_01jxz6z0qqfypvpaxevf599rm9 (1).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/20250617_1210_Baú em Pixel Art_simple_compose_01jxz6z0qqfypvpaxevf599rm9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\20250617_1210_Baú em Pixel Art_simple_compose_01jxz6z0qqfypvpaxevf599rm9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/20250617_1233_Baú de Tesouro Aberto_simple_compose_01jxz886djet2at4gkqcfpxhfv.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\20250617_1233_Baú de Tesouro Aberto_simple_compose_01jxz886djet2at4gkqcfpxhfv.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/20250617_1213_Baú Com Cadeado_simple_compose_01jxz756h6f4gagxqyjy5z20ja.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\20250617_1213_Baú Com Cadeado_simple_compose_01jxz756h6f4gagxqyjy5z20ja.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/ChatGPT Image 17 de jun. de 2025, 13_04_25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\ChatGPT Image 17 de jun. de 2025, 13_04_25.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/ChatGPT Image 17 de jun. de 2025, 13_04_20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\ChatGPT Image 17 de jun. de 2025, 13_04_20.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/ChatGPT Image 17 de jun. de 2025, 13_04_38.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\ChatGPT Image 17 de jun. de 2025, 13_04_38.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/ChatGPT Image 17 de jun. de 2025, 13_10_03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\ChatGPT Image 17 de jun. de 2025, 13_10_03.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/ChatGPT Image 17 de jun. de 2025, 13_11_27.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\ChatGPT Image 17 de jun. de 2025, 13_11_27.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/ChatGPT Image 17 de jun. de 2025, 13_12_20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\ChatGPT Image 17 de jun. de 2025, 13_12_20.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/ChatGPT Image 17 de jun. de 2025, 13_14_41.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\ChatGPT Image 17 de jun. de 2025, 13_14_41.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/ChatGPT Image 17 de jun. de 2025, 13_16_25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\ChatGPT Image 17 de jun. de 2025, 13_16_25.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/ChatGPT Image 17 de jun. de 2025, 13_17_50.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\ChatGPT Image 17 de jun. de 2025, 13_17_50.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Assets/navio/Merchant Ship/Sprites/Chest/Unlocked/20250617_1230_Baú em Pixel Art_simple_compose_01jxz8407mfavtbxqeqemb2kpf.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\20250617_1230_Baú em Pixel Art_simple_compose_01jxz8407mfavtbxqeqemb2kpf.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -14665,7 +14841,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.2,
         "snap": true,
-        "zoomFactor": 2.257588941391899,
+        "zoomFactor": 1.6203703703703867,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -14777,7 +14953,7 @@
           "name": "Passar_fase",
           "persistentUuid": "a5267e50-2375-4fb5-82a9-8fc19ddc86b2",
           "width": 0,
-          "x": 2283,
+          "x": 2241,
           "y": 109,
           "zOrder": 10,
           "numberProperties": [],
@@ -14877,26 +15053,9 @@
           "name": "chave",
           "persistentUuid": "0ab398f2-36e4-429d-9c01-374fd51ab8cf",
           "width": 44,
-          "x": 1967,
-          "y": 81,
+          "x": 1969,
+          "y": 69,
           "zOrder": 26,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 66,
-          "keepRatio": true,
-          "layer": "",
-          "name": "baú",
-          "persistentUuid": "a011937c-f26e-48c7-8033-3ff1ea7440fb",
-          "width": 74,
-          "x": 2048,
-          "y": 101,
-          "zOrder": 27,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -14962,8 +15121,8 @@
           "name": "agua_mexendo",
           "persistentUuid": "639dfc06-4c45-4a4e-b4e4-c15d52ddbcfa",
           "width": 96,
-          "x": 2062,
-          "y": 265,
+          "x": 2090,
+          "y": 260,
           "zOrder": 31,
           "numberProperties": [],
           "stringProperties": [],
@@ -15184,22 +15343,6 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "trigger_esquerda",
-          "persistentUuid": "28c6525d-55e8-49dd-8157-80bffae81f56",
-          "width": 0,
-          "x": 176,
-          "y": 166,
-          "zOrder": 42,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": true,
           "depth": 1,
           "height": 198,
@@ -15392,7 +15535,7 @@
           "name": "bloco_azul",
           "persistentUuid": "fba105c1-cf64-45b3-871a-d68d52ba2bc4",
           "width": 701,
-          "x": 2145,
+          "x": 2113,
           "y": 142,
           "zOrder": 51,
           "numberProperties": [],
@@ -15567,22 +15710,6 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "inimigo_1",
-          "persistentUuid": "4d0245ac-ed3c-4b92-8ef0-a0f907031ab7",
-          "width": 0,
-          "x": 684,
-          "y": 160,
-          "zOrder": 63,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
           "name": "inimigo_2",
           "persistentUuid": "02bc966b-cf66-45d4-b9b7-10db3a3cfe02",
           "width": 0,
@@ -15599,27 +15726,11 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "trigger_esquerda",
-          "persistentUuid": "78b077af-f8a0-483b-ad09-6db6d657f39a",
-          "width": 0,
-          "x": 468,
-          "y": 157,
-          "zOrder": 65,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
           "name": "trigger_direita",
           "persistentUuid": "44d3eabb-8b98-4509-af88-175e1b8b1051",
           "width": 0,
-          "x": 832,
-          "y": 160,
+          "x": 112,
+          "y": 166,
           "zOrder": 66,
           "numberProperties": [],
           "stringProperties": [],
@@ -15631,12 +15742,62 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "trigger_direita",
-          "persistentUuid": "75c94174-264d-478b-8028-9b2a777334d3",
+          "name": "trigger_esquerda",
+          "persistentUuid": "1b99809b-477d-411f-8973-2bbfc8cc9fc1",
           "width": 0,
-          "x": 368,
+          "x": 384,
           "y": 165,
-          "zOrder": 67,
+          "zOrder": 65,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "baú",
+          "persistentUuid": "293cdada-0889-4bda-928c-550bb731bc4b",
+          "width": 64,
+          "x": 2028,
+          "y": 64,
+          "zOrder": 69,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "vento",
+          "persistentUuid": "fafe5fa2-a039-4d06-910b-781bcbf6f015",
+          "width": 0,
+          "x": 2080,
+          "y": 92,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 300,
+          "keepRatio": true,
+          "layer": "Luz",
+          "name": "luz_azul",
+          "persistentUuid": "f829d8a9-d331-46e8-9e9d-9d6d9a50fc54",
+          "width": 278,
+          "x": 2048,
+          "y": 10,
+          "zOrder": 71,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -17533,7 +17694,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "bau_fechado",
+              "name": "báu_fechado",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -17542,12 +17703,12 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Idle\\1.png",
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\ChatGPT Image 17 de jun. de 2025, 13_04_25.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 15,
-                        "y": 11.5
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -17558,20 +17719,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 1,
-                            "y": 8
+                            "x": 193,
+                            "y": 270
                           },
                           {
-                            "x": 31,
-                            "y": 8
+                            "x": 874,
+                            "y": 270
                           },
                           {
-                            "x": 31,
-                            "y": 32
+                            "x": 874,
+                            "y": 797
                           },
                           {
-                            "x": 1,
-                            "y": 32
+                            "x": 193,
+                            "y": 797
                           }
                         ]
                       ]
@@ -17586,16 +17747,16 @@
               "directions": [
                 {
                   "looping": true,
-                  "timeBetweenFrames": 0.2,
+                  "timeBetweenFrames": 0.1,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Padlock\\1.png",
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\20250617_1230_Baú em Pixel Art_simple_compose_01jxz8407mfavtbxqeqemb2kpf.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 15,
-                        "y": 11.5
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -17606,32 +17767,32 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 1,
-                            "y": 8
+                            "x": 193,
+                            "y": 270
                           },
                           {
-                            "x": 31,
-                            "y": 8
+                            "x": 874,
+                            "y": 270
                           },
                           {
-                            "x": 31,
-                            "y": 32
+                            "x": 874,
+                            "y": 797
                           },
                           {
-                            "x": 1,
-                            "y": 32
+                            "x": 193,
+                            "y": 797
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\1.png",
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\20250617_1230_Baú em Pixel Art_simple_compose_01jxz8407mfavtbxqeqemb2kpf.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 15,
-                        "y": 11.5
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -17642,32 +17803,32 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 1,
-                            "y": 8
+                            "x": 193,
+                            "y": 270
                           },
                           {
-                            "x": 31,
-                            "y": 8
+                            "x": 874,
+                            "y": 270
                           },
                           {
-                            "x": 31,
-                            "y": 32
+                            "x": 874,
+                            "y": 797
                           },
                           {
-                            "x": 1,
-                            "y": 32
+                            "x": 193,
+                            "y": 797
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\2.png",
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\20250617_1230_Baú em Pixel Art_simple_compose_01jxz8407mfavtbxqeqemb2kpf.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 15,
-                        "y": 11.5
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -17678,32 +17839,32 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 1,
-                            "y": 8
+                            "x": 193,
+                            "y": 270
                           },
                           {
-                            "x": 31,
-                            "y": 8
+                            "x": 874,
+                            "y": 270
                           },
                           {
-                            "x": 31,
-                            "y": 32
+                            "x": 874,
+                            "y": 797
                           },
                           {
-                            "x": 1,
-                            "y": 32
+                            "x": 193,
+                            "y": 797
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\3.png",
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\20250617_1233_Baú de Tesouro Aberto_simple_compose_01jxz886djet2at4gkqcfpxhfv.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 15,
-                        "y": 11.5
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -17714,32 +17875,32 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 1,
-                            "y": 8
+                            "x": 193,
+                            "y": 270
                           },
                           {
-                            "x": 31,
-                            "y": 8
+                            "x": 874,
+                            "y": 270
                           },
                           {
-                            "x": 31,
-                            "y": 32
+                            "x": 874,
+                            "y": 797
                           },
                           {
-                            "x": 1,
-                            "y": 32
+                            "x": 193,
+                            "y": 797
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\4.png",
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\20250617_1233_Baú de Tesouro Aberto_simple_compose_01jxz886djet2at4gkqcfpxhfv.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 15,
-                        "y": 11.5
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -17750,32 +17911,32 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 1,
-                            "y": 8
+                            "x": 193,
+                            "y": 270
                           },
                           {
-                            "x": 31,
-                            "y": 8
+                            "x": 874,
+                            "y": 270
                           },
                           {
-                            "x": 31,
-                            "y": 32
+                            "x": 874,
+                            "y": 797
                           },
                           {
-                            "x": 1,
-                            "y": 32
+                            "x": 193,
+                            "y": 797
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\5.png",
+                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\20250617_1233_Baú de Tesouro Aberto_simple_compose_01jxz886djet2at4gkqcfpxhfv.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 15,
-                        "y": 11.5
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -17786,128 +17947,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 1,
-                            "y": 8
+                            "x": 193,
+                            "y": 270
                           },
                           {
-                            "x": 31,
-                            "y": 8
+                            "x": 874,
+                            "y": 270
                           },
                           {
-                            "x": 31,
-                            "y": 32
+                            "x": 874,
+                            "y": 797
                           },
                           {
-                            "x": 1,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\6.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 15,
-                        "y": 11.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 1,
-                            "y": 8
-                          },
-                          {
-                            "x": 31,
-                            "y": 8
-                          },
-                          {
-                            "x": 31,
-                            "y": 32
-                          },
-                          {
-                            "x": 1,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\7.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 15,
-                        "y": 11.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 1,
-                            "y": 8
-                          },
-                          {
-                            "x": 31,
-                            "y": 8
-                          },
-                          {
-                            "x": 31,
-                            "y": 32
-                          },
-                          {
-                            "x": 1,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Assets\\navio\\Merchant Ship\\Sprites\\Chest\\Unlocked\\8.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 15,
-                        "y": 11.5
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 1,
-                            "y": 8
-                          },
-                          {
-                            "x": 31,
-                            "y": 8
-                          },
-                          {
-                            "x": 31,
-                            "y": 32
-                          },
-                          {
-                            "x": 1,
-                            "y": 32
+                            "x": 193,
+                            "y": 797
                           }
                         ]
                       ]
