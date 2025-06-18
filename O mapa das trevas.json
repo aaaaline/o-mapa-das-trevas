@@ -21436,6 +21436,16 @@
                     "=",
                     "3"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "pontos",
+                    "=",
+                    "0"
+                  ]
                 }
               ]
             },
